@@ -1,0 +1,47 @@
+n,id,kind,scored_as,key_from,key_contracts,aerospark_score,aerospark_found,aerospark_wrong,aerospark_found_with_possibles,aerospark_wrong_with_possibles,aerospark_count_given,aerospark_seconds,aerospark_note,claude_score,claude_found,claude_wrong,claude_found_with_possibles,claude_wrong_with_possibles,claude_count_given,claude_seconds,claude_note,chatgpt_score,chatgpt_found,chatgpt_wrong,chatgpt_found_with_possibles,chatgpt_wrong_with_possibles,chatgpt_count_given,chatgpt_seconds,chatgpt_note
+1,set-revenue-profit-sharing,Find every contract with a clause,files,CUAD,33,0.9394,31,2,31,2,,22.3,,0.8182,27,1,32,8,,279.0,,0.7879,26,2,26,2,,559.0,
+2,set-rofr-rofo-rofn,Find every contract with a clause,files,CUAD,13,0.6923,9,1,9,1,,14.6,,0.7692,10,0,10,4,,514.0,,0.5385,7,0,7,0,,486.7,
+3,set-irrevocable-or-perpetual-license,Find every contract with a clause,files,CUAD,17,1.0,17,1,17,1,,16.5,,0.9412,16,1,16,1,,294.0,,0.9412,16,1,16,1,,485.9,
+4,set-joint-ip-ownership,Find every contract with a clause,files,CUAD,11,0.5455,6,0,8,1,,12.9,,0.6364,7,0,8,1,,576.0,,0.5455,6,0,7,0,,326.5,
+5,set-no-solicit-of-employees,Find every contract with a clause,files,CUAD,13,0.9231,12,0,13,0,,13.2,,0.9231,12,0,12,1,,324.0,,0.8462,11,0,12,0,,430.0,
+6,rare-unlimited-all-you-can-eat-license,Find every contract with a clause,files,CUAD,5,0.6,3,0,3,0,,10.8,,0.6,3,0,3,2,,520.0,,0.6,3,1,3,1,,404.0,
+7,count-texas,Counts,count,CUAD,7,1.0,7,0,7,0,7,9.7,,1.0,7,0,7,0,7,161.0,,1.0,7,0,7,0,7,336.0,
+8,count-illinois,Counts,count,CUAD,3,1.0,3,0,3,0,3,6.1,,1.0,3,0,3,0,3,97.0,,1.0,3,0,3,0,3,121.6,
+9,count-england,Counts,count,CUAD,4,1.0,4,0,4,0,4,5.5,,1.0,4,0,4,0,4,463.0,,1.0,4,0,4,0,4,355.0,
+10,count-canada,Counts,count,CUAD,4,1.0,4,0,4,0,4,7.8,,1.0,4,0,4,0,4,205.0,,1.0,4,0,4,0,4,357.1,
+11,count-rofr,Counts,count,CUAD,13,0.0,9,1,9,1,10,13.4,,0.0,10,1,11,10,11,441.0,,0.0,7,0,7,0,7,529.8,
+12,look-law-1,One fact about one named contract,value,CUAD,,1.0,,,,,,5.9,graded by reading: right,1.0,,,,,,13.0,graded by reading: right,1.0,,,,,,30.0,graded by reading: right
+13,look-law-2,One fact about one named contract,value,CUAD,,1.0,,,,,,6.4,graded by reading: right,1.0,,,,,,13.0,graded by reading: right,1.0,,,,,,42.0,graded by reading: right
+14,look-signed-1,One fact about one named contract,value,CUAD,,1.0,,,,,,5.0,graded by reading: right,1.0,,,,,,11.0,graded by reading: right,1.0,,,,,,31.0,graded by reading: right
+15,look-ends-1,One fact about one named contract,value,CUAD,,1.0,,,,,,4.3,graded by reading: right,1.0,,,,,,12.0,graded by reading: right,1.0,,,,,,33.0,graded by reading: right
+16,look-ends-2,One fact about one named contract,value,CUAD,,1.0,,,,,,7.0,graded by reading: right,1.0,,,,,,15.0,graded by reading: right,1.0,,,,,,75.0,graded by reading: right
+17,look-party-1,One fact about one named contract,value,CUAD,,1.0,,,,,,5.5,graded by reading: right,1.0,,,,,,9.0,graded by reading: right,1.0,,,,,,25.3,graded by reading: right
+18,look-party-2,One fact about one named contract,value,CUAD,,1.0,,,,,,5.2,graded by reading: right,1.0,,,,,,9.0,graded by reading: right,1.0,,,,,,22.0,graded by reading: right
+19,look-renewal-1,One fact about one named contract,value,CUAD,,1.0,,,,,,6.3,graded by reading: right,1.0,,,,,,14.0,graded by reading: right,1.0,,,,,,42.0,graded by reading: right
+20,look-notice-1,One fact about one named contract,value,CUAD,,1.0,,,,,,6.1,graded by reading: right,1.0,,,,,,13.0,graded by reading: right,1.0,,,,,,32.0,graded by reading: right
+21,super-shortest-notice,"The most recent, the shortest notice",files,CUAD,3,1.0,3,1,3,1,,0.0,,0.6667,2,0,2,0,,591.0,,0.6667,2,0,2,0,,731.1,
+22,super-latest,"The most recent, the shortest notice",files,CUAD,1,1.0,1,1,1,1,,0.0,,1.0,1,1,1,1,,67.0,,1.0,1,0,1,0,,153.6,
+23,date-signed-2008-2012,Dates against a stated day,files,CUAD,9,0.8889,8,0,8,0,,0.0,,0.7778,7,0,8,0,,257.0,,0.8889,8,0,9,0,,503.0,
+24,date-signed-pre2001,Dates against a stated day,files,CUAD,14,1.0,14,0,14,0,,0.0,,1.0,14,0,14,0,,422.0,,1.0,14,0,14,0,,428.0,
+25,date-ending-asof-2020,Dates against a stated day,files,CUAD,5,1.0,5,0,5,0,,0.0,,0.8,4,0,5,0,,463.0,,0.8,4,0,5,0,,664.0,
+26,date-no-end,Dates against a stated day,files,CUAD,14,0.7857,11,0,11,0,,11.4,,0.5714,8,0,10,0,,470.0,,0.5,7,0,9,11,,1074.0,
+27,date-asof-notice,Dates against a stated day,files,CUAD,3,1.0,3,2,3,2,,17.3,,1.0,3,0,3,1,,673.0,,0.6667,2,0,2,0,,452.3,
+28,date-in-force-today,Dates against a stated day,files,CUAD,28,1.0,28,4,28,4,,0.0,,0.8214,23,0,26,0,,586.0,,0.6786,19,0,23,1,,634.0,
+29,both-post2010-nosolicit,Two or three conditions at once,files,CUAD,9,1.0,9,0,9,0,,19.7,,0.8889,8,0,8,0,,306.0,,0.8889,8,0,8,0,,511.2,
+30,or-nosolicit-rofr,"By party, by type, notice period, either of two clauses",files,CUAD,25,0.76,19,1,21,1,,20.8,,0.8,20,0,22,5,,634.0,,0.68,17,0,18,0,,880.6,
+31,party,"By party, by type, notice period, either of two clauses",files,CUAD,2,1.0,2,0,2,0,,11.5,,1.0,2,0,2,0,,25.0,,1.0,2,0,2,0,,112.0,
+32,type-hosting,"By party, by type, notice period, either of two clauses",files,CUAD,4,1.0,4,0,4,0,,19.9,,1.0,4,0,4,1,,34.0,,1.0,4,0,4,0,,124.0,
+33,threshold-notice60,"By party, by type, notice period, either of two clauses",files,CUAD,9,0.7778,7,0,8,0,,8.5,,0.5556,5,0,8,1,,341.0,,0.6667,6,0,8,1,,1082.1,
+34,absent-1,A contract that is not in the folder,absent,CUAD,,1.0,,,,,,6.9,graded by reading: right; said none of the contracts is that agreement,1.0,,,,,,72.0,graded by reading: right; said it could not find the agreement and gave no date,1.0,,,,,,326.0,graded by reading: right; said it could not verify the agreement and gave no date
+35,absent-2,A contract that is not in the folder,absent,CUAD,,1.0,,,,,,5.9,graded by reading: right; said the contracts include no such agreement,1.0,,,,,,333.0,graded by reading: right,1.0,,,,,,243.0,graded by reading: right
+36,set-noncompete-or-exclusivity,Find every contract with a clause,files,CUAD,39,0.8718,34,7,38,8,,31.5,,0.9744,38,9,38,9,,486.0,,0.8974,35,0,35,4,,427.4,
+37,set-law-outside-us,Find every contract with a clause,files,CUAD,15,1.0,15,0,15,0,,11.9,,1.0,15,0,15,5,,466.0,,1.0,15,0,15,0,,403.2,
+38,set-auto-renewal,Find every contract with a clause,files,CUAD,28,0.6429,18,0,18,0,,0.0,,0.5357,15,0,15,0,,434.0,,0.6071,17,0,17,0,,619.3,
+39,set-arbitration,Find every contract with a clause,files,ours,21,0.9048,19,0,21,1,,20.0,,0.9524,20,0,21,1,,374.0,,0.9524,20,0,20,0,,311.8,
+40,set-confidentiality,Find every contract with a clause,files,ours,64,0.9688,62,2,63,2,,31.0,,0.9688,62,0,64,3,,547.0,,0.9688,62,0,64,3,,543.4,
+41,set-agreement-confidential,Find every contract with a clause,files,ours,33,0.9697,32,1,33,1,,21.3,,0.9394,31,0,33,14,,450.0,,0.8485,28,0,28,0,,577.4,
+42,set-indemnification,Find every contract with a clause,files,ours,70,0.9857,69,0,70,2,,33.8,,0.9857,69,0,69,0,,615.0,,0.9571,67,1,68,3,,310.0,
+43,set-cap-on-liability,Find every contract with a clause,files,CUAD,54,0.5,27,1,28,1,,19.6,,0.4259,23,0,27,3,,566.0,,0.3704,20,0,20,0,,537.9,
+44,both-texas-confidentiality,Two or three conditions at once,files,CUAD + ours,4,1.0,4,0,4,0,,27.3,,1.0,4,0,4,0,,171.0,,1.0,4,0,4,0,,195.4,
+45,both-autorenew-warranty,Two or three conditions at once,files,CUAD + ours,26,0.5385,14,0,16,0,,35.0,,0.2692,7,0,11,0,,590.0,,0.4615,12,0,12,0,,289.3,
+46,both-nosolicit-agreement-confidential,Two or three conditions at once,files,CUAD + ours,4,1.0,4,0,4,0,,19.3,,0.75,3,0,4,0,,476.0,,0.75,3,0,4,0,,278.1,

@@ -1,0 +1,68 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "contracts"
+ ],
+ "properties": {
+  "contracts": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "contract",
+     "items"
+    ],
+    "properties": {
+     "contract": {
+      "type": "string"
+     },
+     "items": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "additionalProperties": false,
+       "required": [
+        "id",
+        "answer",
+        "quote",
+        "section",
+        "reason"
+       ],
+       "properties": {
+        "id": {
+         "type": "string",
+         "enum": [
+          "arbitration",
+          "confidentiality",
+          "agreement_confidential",
+          "indemnification",
+          "warranties",
+          "auto_renewal"
+         ]
+        },
+        "answer": {
+         "type": "string",
+         "enum": [
+          "yes",
+          "no"
+         ]
+        },
+        "quote": {
+         "type": "string"
+        },
+        "section": {
+         "type": "string"
+        },
+        "reason": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

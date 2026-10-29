@@ -1,0 +1,35 @@
+{
+ "about": "The six items read for the questions about clauses CUAD does not label: plain-words meanings, written before any reading. A reader saw only these and the contract text. The auto-renewal item was read too, but no question uses it: the auto-renewal questions use CUAD's Renewal Term labels.",
+ "items": [
+  {
+   "id": "arbitration",
+   "ask": "Does the contract require all or most disputes between the parties to be settled by binding arbitration?",
+   "definition": "The contract requires all or most disputes between the parties to be settled by binding arbitration, not in court. It still counts if it carves out injunctions, IP claims or small claims. It does not count if arbitration happens only by later agreement, covers only a narrow issue (a price or accounting dispute, an expert's decision), or the clause requires only mediation or negotiation."
+  },
+  {
+   "id": "confidentiality",
+   "ask": "Does the contract contain a confidentiality provision?",
+   "definition": "A party must keep the other's confidential or proprietary information secret or not misuse it, whether mutual or one-way, in the body or a schedule. A clause that keeps only the contract's own terms secret counts too. A clause only about personal data does not count."
+  },
+  {
+   "id": "agreement_confidential",
+   "ask": "Does the contract treat the agreement itself, or its terms, as confidential?",
+   "definition": "The contract says the agreement itself, or its terms (for example its prices), are confidential or are confidential information. Protecting only the information the parties exchange does not count, and neither does a rule only about press releases or publicity."
+  },
+  {
+   "id": "indemnification",
+   "ask": "Does the contract contain an indemnification provision?",
+   "definition": "A party must indemnify, defend or hold harmless the other, or its affiliates, officers or customers, against claims, losses or liabilities of any kind stemming from a particular act. A promise only to pay damages for its own breach, or a duty only to carry insurance, does not count. The indemnification may cover all causes or only specific causes."
+  },
+  {
+   "id": "warranties",
+   "ask": "Does the contract contain a warranty?",
+   "definition": "A party warrants or represents something about its products, services, work, authority or compliance, whether or not a duration is stated. An \"as is\" disclaimer with no warranty given does not count."
+  },
+  {
+   "id": "auto_renewal",
+   "ask": "Does the contract renew automatically at the end of a term unless a party stops it?",
+   "definition": "The contract renews at the end of a term unless a party stops it. A renewal only by agreement or by a party's option does not count."
+  }
+ ]
+}

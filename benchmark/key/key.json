@@ -1,0 +1,1381 @@
+{
+ "name": "The Contract Folder Test: answer key",
+ "version": "46 questions: CUAD's labels as CUAD publishes them, and our own labels where CUAD has none",
+ "contracts": 99,
+ "terms_settled_from_text": {
+  "about": "The date questions are worked out from CUAD's date and renewal labels. For these six contracts the contract's own text departs from CUAD's renewal labels, and the term is taken from the text.",
+  "contracts": [
+   {
+    "file": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+    "term": "until-ended",
+    "from_the_text": "s.16.1: after the 3-year initial term it continues for an indefinite period until terminated, not renewal terms"
+   },
+   {
+    "file": "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+    "term": "expired",
+    "ends": "2015-11-30",
+    "from_the_text": "s.2.1: renews once, for twelve months, and then expires"
+   },
+   {
+    "file": "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+    "term": "until-ended",
+    "from_the_text": "s.8.1: in effect until either party ends it on 30 days' notice, no renewal"
+   },
+   {
+    "file": "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+    "term": "until-ended",
+    "from_the_text": "s.2.1: fifteen contract years, then until either party ends it on 30 days' notice"
+   },
+   {
+    "file": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+    "term": "form",
+    "from_the_text": "a form of agreement \"dated as of [●]\", filed in 2020"
+   },
+   {
+    "file": "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+    "term": "long",
+    "ends": "2043",
+    "from_the_text": "s.3: thirty years from a 2014 effective date, then year to year on 60 days' notice"
+   }
+  ]
+ },
+ "questions": [
+  {
+   "n": 1,
+   "id": "set-revenue-profit-sharing",
+   "text": "Which of these contracts contain a revenue or profit sharing provision?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels (Revenue/Profit Sharing)",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.PDF",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf",
+     "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.pdf",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+     "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+     "TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.PDF",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf"
+    ],
+    "column": "Revenue/Profit Sharing-Answer"
+   }
+  },
+  {
+   "n": 2,
+   "id": "set-rofr-rofo-rofn",
+   "text": "Which of these contracts contain a right of first refusal, offer or negotiation?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels (Rofr/Rofo/Rofn)",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf"
+    ],
+    "column": "Rofr/Rofo/Rofn-Answer"
+   }
+  },
+  {
+   "n": 3,
+   "id": "set-irrevocable-or-perpetual-license",
+   "text": "Which of these contracts contain an irrevocable or perpetual license?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels (Irrevocable Or Perpetual License)",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF"
+    ],
+    "column": "Irrevocable Or Perpetual License-Answer"
+   }
+  },
+  {
+   "n": 4,
+   "id": "set-joint-ip-ownership",
+   "text": "Which of these contracts contain a joint IP ownership provision?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels (Joint Ip Ownership)",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf"
+    ],
+    "column": "Joint Ip Ownership-Answer"
+   }
+  },
+  {
+   "n": 5,
+   "id": "set-no-solicit-of-employees",
+   "text": "Which of these contracts contain a no-solicit of employees provision?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels (No-Solicit Of Employees)",
+   "truth": {
+    "type": "files",
+    "files": [
+     "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.pdf",
+     "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf"
+    ],
+    "column": "No-Solicit Of Employees-Answer"
+   }
+  },
+  {
+   "n": 6,
+   "id": "rare-unlimited-all-you-can-eat-license",
+   "text": "Which of these contracts contain an unlimited-usage license?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels (Unlimited/All-You-Can-Eat-License)",
+   "truth": {
+    "type": "files",
+    "files": [
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf"
+    ],
+    "column": "Unlimited/All-You-Can-Eat-License-Answer"
+   }
+  },
+  {
+   "n": 7,
+   "id": "count-texas",
+   "text": "How many of these contracts are governed by the laws of Texas? Give the number and list them.",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.PDF",
+     "PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement.pdf",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF"
+    ],
+    "count": true
+   }
+  },
+  {
+   "n": 8,
+   "id": "count-illinois",
+   "text": "How many of these contracts are governed by the laws of Illinois? Give the number and list them.",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf"
+    ],
+    "count": true
+   }
+  },
+  {
+   "n": 9,
+   "id": "count-england",
+   "text": "How many of these contracts are governed by the laws of England? Give the number and list them.",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF"
+    ],
+    "count": true
+   }
+  },
+  {
+   "n": 10,
+   "id": "count-canada",
+   "text": "How many of these contracts are governed by the laws of Canada? Give the number and list them.",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF"
+    ],
+    "count": true
+   }
+  },
+  {
+   "n": 11,
+   "id": "count-rofr",
+   "text": "How many of these contracts give a party a right of first refusal, offer or negotiation?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf"
+    ],
+    "count": true
+   }
+  },
+  {
+   "n": 12,
+   "id": "look-law-1",
+   "text": "What law governs the Yield Maintenance Agreement between Wells Fargo Bank on behalf of Wells Fargo Mortgage Backed Securities 2006-6 Trust and UBS AG?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "New York",
+    "file": "WELLSFARGOMORTGAGEBACKEDSECURITIES2006-6TRUST_05_11_2006-EX-10.3-Yield Maintenance Agreement.PDF",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 13,
+   "id": "look-law-2",
+   "text": "What law governs the Cooperation Agreement between Otkritie Investments Cyprus Limited and QIWI plc?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "England and Wales",
+    "file": "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 14,
+   "id": "look-signed-1",
+   "text": "When was the Limited Power Of Attorney between FEDERATED INVESTMENT MANAGEMENT COMPANY and FEDERATED ADVISORY SERVICES COMPANY entered into?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "1/1/04",
+    "file": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.pdf",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 15,
+   "id": "look-ends-1",
+   "text": "When does the initial term of the Supply Agreement between HOVIONE INTER AG and INTERSECT ENT, Inc end?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "1/20/25",
+    "file": "INTERSECTENT,INC_05_11_2020-EX-10.1-SUPPLY AGREEMENT.PDF",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 16,
+   "id": "look-ends-2",
+   "text": "When does the initial term of the Manufacturing Outsourcing Agreement between Nice Systems Ltd and Flextronics Israel Ltd end?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "1/21/05",
+    "file": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 17,
+   "id": "look-party-1",
+   "text": "Who is the other party to the Master Operation And Maintenance Agreement with BLOOM ENERGY CORPORATION?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "DIAMOND STATE GENERATION PARTNERS, LLC",
+    "file": "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 18,
+   "id": "look-party-2",
+   "text": "Who is the other party to the Co-Branding Agreement with Lucent Technologies Inc?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "mPhase Technologies Inc",
+    "file": "MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement.pdf",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 19,
+   "id": "look-renewal-1",
+   "text": "What is the renewal term of the Software License And Maintenance Agreement between GARMAN ROUTING SYSTEMS, INC and SPARKLING SPRING WATER GROUP LIMITED?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "successive 1 year",
+    "file": "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 20,
+   "id": "look-notice-1",
+   "text": "How much notice is needed to stop the Co-Branding Agreement between VerticalNet, Inc and PaperExchange.com, LLC from renewing?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "value",
+    "expected": "30 days",
+    "file": "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+    "note": "CUAD label; where an answer disagrees, check the contract text before scoring"
+   }
+  },
+  {
+   "n": 21,
+   "id": "super-shortest-notice",
+   "text": "Which contract requires the shortest notice to stop it from renewing?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 22,
+   "id": "super-latest",
+   "text": "Which of these contracts was entered into most recently?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT.PDF"
+    ],
+    "note": "A contract CUAD gives no full date for is settled by its SEC filing date (it was made by then) where that is earlier."
+   }
+  },
+  {
+   "n": 23,
+   "id": "date-signed-2008-2012",
+   "text": "Which of these contracts were entered into between January 1, 2008 and December 31, 2012?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+     "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement3.pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf",
+     "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "ScansourceInc_20190822_10-K_EX-10.39_11793959_EX-10.39_Distributor Agreement.pdf"
+    ],
+    "skip": [
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+     "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.pdf",
+     "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 24,
+   "id": "date-signed-pre2001",
+   "text": "Which of these contracts were entered into before January 1, 2001?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "LOGANSROADHOUSEINC_03_27_1998-EX-10.17-SPONSORSHIP AGREEMENT.PDF",
+     "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.PDF",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf"
+    ],
+    "skip": [
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+     "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.pdf",
+     "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 25,
+   "id": "date-ending-asof-2020",
+   "text": "As of July 1, 2020, which of these contracts had an initial term due to end within the next 12 months?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT.PDF",
+     "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+     "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement.pdf"
+    ],
+    "skip": [
+     "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF",
+     "ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT.PDF",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.PDF",
+     "BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.PDF",
+     "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement3.pdf",
+     "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf",
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.pdf",
+     "GALERATHERAPEUTICS,INC_02_14_2020-EX-99.A-JOINT FILING AGREEMENT.PDF",
+     "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.pdf",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.pdf",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.pdf",
+     "ONEMAINHOLDINGS,INC_02_20_2020-EX-99.D-JOINT FILING AGREEMENT.PDF",
+     "QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT.PDF",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.pdf",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4.pdf",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf",
+     "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 26,
+   "id": "date-no-end",
+   "text": "Which of these contracts run until a party ends them, with no fixed end date?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.PDF",
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf",
+     "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "MetLife, Inc. - Remarketing Agreement.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF"
+    ],
+    "skip": [
+     "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF",
+     "ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT.PDF",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.PDF",
+     "BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.PDF",
+     "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement3.pdf",
+     "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf",
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.pdf",
+     "GALERATHERAPEUTICS,INC_02_14_2020-EX-99.A-JOINT FILING AGREEMENT.PDF",
+     "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.pdf",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.pdf",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.pdf",
+     "ONEMAINHOLDINGS,INC_02_20_2020-EX-99.D-JOINT FILING AGREEMENT.PDF",
+     "QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT.PDF",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.pdf",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4.pdf",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf",
+     "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 27,
+   "id": "date-asof-notice",
+   "text": "As of July 1, 2016, which of these contracts had a deadline within the next six months for giving notice to stop an automatic renewal?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf"
+    ],
+    "note": "Deadline = the current term end minus the notice period, the initial end rolled forward one renewal term at a time; the contracts whose text departs from CUAD's renewal labels are settled from the text (TERM_FIX)."
+   }
+  },
+  {
+   "n": 28,
+   "id": "date-in-force-today",
+   "text": "Which of these contracts are still in force today?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.PDF",
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf",
+     "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf",
+     "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "MetLife, Inc. - Remarketing Agreement.PDF",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.pdf",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf"
+    ],
+    "weak": true,
+    "rule": "in force on the run date = perpetual, or renews unless notice is given, or its end date is on or after the run date; work the set out again on the run date",
+    "as_of": "October 2026",
+    "skip": [
+     "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF",
+     "ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT.PDF",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.PDF",
+     "BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.PDF",
+     "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement3.pdf",
+     "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf",
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.pdf",
+     "GALERATHERAPEUTICS,INC_02_14_2020-EX-99.A-JOINT FILING AGREEMENT.PDF",
+     "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+     "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.pdf",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement.pdf",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.pdf",
+     "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+     "ONEMAINHOLDINGS,INC_02_20_2020-EX-99.D-JOINT FILING AGREEMENT.PDF",
+     "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.PDF",
+     "QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT.PDF",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.pdf",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4.pdf",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf",
+     "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.pdf",
+     "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement.pdf"
+    ],
+    "note": "Worked out for October 2026, when every system answered. The set is the same on every day of that month from the 13th on: no contract in the folder has a CUAD end date in 2026 or 2027."
+   }
+  },
+  {
+   "n": 29,
+   "id": "both-post2010-nosolicit",
+   "text": "Which contracts entered into after December 31, 2010 restrict a party from soliciting the other party's employees?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.pdf",
+     "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF"
+    ],
+    "skip": [
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 30,
+   "id": "or-nosolicit-rofr",
+   "text": "Which contracts restrict soliciting the other party's employees or give a right of first refusal, offer or negotiation?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.pdf",
+     "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 31,
+   "id": "party",
+   "text": "Which contracts is Beijing Yisheng Leju Information Services Co., Ltd a party to?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF"
+    ]
+   }
+  },
+  {
+   "n": 32,
+   "id": "type-hosting",
+   "text": "Which of these contracts are hosting agreements?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 33,
+   "id": "threshold-notice60",
+   "text": "Which contracts require at least 60 days' notice to stop them from renewing?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 34,
+   "id": "absent-1",
+   "text": "When does the initial term of the Intellectual Property Agreement between Marv Enterprises, LLC and Premier Biomedical, Inc end?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "absent",
+    "expected": "not in the folder",
+    "contract_outside_folder": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.PDF"
+   }
+  },
+  {
+   "n": 35,
+   "id": "absent-2",
+   "text": "What law governs the Master Services Agreement between Clear Capital and Radial Spark, LLC?",
+   "key_from": "CUAD",
+   "source": "CUAD's labels",
+   "truth": {
+    "type": "absent",
+    "expected": "not in the folder",
+    "contract_outside_folder": "MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT.PDF"
+   }
+  },
+  {
+   "n": 36,
+   "id": "set-noncompete-or-exclusivity",
+   "text": "Which of these contracts contain a non-compete or exclusivity clause?",
+   "key_from": "CUAD",
+   "source": "CUAD's Non-Compete and Exclusivity labels (a contract labelled either)",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.PDF",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf",
+     "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+     "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF",
+     "LOGANSROADHOUSEINC_03_27_1998-EX-10.17-SPONSORSHIP AGREEMENT.PDF",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf",
+     "PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement.pdf",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 37,
+   "id": "set-law-outside-us",
+   "text": "Which contracts contain governing law provisions outside of the US?",
+   "key_from": "CUAD",
+   "source": "CUAD's Governing Law labels: the laws outside the US. Coherus is left out of the question: its governing law is redacted",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf"
+    ],
+    "skip": [
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 38,
+   "id": "set-auto-renewal",
+   "text": "Which of these contracts contain an auto-renewal provision?",
+   "key_from": "CUAD",
+   "source": "CUAD's Renewal Term labels (a renewal term stated; this includes options to extend)",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement.pdf",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+     "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 39,
+   "id": "set-arbitration",
+   "text": "Which of these contracts require most disputes be settled by arbitration?",
+   "key_from": "ours",
+   "source": "our labels: arbitration",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT.PDF",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT.PDF",
+     "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 40,
+   "id": "set-confidentiality",
+   "text": "Which of these contracts contain a confidentiality provision?",
+   "key_from": "ours",
+   "source": "our labels: confidentiality",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT.PDF",
+     "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.pdf",
+     "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement.PDF",
+     "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf",
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf",
+     "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.pdf",
+     "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT.PDF",
+     "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+     "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "INTERSECTENT,INC_05_11_2020-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF",
+     "LOGANSROADHOUSEINC_03_27_1998-EX-10.17-SPONSORSHIP AGREEMENT.PDF",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.PDF",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf",
+     "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+     "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.PDF",
+     "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.pdf",
+     "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 41,
+   "id": "set-agreement-confidential",
+   "text": "Which of these contracts consider the agreement or terms in the agreement to be confidential?",
+   "key_from": "ours",
+   "source": "our labels: agreement_confidential",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT.PDF",
+     "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.pdf",
+     "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf",
+     "FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.pdf",
+     "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "INTERSECTENT,INC_05_11_2020-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.PDF",
+     "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+     "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf",
+     "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+     "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 42,
+   "id": "set-indemnification",
+   "text": "Which of these contracts contain indemnification provisions?",
+   "key_from": "ours",
+   "source": "our labels: indemnification",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.PDF",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.PDF",
+     "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT.PDF",
+     "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.pdf",
+     "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.PDF",
+     "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+     "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf",
+     "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.pdf",
+     "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.pdf",
+     "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT.PDF",
+     "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+     "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+     "HerImports_20161018_8-KA_EX-10.14_9765707_EX-10.14_Maintenance Agreement.pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "INTERSECTENT,INC_05_11_2020-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT.PDF",
+     "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.pdf",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "MetLife, Inc. - Remarketing Agreement.PDF",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.PDF",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.pdf",
+     "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf",
+     "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf",
+     "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.pdf",
+     "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.PDF",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WELLSFARGOMORTGAGEBACKEDSECURITIES2006-6TRUST_05_11_2006-EX-10.3-Yield Maintenance Agreement.PDF"
+    ]
+   }
+  },
+  {
+   "n": 43,
+   "id": "set-cap-on-liability",
+   "text": "Which of these contracts expressly cap the liabilities of one or both parties?",
+   "key_from": "CUAD",
+   "source": "CUAD's Cap On Liability labels",
+   "truth": {
+    "type": "files",
+    "files": [
+     "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.pdf",
+     "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.PDF",
+     "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf",
+     "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf",
+     "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF",
+     "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "INTERSECTENT,INC_05_11_2020-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+     "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf",
+     "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "MetLife, Inc. - Remarketing Agreement.PDF",
+     "MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement.pdf",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.PDF",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+     "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+     "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.pdf",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.pdf",
+     "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.pdf",
+     "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.PDF",
+     "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+     "WELLSFARGOMORTGAGEBACKEDSECURITIES2006-6TRUST_05_11_2006-EX-10.3-Yield Maintenance Agreement.PDF",
+     "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 44,
+   "id": "both-texas-confidentiality",
+   "text": "Which contracts are governed by Texas law and include a confidentiality provision?",
+   "key_from": "CUAD + ours",
+   "source": "CUAD's Governing Law labels (Texas) and our labels: confidentiality",
+   "truth": {
+    "type": "files",
+    "files": [
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 45,
+   "id": "both-autorenew-warranty",
+   "text": "Which of these contracts auto-renew and include a warranty?",
+   "key_from": "CUAD + ours",
+   "source": "CUAD's Renewal Term labels and our labels: warranties",
+   "truth": {
+    "type": "files",
+    "files": [
+     "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+     "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf",
+     "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.pdf",
+     "BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF",
+     "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF",
+     "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+     "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF",
+     "GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+     "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+     "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+     "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF",
+     "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+     "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+     "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+     "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.PDF",
+     "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+     "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+     "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+     "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF",
+     "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+     "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf",
+     "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf"
+    ]
+   }
+  },
+  {
+   "n": 46,
+   "id": "both-nosolicit-agreement-confidential",
+   "text": "Which of these contracts contain a no-solicit of employees and consider the agreement confidential?",
+   "key_from": "CUAD + ours",
+   "source": "CUAD's No-Solicit Of Employees labels and our labels: agreement_confidential",
+   "truth": {
+    "type": "files",
+    "files": [
+     "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf",
+     "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT.PDF",
+     "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+     "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF"
+    ]
+   }
+  }
+ ]
+}

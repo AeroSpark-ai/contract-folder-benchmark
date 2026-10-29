@@ -1,0 +1,102 @@
+{
+ "about": "The readers' disagreements (Claude Opus 5.5 and ChatGPT GPT-6.1 Sol), each settled by us against the written definitions: by one of the rules A to D, or as a close call decided on the contract text.",
+ "rules": {
+  "A": "A recital or background statement is not a warranty.",
+  "B": "An indemnity that exists only in another agreement does not count.",
+  "C": "A document marking or an SEC redaction notice is not a contract term.",
+  "D": "A duty only to keep a password or login secret is not a confidentiality provision."
+ },
+ "settled": [
+  {
+   "contract": "001",
+   "file": "ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF",
+   "item": "indemnification",
+   "answer": "no",
+   "rule": "B"
+  },
+  {
+   "contract": "005",
+   "file": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.pdf",
+   "item": "warranties",
+   "answer": "no",
+   "rule": "A"
+  },
+  {
+   "contract": "016",
+   "file": "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf",
+   "item": "indemnification",
+   "answer": "no",
+   "rule": "B"
+  },
+  {
+   "contract": "017",
+   "file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+   "item": "agreement_confidential",
+   "answer": "no",
+   "rule": "C"
+  },
+  {
+   "contract": "027",
+   "file": "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+   "item": "indemnification",
+   "answer": "no",
+   "rule": "B"
+  },
+  {
+   "contract": "081",
+   "file": "ScansourceInc_20190822_10-K_EX-10.39_11793959_EX-10.39_Distributor Agreement.pdf",
+   "item": "agreement_confidential",
+   "answer": "no",
+   "rule": "C"
+  },
+  {
+   "contract": "085",
+   "file": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf",
+   "item": "confidentiality",
+   "answer": "no",
+   "rule": "D"
+  },
+  {
+   "contract": "091",
+   "file": "TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.PDF",
+   "item": "warranties",
+   "answer": "no",
+   "rule": "A"
+  },
+  {
+   "contract": "021",
+   "file": "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.PDF",
+   "item": "warranties",
+   "answer": "no",
+   "rule": "close call: a promise to comply, not worded as a warranty"
+  },
+  {
+   "contract": "039",
+   "file": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+   "item": "warranties",
+   "answer": "yes",
+   "rule": "close call: the visible text names a warranty in Section 6.5 (redacted); as for NetGrocer"
+  },
+  {
+   "contract": "060",
+   "file": "NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.pdf",
+   "item": "warranties",
+   "answer": "yes",
+   "rule": "close call: a certificate certifying each batch meets the specifications"
+  },
+  {
+   "contract": "082",
+   "file": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.PDF",
+   "item": "arbitration",
+   "answer": "yes",
+   "rule": "close call: may be referred to binding arbitration; the only forum named"
+  },
+  {
+   "contract": "084",
+   "file": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4.pdf",
+   "item": "warranties",
+   "answer": "no",
+   "rule": "close call: a state-required disclosure addendum, not a warranty"
+  }
+ ]
+}

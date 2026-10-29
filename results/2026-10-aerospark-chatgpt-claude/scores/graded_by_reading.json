@@ -1,0 +1,16 @@
+{
+ "about": "The one-contract lookups and the questions about a contract not in the folder, graded by reading each answer against the key: the expected fact stated, a date in any form. The same rule for every system. Read by Claude; the grades can be challenged (benchmark/docs/CHALLENGE.md).",
+ "questions": {
+  "look-law-1": {"key": "New York", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "look-law-2": {"key": "England and Wales", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "look-signed-1": {"key": "1 January 2004", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "look-ends-1": {"key": "20 January 2025", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "look-ends-2": {"key": "21 January 2005", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "look-party-1": {"key": "Diamond State Generation Partners, LLC", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "look-party-2": {"key": "mPhase Technologies Inc", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "look-renewal-1": {"key": "successive 1-year renewals", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "look-notice-1": {"key": "30 days", "grades": {"aerospark": {"right": true}, "chatgpt": {"right": true}, "claude": {"right": true}}},
+  "absent-1": {"key": "not in the folder", "grades": {"aerospark": {"right": true, "note": "said none of the contracts is that agreement"}, "chatgpt": {"right": true, "note": "said it could not verify the agreement and gave no date"}, "claude": {"right": true, "note": "said it could not find the agreement and gave no date"}}},
+  "absent-2": {"key": "not in the folder", "grades": {"aerospark": {"right": true, "note": "said the contracts include no such agreement"}, "chatgpt": {"right": true}, "claude": {"right": true}}}
+ }
+}
