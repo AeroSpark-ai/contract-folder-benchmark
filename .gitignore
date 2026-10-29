@@ -1,0 +1,8 @@
+# the contracts are CUAD's: fetch them with benchmark/contracts/fetch_contracts.py, do not commit them
+benchmark/contracts/pdf/
+benchmark/contracts/CUAD_v1.zip
+# your own re-runs
+my-run*.txt
+my-claims*.json
+__pycache__/
+.DS_Store

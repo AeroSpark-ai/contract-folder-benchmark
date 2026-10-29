@@ -1,0 +1,9042 @@
+[
+ {
+  "pass": 1,
+  "id": "set-revenue-profit-sharing",
+  "claims": {
+   "count": 28,
+   "names": {
+    "yes": [
+     {
+      "name": "Aimmune Therapeutics (Xencor) Development",
+      "n": 3
+     },
+     {
+      "name": "Allied Esports (WPT/Zynga) Content License",
+      "n": 4
+     },
+     {
+      "name": "Artara Therapeutics (Univ. of Iowa) License",
+      "n": 6
+     },
+     {
+      "name": "BorrowMoney.com Joint Venture",
+      "n": 13
+     },
+     {
+      "name": "Cardax (Capsugel) Collaboration",
+      "n": 14
+     },
+     {
+      "name": "Corio (Commerce One) License and Hosting",
+      "n": 22
+     },
+     {
+      "name": "Coherus Biosciences Development",
+      "n": 20
+     },
+     {
+      "name": "Emerald Health Bioceuticals Development",
+      "n": 25
+     },
+     {
+      "name": "Eton Pharmaceuticals Development",
+      "n": 28
+     },
+     {
+      "name": "Glu Mobile Content License (Amendment No. 2)",
+      "n": 37
+     },
+     {
+      "name": "HealthGate Data Hosting and Management",
+      "n": 40
+     },
+     {
+      "name": "iCoreConnect Strategic Alliance",
+      "n": 42
+     },
+     {
+      "name": "Invenda (Excite@Home) Co-Branding",
+      "n": 44
+     },
+     {
+      "name": "King Pharmaceuticals (Depomed) Promotion",
+      "n": 47
+     },
+     {
+      "name": "Kubient (Associated Press) Master Services Agreement, Part 2",
+      "n": 49
+     },
+     {
+      "name": "LinkPlus (Axiometric) Affiliate",
+      "n": 53
+     },
+     {
+      "name": "Middlebrook Pharmaceuticals Promotion",
+      "n": 56
+     },
+     {
+      "name": "NICE (Flextronics) Outsourcing",
+      "n": 61
+     },
+     {
+      "name": "Ominto (MediaNet) Reseller",
+      "n": 64
+     },
+     {
+      "name": "PaperExchange (VerticalNet) Co-Branding",
+      "n": 67
+     },
+     {
+      "name": "Performance Sports Brands (Andy North) Endorsement",
+      "n": 68
+     },
+     {
+      "name": "Remark Holdings (World Book) Content License",
+      "n": 76
+     },
+     {
+      "name": "SeaSpine (Integra/PcoMed) Supply",
+      "n": 82
+     },
+     {
+      "name": "Stamps.com (Intuit) Sponsorship",
+      "n": 88
+     },
+     {
+      "name": "STW Resources (Fort Stockton) Cooperation",
+      "n": 89
+     },
+     {
+      "name": "Southern Star Energy (element 5) Affiliate",
+      "n": 85
+     },
+     {
+      "name": "Teardrop Golf Endorsement",
+      "n": 91
+     },
+     {
+      "name": "theglobe.com (Boxlot) Co-Branding",
+      "n": 92
+     }
+    ],
+    "possible": [
+     {
+      "name": "Leju/Baidu",
+      "n": 51
+     },
+     {
+      "name": "China Recycling Energy",
+      "n": 18
+     },
+     {
+      "name": "FreezeTag/American Diabetes Association",
+      "n": 32
+     },
+     {
+      "name": "Agape",
+      "n": 2
+     },
+     {
+      "name": "Lifeway",
+      "n": 52
+     },
+     {
+      "name": "Summa Four",
+      "n": 90
+     },
+     {
+      "name": "OASYS",
+      "n": 62
+     },
+     {
+      "name": "Banuestra",
+      "n": 8
+     },
+     {
+      "name": "CURO",
+      "n": 23
+     },
+     {
+      "name": "RGC Resources",
+      "n": 79
+     },
+     {
+      "name": "Global Technologies",
+      "n": 36,
+      "by_hand": true
+     },
+     {
+      "name": "Thrivent",
+      "n": 94
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "possible",
+     "name": "Global Technologies",
+     "why": "ties: 19, 36",
+     "settled_by_claude": [
+      36
+     ]
+    }
+   ],
+   "yes": [
+    3,
+    4,
+    6,
+    13,
+    14,
+    22,
+    20,
+    25,
+    28,
+    37,
+    40,
+    42,
+    44,
+    47,
+    49,
+    53,
+    56,
+    61,
+    64,
+    67,
+    68,
+    76,
+    82,
+    88,
+    89,
+    85,
+    91,
+    92
+   ],
+   "possible": [
+    51,
+    18,
+    32,
+    2,
+    52,
+    90,
+    62,
+    8,
+    23,
+    79,
+    94,
+    36
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 28,
+    "names": {
+     "yes": [
+      {
+       "name": "Aimmune Therapeutics (Xencor) Development",
+       "n": 3
+      },
+      {
+       "name": "Allied Esports (WPT/Zynga) Content License",
+       "n": 4
+      },
+      {
+       "name": "Artara Therapeutics (Univ. of Iowa) License",
+       "n": 6
+      },
+      {
+       "name": "BorrowMoney.com Joint Venture",
+       "n": 13
+      },
+      {
+       "name": "Cardax (Capsugel) Collaboration",
+       "n": 14
+      },
+      {
+       "name": "Corio (Commerce One) License and Hosting",
+       "n": 22
+      },
+      {
+       "name": "Coherus Biosciences Development",
+       "n": 20
+      },
+      {
+       "name": "Emerald Health Bioceuticals Development",
+       "n": 25
+      },
+      {
+       "name": "Eton Pharmaceuticals Development",
+       "n": 28
+      },
+      {
+       "name": "Glu Mobile Content License (Amendment No. 2)",
+       "n": 37
+      },
+      {
+       "name": "HealthGate Data Hosting and Management",
+       "n": 40
+      },
+      {
+       "name": "iCoreConnect Strategic Alliance",
+       "n": 42
+      },
+      {
+       "name": "Invenda (Excite@Home) Co-Branding",
+       "n": 44
+      },
+      {
+       "name": "King Pharmaceuticals (Depomed) Promotion",
+       "n": 47
+      },
+      {
+       "name": "Kubient (Associated Press) Master Services Agreement, Part 2",
+       "n": 49
+      },
+      {
+       "name": "LinkPlus (Axiometric) Affiliate",
+       "n": 53
+      },
+      {
+       "name": "Middlebrook Pharmaceuticals Promotion",
+       "n": 56
+      },
+      {
+       "name": "NICE (Flextronics) Outsourcing",
+       "n": 61
+      },
+      {
+       "name": "Ominto (MediaNet) Reseller",
+       "n": 64
+      },
+      {
+       "name": "PaperExchange (VerticalNet) Co-Branding",
+       "n": 67
+      },
+      {
+       "name": "Performance Sports Brands (Andy North) Endorsement",
+       "n": 68
+      },
+      {
+       "name": "Remark Holdings (World Book) Content License",
+       "n": 76
+      },
+      {
+       "name": "SeaSpine (Integra/PcoMed) Supply",
+       "n": 82
+      },
+      {
+       "name": "Stamps.com (Intuit) Sponsorship",
+       "n": 88
+      },
+      {
+       "name": "STW Resources (Fort Stockton) Cooperation",
+       "n": 89
+      },
+      {
+       "name": "Southern Star Energy (element 5) Affiliate",
+       "n": 85
+      },
+      {
+       "name": "Teardrop Golf Endorsement",
+       "n": 91
+      },
+      {
+       "name": "theglobe.com (Boxlot) Co-Branding",
+       "n": 92
+      }
+     ],
+     "possible": [
+      {
+       "name": "Leju/Baidu",
+       "n": 51
+      },
+      {
+       "name": "China Recycling Energy",
+       "n": 18
+      },
+      {
+       "name": "FreezeTag/American Diabetes Association",
+       "n": 32
+      },
+      {
+       "name": "Agape",
+       "n": 2
+      },
+      {
+       "name": "Lifeway",
+       "n": 52
+      },
+      {
+       "name": "Summa Four",
+       "n": 90
+      },
+      {
+       "name": "OASYS",
+       "n": 62
+      },
+      {
+       "name": "Banuestra",
+       "n": 8
+      },
+      {
+       "name": "CURO",
+       "n": 23
+      },
+      {
+       "name": "RGC Resources",
+       "n": 79
+      },
+      {
+       "name": "Global Technologies",
+       "n": null
+      },
+      {
+       "name": "Thrivent",
+       "n": 94
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [
+     {
+      "list": "possible",
+      "name": "Global Technologies",
+      "why": "ties: 19, 36"
+     }
+    ],
+    "yes": [
+     3,
+     4,
+     6,
+     13,
+     14,
+     22,
+     20,
+     25,
+     28,
+     37,
+     40,
+     42,
+     44,
+     47,
+     49,
+     53,
+     56,
+     61,
+     64,
+     67,
+     68,
+     76,
+     82,
+     88,
+     89,
+     85,
+     91,
+     92
+    ],
+    "possible": [
+     51,
+     18,
+     32,
+     2,
+     52,
+     90,
+     62,
+     8,
+     23,
+     79,
+     94
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-rofr-rofo-rofn",
+  "claims": {
+   "count": 10,
+   "names": {
+    "yes": [
+     {
+      "name": "Agape ATP – Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Embark.com – Co-Branding Agreement, Snap / United Airlines",
+      "n": 24
+     },
+     {
+      "name": "iVillage – Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "King Pharmaceuticals – Promotion Agreement with Depomed",
+      "n": 47
+     },
+     {
+      "name": "Leju Holdings – Internet Channel Cooperation Agreement with Baidu",
+      "n": 51
+     },
+     {
+      "name": "LinkPlus – Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "Remark Holdings – Content License Agreement, World Book / HSW International",
+      "n": 76
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory – Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Stamps.com – Sponsorship Agreement with Intuit",
+      "n": 88
+     },
+     {
+      "name": "Todos Medical – Marketing and Reseller Agreement",
+      "n": 95
+     }
+    ],
+    "possible": [
+     {
+      "name": "China Recycling Energy – Cooperation Agreement",
+      "n": 18
+     },
+     {
+      "name": "Coherus Biosciences – License and Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "NetGrocer – Sponsorship Agreement",
+      "n": 59
+     },
+     {
+      "name": "Entrust – Strategic Alliance Agreement",
+      "n": 27
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    24,
+    46,
+    47,
+    51,
+    53,
+    76,
+    80,
+    88,
+    95
+   ],
+   "possible": [
+    18,
+    20,
+    59,
+    27
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 10,
+    "names": {
+     "yes": [
+      {
+       "name": "Agape ATP – Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "Embark.com – Co-Branding Agreement, Snap / United Airlines",
+       "n": 24
+      },
+      {
+       "name": "iVillage – Sponsorship Agreement",
+       "n": 46
+      },
+      {
+       "name": "King Pharmaceuticals – Promotion Agreement with Depomed",
+       "n": 47
+      },
+      {
+       "name": "Leju Holdings – Internet Channel Cooperation Agreement with Baidu",
+       "n": 51
+      },
+      {
+       "name": "LinkPlus – Affiliate Agreement",
+       "n": 53
+      },
+      {
+       "name": "Remark Holdings – Content License Agreement, World Book / HSW International",
+       "n": 76
+      },
+      {
+       "name": "Rocky Mountain Chocolate Factory – Strategic Alliance Agreement",
+       "n": 80
+      },
+      {
+       "name": "Stamps.com – Sponsorship Agreement with Intuit",
+       "n": 88
+      },
+      {
+       "name": "Todos Medical – Marketing and Reseller Agreement",
+       "n": 95
+      }
+     ],
+     "possible": [
+      {
+       "name": "China Recycling Energy – Cooperation Agreement",
+       "n": 18
+      },
+      {
+       "name": "Coherus Biosciences – License and Development Agreement",
+       "n": 20
+      },
+      {
+       "name": "NetGrocer – Sponsorship Agreement",
+       "n": 59
+      },
+      {
+       "name": "Entrust – Strategic Alliance Agreement",
+       "n": 27
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     2,
+     24,
+     46,
+     47,
+     51,
+     53,
+     76,
+     80,
+     88,
+     95
+    ],
+    "possible": [
+     18,
+     20,
+     59,
+     27
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-irrevocable-or-perpetual-license",
+  "claims": {
+   "count": 17,
+   "names": {
+    "yes": [
+     {
+      "name": "Cerence – IP Agreement",
+      "n": 16
+     },
+     {
+      "name": "Remark Holdings – Content License",
+      "n": 76
+     },
+     {
+      "name": "Corio – License & Hosting",
+      "n": 22
+     },
+     {
+      "name": "Clickstream – Development",
+      "n": 19
+     },
+     {
+      "name": "Coherus – Development",
+      "n": 20
+     },
+     {
+      "name": "Aimmune – Development",
+      "n": 3
+     },
+     {
+      "name": "Entrust – Strategic Alliance",
+      "n": 27
+     },
+     {
+      "name": "Quantum Group – Hosting",
+      "n": 74
+     },
+     {
+      "name": "Fidelity National Info Services – IP Agreement",
+      "n": 30
+     },
+     {
+      "name": "Iovance – Strategic Alliance",
+      "n": 45
+     },
+     {
+      "name": "HealthGate – Hosting & Management",
+      "n": 40
+     },
+     {
+      "name": "NICE – Outsourcing",
+      "n": 61
+     },
+     {
+      "name": "Lifeway Foods – Endorsement",
+      "n": 52
+     },
+     {
+      "name": "Summa Four – Software License",
+      "n": 90
+     },
+     {
+      "name": "Cardax – Collaboration",
+      "n": 14
+     },
+     {
+      "name": "Sparkling Spring Water – Software License",
+      "n": 86
+     },
+     {
+      "name": "Allied Esports – Content License",
+      "n": 4
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    16,
+    76,
+    22,
+    19,
+    20,
+    3,
+    27,
+    74,
+    30,
+    45,
+    40,
+    61,
+    52,
+    90,
+    14,
+    86,
+    4
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 17,
+    "names": {
+     "yes": [
+      {
+       "name": "Cerence – IP Agreement",
+       "n": 16
+      },
+      {
+       "name": "Remark Holdings – Content License",
+       "n": 76
+      },
+      {
+       "name": "Corio – License & Hosting",
+       "n": 22
+      },
+      {
+       "name": "Clickstream – Development",
+       "n": 19
+      },
+      {
+       "name": "Coherus – Development",
+       "n": 20
+      },
+      {
+       "name": "Aimmune – Development",
+       "n": 3
+      },
+      {
+       "name": "Entrust – Strategic Alliance",
+       "n": 27
+      },
+      {
+       "name": "Quantum Group – Hosting",
+       "n": 74
+      },
+      {
+       "name": "Fidelity National Info Services – IP Agreement",
+       "n": 30
+      },
+      {
+       "name": "Iovance – Strategic Alliance",
+       "n": 45
+      },
+      {
+       "name": "HealthGate – Hosting & Management",
+       "n": 40
+      },
+      {
+       "name": "NICE – Outsourcing",
+       "n": 61
+      },
+      {
+       "name": "Lifeway Foods – Endorsement",
+       "n": 52
+      },
+      {
+       "name": "Summa Four – Software License",
+       "n": 90
+      },
+      {
+       "name": "Cardax – Collaboration",
+       "n": 14
+      },
+      {
+       "name": "Sparkling Spring Water – Software License",
+       "n": 86
+      },
+      {
+       "name": "Allied Esports – Content License",
+       "n": 4
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     16,
+     76,
+     22,
+     19,
+     20,
+     3,
+     27,
+     74,
+     30,
+     45,
+     40,
+     61,
+     52,
+     90,
+     14,
+     86,
+     4
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-joint-ip-ownership",
+  "claims": {
+   "count": 9,
+   "names": {
+    "yes": [
+     {
+      "name": "ArTara Therapeutics – License Agreement (with University of Iowa)",
+      "n": 6
+     },
+     {
+      "name": "Aimmune Therapeutics – Development Agreement (with Xencor)",
+      "n": 3
+     },
+     {
+      "name": "Coherus BioSciences – Development Agreement (with Bioeq)",
+      "n": 20
+     },
+     {
+      "name": "Cardax – Collaboration Agreement (with Capsugel)",
+      "n": 14
+     },
+     {
+      "name": "Fidelity National Information Services – IP Agreement (Equifax/Certegy)",
+      "n": 30
+     },
+     {
+      "name": "LinkPlus – Affiliate Agreement (with Axiometric)",
+      "n": 53
+     },
+     {
+      "name": "Invenda – Co-Branding Agreement (e-centives / Excite@Home)",
+      "n": 44
+     }
+    ],
+    "possible": [
+     {
+      "name": "PaperExchange – Co-Branding Agreement (with VerticalNet)",
+      "n": 67
+     },
+     {
+      "name": "SeaSpine – Supply Agreement (PcoMed / Integra)",
+      "n": 82
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    6,
+    3,
+    20,
+    14,
+    30,
+    53,
+    44
+   ],
+   "possible": [
+    67,
+    82
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 9,
+    "names": {
+     "yes": [
+      {
+       "name": "ArTara Therapeutics – License Agreement (with University of Iowa)",
+       "n": 6
+      },
+      {
+       "name": "Aimmune Therapeutics – Development Agreement (with Xencor)",
+       "n": 3
+      },
+      {
+       "name": "Coherus BioSciences – Development Agreement (with Bioeq)",
+       "n": 20
+      },
+      {
+       "name": "Cardax – Collaboration Agreement (with Capsugel)",
+       "n": 14
+      },
+      {
+       "name": "Fidelity National Information Services – IP Agreement (Equifax/Certegy)",
+       "n": 30
+      },
+      {
+       "name": "LinkPlus – Affiliate Agreement (with Axiometric)",
+       "n": 53
+      },
+      {
+       "name": "Invenda – Co-Branding Agreement (e-centives / Excite@Home)",
+       "n": 44
+      }
+     ],
+     "possible": [
+      {
+       "name": "PaperExchange – Co-Branding Agreement (with VerticalNet)",
+       "n": 67
+      },
+      {
+       "name": "SeaSpine – Supply Agreement (PcoMed / Integra)",
+       "n": 82
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     6,
+     3,
+     20,
+     14,
+     30,
+     53,
+     44
+    ],
+    "possible": [
+     67,
+     82
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-no-solicit-of-employees",
+  "claims": {
+   "count": 12,
+   "names": {
+    "yes": [
+     {
+      "name": "Clickstream – Development Agreement",
+      "n": 19
+     },
+     {
+      "name": "Coherus Biosciences – License & Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Coral Gold Resources – Consulting Agreement",
+      "n": 21
+     },
+     {
+      "name": "FTE Networks – Strategic Alliance Agreement",
+      "n": 33
+     },
+     {
+      "name": "Kubient – MSA Part 2",
+      "n": 49
+     },
+     {
+      "name": "Leclanché – Joint Development & Marketing Agreement",
+      "n": 50
+     },
+     {
+      "name": "OFG Bancorp – Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "PHL Variable Insurance – Strategic Alliance Agreement",
+      "n": 69
+     },
+     {
+      "name": "Quaker Chemical – Non-Compete & Non-Solicitation Agreement",
+      "n": 73
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory – Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Sparkling Spring Water – Software License & Maintenance",
+      "n": 86
+     },
+     {
+      "name": "Theravance Biopharma – Service Agreement",
+      "n": 93
+     }
+    ],
+    "possible": [
+     {
+      "name": "Healthcare Integrated Technologies Reseller Agreement",
+      "n": 39
+     }
+    ],
+    "no": [
+     {
+      "name": "OASYS Mobile",
+      "n": 62
+     }
+    ]
+   },
+   "unplaced": [],
+   "yes": [
+    19,
+    20,
+    21,
+    33,
+    49,
+    50,
+    63,
+    69,
+    73,
+    80,
+    86,
+    93
+   ],
+   "possible": [
+    39
+   ],
+   "no": [
+    62
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 12,
+    "names": {
+     "yes": [
+      {
+       "name": "Clickstream – Development Agreement",
+       "n": 19
+      },
+      {
+       "name": "Coherus Biosciences – License & Development Agreement",
+       "n": 20
+      },
+      {
+       "name": "Coral Gold Resources – Consulting Agreement",
+       "n": 21
+      },
+      {
+       "name": "FTE Networks – Strategic Alliance Agreement",
+       "n": 33
+      },
+      {
+       "name": "Kubient – MSA Part 2",
+       "n": 49
+      },
+      {
+       "name": "Leclanché – Joint Development & Marketing Agreement",
+       "n": 50
+      },
+      {
+       "name": "OFG Bancorp – Outsourcing Agreement",
+       "n": 63
+      },
+      {
+       "name": "PHL Variable Insurance – Strategic Alliance Agreement",
+       "n": 69
+      },
+      {
+       "name": "Quaker Chemical – Non-Compete & Non-Solicitation Agreement",
+       "n": 73
+      },
+      {
+       "name": "Rocky Mountain Chocolate Factory – Strategic Alliance Agreement",
+       "n": 80
+      },
+      {
+       "name": "Sparkling Spring Water – Software License & Maintenance",
+       "n": 86
+      },
+      {
+       "name": "Theravance Biopharma – Service Agreement",
+       "n": 93
+      }
+     ],
+     "possible": [
+      {
+       "name": "Healthcare Integrated Technologies Reseller Agreement",
+       "n": 39
+      }
+     ],
+     "no": [
+      {
+       "name": "OASYS Mobile",
+       "n": 62
+      }
+     ]
+    },
+    "unplaced": [],
+    "yes": [
+     19,
+     20,
+     21,
+     33,
+     49,
+     50,
+     63,
+     69,
+     73,
+     80,
+     86,
+     93
+    ],
+    "possible": [
+     39
+    ],
+    "no": [
+     62
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "rare-unlimited-all-you-can-eat-license",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Entrust Strategic Alliance Agreement",
+      "n": 27
+     },
+     {
+      "name": "Corio License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Lifeway Foods Endorsement Agreement",
+      "n": 52
+     }
+    ],
+    "possible": [
+     {
+      "name": "Summa Four Software License and Maintenance Agreement",
+      "n": 90
+     },
+     {
+      "name": "Fidelity National Information Services (Equifax–Certegy) Intellectual Property Agreement",
+      "n": 30
+     }
+    ],
+    "no": [
+     {
+      "name": "Remark Holdings Content License",
+      "n": 76
+     }
+    ]
+   },
+   "unplaced": [],
+   "yes": [
+    27,
+    22,
+    52
+   ],
+   "possible": [
+    90,
+    30
+   ],
+   "no": [
+    76
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Entrust Strategic Alliance Agreement",
+       "n": 27
+      },
+      {
+       "name": "Corio License and Hosting Agreement",
+       "n": 22
+      },
+      {
+       "name": "Lifeway Foods Endorsement Agreement",
+       "n": 52
+      }
+     ],
+     "possible": [
+      {
+       "name": "Summa Four Software License and Maintenance Agreement",
+       "n": 90
+      },
+      {
+       "name": "Fidelity National Information Services (Equifax–Certegy) Intellectual Property Agreement",
+       "n": 30
+      }
+     ],
+     "no": [
+      {
+       "name": "Remark Holdings Content License",
+       "n": 76
+      }
+     ]
+    },
+    "unplaced": [],
+    "yes": [
+     27,
+     22,
+     52
+    ],
+    "possible": [
+     90,
+     30
+    ],
+    "no": [
+     76
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "count-texas",
+  "claims": {
+   "count": 7,
+   "names": {
+    "yes": [
+     {
+      "name": "STW Resources Holding Corp – Cooperation Agreement",
+      "n": 89
+     },
+     {
+      "name": "Optimized Transportation Management, Inc – Distributor Agreement",
+      "n": 66
+     },
+     {
+      "name": "FTE Networks, Inc – Strategic Alliance Agreement",
+      "n": 33
+     },
+     {
+      "name": "Iovance Biotherapeutics, Inc – Strategic Alliance Agreement with MD Anderson",
+      "n": 45
+     },
+     {
+      "name": "Range Resources Louisiana, Inc – Transportation Agreement",
+      "n": 75
+     },
+     {
+      "name": "Precheck Health Services, Inc – Distributor Agreement",
+      "n": 70
+     },
+     {
+      "name": "Energy XXI Ltd – Transportation Agreement",
+      "n": 26
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    89,
+    66,
+    33,
+    45,
+    75,
+    70,
+    26
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 7,
+    "names": {
+     "yes": [
+      {
+       "name": "STW Resources Holding Corp – Cooperation Agreement",
+       "n": 89
+      },
+      {
+       "name": "Optimized Transportation Management, Inc – Distributor Agreement",
+       "n": 66
+      },
+      {
+       "name": "FTE Networks, Inc – Strategic Alliance Agreement",
+       "n": 33
+      },
+      {
+       "name": "Iovance Biotherapeutics, Inc – Strategic Alliance Agreement with MD Anderson",
+       "n": 45
+      },
+      {
+       "name": "Range Resources Louisiana, Inc – Transportation Agreement",
+       "n": 75
+      },
+      {
+       "name": "Precheck Health Services, Inc – Distributor Agreement",
+       "n": 70
+      },
+      {
+       "name": "Energy XXI Ltd – Transportation Agreement",
+       "n": 26
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     89,
+     66,
+     33,
+     45,
+     75,
+     70,
+     26
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "count-illinois",
+  "claims": {
+   "count": 3,
+   "names": {
+    "yes": [
+     {
+      "name": "Reynolds Consumer Products — Master Supply Agreement",
+      "n": 77,
+      "by_hand": true
+     },
+     {
+      "name": "Reynolds Consumer Products — Transition Services Agreement",
+      "n": 78,
+      "by_hand": true
+     },
+     {
+      "name": "Lifeway Foods — Endorsement Agreement",
+      "n": 52
+     }
+    ],
+    "possible": [],
+    "no": [
+     {
+      "name": "Eton Pharmaceuticals — Development Agreement",
+      "n": 28
+     },
+     {
+      "name": "MetLife — Remarketing Agreement",
+      "n": 55
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "Reynolds Consumer Products — Master Supply Agreement",
+     "why": "ties: 77, 78",
+     "settled_by_claude": [
+      77
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Reynolds Consumer Products — Transition Services Agreement",
+     "why": "ties: 77, 78",
+     "settled_by_claude": [
+      78
+     ]
+    }
+   ],
+   "yes": [
+    52,
+    77,
+    78
+   ],
+   "possible": [],
+   "no": [
+    28,
+    55
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 3,
+    "names": {
+     "yes": [
+      {
+       "name": "Reynolds Consumer Products — Master Supply Agreement",
+       "n": null
+      },
+      {
+       "name": "Reynolds Consumer Products — Transition Services Agreement",
+       "n": null
+      },
+      {
+       "name": "Lifeway Foods — Endorsement Agreement",
+       "n": 52
+      }
+     ],
+     "possible": [],
+     "no": [
+      {
+       "name": "Eton Pharmaceuticals — Development Agreement",
+       "n": 28
+      },
+      {
+       "name": "MetLife — Remarketing Agreement",
+       "n": 55
+      }
+     ]
+    },
+    "unplaced": [
+     {
+      "list": "yes",
+      "name": "Reynolds Consumer Products — Master Supply Agreement",
+      "why": "ties: 77, 78"
+     },
+     {
+      "list": "yes",
+      "name": "Reynolds Consumer Products — Transition Services Agreement",
+      "why": "ties: 77, 78"
+     }
+    ],
+    "yes": [
+     52
+    ],
+    "possible": [],
+    "no": [
+     28,
+     55
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "count-england",
+  "claims": {
+   "count": 4,
+   "names": {
+    "yes": [
+     {
+      "name": "Agape ATP Corp – ODM Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "HealthGate Data Corp – Electronic Journal Software Development, Hosting and Management Agreement",
+      "n": 40
+     },
+     {
+      "name": "QIWI – Cooperation Agreement",
+      "n": 72
+     },
+     {
+      "name": "Theravance Biopharma – Service Agreement",
+      "n": 93
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    40,
+    72,
+    93
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 4,
+    "names": {
+     "yes": [
+      {
+       "name": "Agape ATP Corp – ODM Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "HealthGate Data Corp – Electronic Journal Software Development, Hosting and Management Agreement",
+       "n": 40
+      },
+      {
+       "name": "QIWI – Cooperation Agreement",
+       "n": 72
+      },
+      {
+       "name": "Theravance Biopharma – Service Agreement",
+       "n": 93
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     2,
+     40,
+     72,
+     93
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "count-canada",
+  "claims": {
+   "count": 4,
+   "names": {
+    "yes": [
+     {
+      "name": "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT",
+      "n": 21
+     },
+     {
+      "name": "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+      "n": 86
+     },
+     {
+      "name": "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT",
+      "n": 27
+     },
+     {
+      "name": "KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT",
+      "n": 48
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    21,
+    86,
+    27,
+    48
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 4,
+    "names": {
+     "yes": [
+      {
+       "name": "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT",
+       "n": 21
+      },
+      {
+       "name": "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+       "n": 86
+      },
+      {
+       "name": "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT",
+       "n": 27
+      },
+      {
+       "name": "KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT",
+       "n": 48
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     21,
+     86,
+     27,
+     48
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "count-rofr",
+  "claims": {
+   "count": 11,
+   "names": {
+    "yes": [
+     {
+      "name": "Agape ATP – Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "China Recycling Energy – Cooperation Agreement",
+      "n": 18
+     },
+     {
+      "name": "Embark.com – Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "iVillage – Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "King Pharmaceuticals – Promotion Agreement",
+      "n": 47
+     },
+     {
+      "name": "LEJU – Internet Channel Cooperation Agreement",
+      "n": 51
+     },
+     {
+      "name": "LinkPlus – Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "Remark Holdings – Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "Rocky Mountain Chocolate – Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Stamps.com – Sponsorship Agreement",
+      "n": 88
+     },
+     {
+      "name": "Todos Medical – Marketing/Reseller Agreement",
+      "n": 95
+     }
+    ],
+    "possible": [
+     {
+      "name": "Coherus",
+      "n": 20
+     },
+     {
+      "name": "QIWI",
+      "n": 72
+     },
+     {
+      "name": "ArTara",
+      "n": 6
+     },
+     {
+      "name": "PaperExchange",
+      "n": 67
+     },
+     {
+      "name": "NetGrocer",
+      "n": 59
+     },
+     {
+      "name": "Precheck",
+      "n": 70
+     },
+     {
+      "name": "Arc Group",
+      "n": 5
+     },
+     {
+      "name": "Women's Golf",
+      "n": 99
+     },
+     {
+      "name": "Cardlytics",
+      "n": 15
+     },
+     {
+      "name": "Upjohn",
+      "n": 96
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    18,
+    24,
+    46,
+    47,
+    51,
+    53,
+    76,
+    80,
+    88,
+    95
+   ],
+   "possible": [
+    20,
+    72,
+    6,
+    67,
+    59,
+    70,
+    5,
+    99,
+    15,
+    96
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 11,
+    "names": {
+     "yes": [
+      {
+       "name": "Agape ATP – Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "China Recycling Energy – Cooperation Agreement",
+       "n": 18
+      },
+      {
+       "name": "Embark.com – Co-Branding Agreement",
+       "n": 24
+      },
+      {
+       "name": "iVillage – Sponsorship Agreement",
+       "n": 46
+      },
+      {
+       "name": "King Pharmaceuticals – Promotion Agreement",
+       "n": 47
+      },
+      {
+       "name": "LEJU – Internet Channel Cooperation Agreement",
+       "n": 51
+      },
+      {
+       "name": "LinkPlus – Affiliate Agreement",
+       "n": 53
+      },
+      {
+       "name": "Remark Holdings – Content License Agreement",
+       "n": 76
+      },
+      {
+       "name": "Rocky Mountain Chocolate – Strategic Alliance Agreement",
+       "n": 80
+      },
+      {
+       "name": "Stamps.com – Sponsorship Agreement",
+       "n": 88
+      },
+      {
+       "name": "Todos Medical – Marketing/Reseller Agreement",
+       "n": 95
+      }
+     ],
+     "possible": [
+      {
+       "name": "Coherus",
+       "n": 20
+      },
+      {
+       "name": "QIWI",
+       "n": 72
+      },
+      {
+       "name": "ArTara",
+       "n": 6
+      },
+      {
+       "name": "PaperExchange",
+       "n": 67
+      },
+      {
+       "name": "NetGrocer",
+       "n": 59
+      },
+      {
+       "name": "Precheck",
+       "n": 70
+      },
+      {
+       "name": "Arc Group",
+       "n": 5
+      },
+      {
+       "name": "Women's Golf",
+       "n": 99
+      },
+      {
+       "name": "Cardlytics",
+       "n": 15
+      },
+      {
+       "name": "Upjohn",
+       "n": 96
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     2,
+     18,
+     24,
+     46,
+     47,
+     51,
+     53,
+     76,
+     80,
+     88,
+     95
+    ],
+    "possible": [
+     20,
+     72,
+     6,
+     67,
+     59,
+     70,
+     5,
+     99,
+     15,
+     96
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-law-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Yield Maintenance Agreement between Wells Fargo Bank on behalf of Wells Fargo Mortgage Backed Securities 2006-6 Trust and UBS AG",
+      "n": 98
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    98
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Yield Maintenance Agreement between Wells Fargo Bank on behalf of Wells Fargo Mortgage Backed Securities 2006-6 Trust and UBS AG",
+       "n": 98
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     98
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-law-2",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Otkritie Investments Cyprus Limited and QIWI plc — Cooperation Agreement",
+      "n": 72
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    72
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Otkritie Investments Cyprus Limited and QIWI plc — Cooperation Agreement",
+       "n": 72
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     72
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-signed-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-ends-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-ends-2",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-party-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Master Operation And Maintenance Agreement with BLOOM ENERGY CORPORATION — Diamond State Generation Partners, LLC",
+      "n": 10
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    10
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Diamond State Generation Partners, LLC — Master Operation And Maintenance Agreement with BLOOM ENERGY CORPORATION",
+       "n": 10
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     10
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-party-2",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Lucent Technologies Inc. — Co-Branding Agreement",
+      "n": 57
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    57
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Lucent Technologies Inc. — Co-Branding Agreement",
+       "n": 57
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     57
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-renewal-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "GARMAN ROUTING SYSTEMS, INC — SPARKLING SPRING WATER GROUP LIMITED Software License And Maintenance Agreement",
+      "n": 86
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    86
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "GARMAN ROUTING SYSTEMS, INC — SPARKLING SPRING WATER GROUP LIMITED Software License And Maintenance Agreement",
+       "n": 86
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     86
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "look-notice-1",
+  "claims": {
+   "count": 30,
+   "names": {
+    "yes": [
+     {
+      "name": "VerticalNet, Inc and PaperExchange.com, LLC — Co-Branding Agreement",
+      "n": 67
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    67
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 30,
+    "names": {
+     "yes": [
+      {
+       "name": "VerticalNet, Inc and PaperExchange.com, LLC — Co-Branding Agreement",
+       "n": 67
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     67
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "super-shortest-notice",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Corio Inc. License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "PaperExchange.com Co-Branding Agreement",
+      "n": 67
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    22,
+    67
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Corio Inc. — License and Hosting Agreement",
+       "n": 22
+      },
+      {
+       "name": "PaperExchange.com — Co-Branding Agreement",
+       "n": 67
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     22,
+     67
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "super-latest",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Joint Filing Agreement — Atento S.A. Schedule 13D (July 6, 2020)",
+      "n": 7
+     },
+     {
+      "name": "CURO Servicing Agreement (April 8, 2020)",
+      "n": 23
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    7,
+    23
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Joint Filing Agreement — Atento S.A. Schedule 13D (July 6, 2020)",
+       "n": 7
+      },
+      {
+       "name": "CURO Servicing Agreement (April 8, 2020)",
+       "n": 23
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     7,
+     23
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "date-signed-2008-2012",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Remark Holdings — Content License Agreement (World Book / HowStuffWorks)",
+      "n": 76
+     },
+     {
+      "name": "MiddleBrook Pharmaceuticals — Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "LEJU Internet Channel Cooperation Agreement",
+      "n": 51
+     },
+     {
+      "name": "iCoreConnect — Strategic Alliance Agreement",
+      "n": 42
+     },
+     {
+      "name": "Performance Sports Brands — Endorsement Agreement (Andy North)",
+      "n": 68
+     },
+     {
+      "name": "Cardlytics — Maintenance Agreement (addendum with Bank of America)",
+      "n": 15
+     },
+     {
+      "name": "Bloom Energy — Master Operations & Maintenance Agreement",
+      "n": 10
+     }
+    ],
+    "possible": [
+     {
+      "name": "China Real Estate Information Corp — Content License Agreement",
+      "n": 17
+     },
+     {
+      "name": "PHL Variable Insurance — Strategic Alliance Agreement",
+      "n": 69
+     },
+     {
+      "name": "Quantum Group — Hosting Agreement (IBM)",
+      "n": 74
+     }
+    ],
+    "no": [
+     {
+      "name": "ScanSource — Amendment No. 3",
+      "n": 81
+     },
+     {
+      "name": "ADMA Biologics — Amendment #3",
+      "n": 1
+     }
+    ]
+   },
+   "unplaced": [],
+   "yes": [
+    76,
+    56,
+    51,
+    42,
+    68,
+    15,
+    10
+   ],
+   "possible": [
+    17,
+    69,
+    74
+   ],
+   "no": [
+    81,
+    1
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Remark Holdings — Content License Agreement (World Book / HowStuffWorks)",
+       "n": 76
+      },
+      {
+       "name": "MiddleBrook Pharmaceuticals — Promotion Agreement",
+       "n": 56
+      },
+      {
+       "name": "LEJU Internet Channel Cooperation Agreement",
+       "n": 51
+      },
+      {
+       "name": "iCoreConnect — Strategic Alliance Agreement",
+       "n": 42
+      },
+      {
+       "name": "Performance Sports Brands — Endorsement Agreement (Andy North)",
+       "n": 68
+      },
+      {
+       "name": "Cardlytics — Maintenance Agreement (addendum with Bank of America)",
+       "n": 15
+      },
+      {
+       "name": "Bloom Energy — Master Operations & Maintenance Agreement",
+       "n": 10
+      }
+     ],
+     "possible": [
+      {
+       "name": "China Real Estate Information Corp — Content License Agreement",
+       "n": 17
+      },
+      {
+       "name": "PHL Variable Insurance — Strategic Alliance Agreement",
+       "n": 69
+      },
+      {
+       "name": "Quantum Group — Hosting Agreement (IBM)",
+       "n": 74
+      }
+     ],
+     "no": [
+      {
+       "name": "ScanSource — Amendment No. 3",
+       "n": 81
+      },
+      {
+       "name": "ADMA Biologics — Amendment #3",
+       "n": 1
+      }
+     ]
+    },
+    "unplaced": [],
+    "yes": [
+     76,
+     56,
+     51,
+     42,
+     68,
+     15,
+     10
+    ],
+    "possible": [
+     17,
+     69,
+     74
+    ],
+    "no": [
+     81,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "date-signed-pre2001",
+  "claims": {
+   "count": 17,
+   "names": {
+    "yes": [
+     {
+      "name": "Teardrop Golf – Endorsement Agreement",
+      "n": 91
+     },
+     {
+      "name": "Entrust – Strategic Alliance Agreement",
+      "n": 27
+     },
+     {
+      "name": "Summa Four – Software License & Maintenance",
+      "n": 90
+     },
+     {
+      "name": "NetGrocer – Sponsorship Agreement",
+      "n": 59
+     },
+     {
+      "name": "Logan's Roadhouse – Sponsorship Agreement",
+      "n": 54
+     },
+     {
+      "name": "HealthGate Data – Hosting & Management Agreement",
+      "n": 40
+     },
+     {
+      "name": "iVillage – Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "theglobe.com – Co-Branding Agreement",
+      "n": 92
+     },
+     {
+      "name": "Stamps.com – Sponsorship Agreement",
+      "n": 88
+     },
+     {
+      "name": "Embark.com – Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "PaperExchange.com – Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "Corio – License & Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Invenda – Co-Branding Agreement",
+      "n": 44
+     },
+     {
+      "name": "Women's Golf Unlimited – Endorsement Agreement",
+      "n": 99
+     },
+     {
+      "name": "Optimized Transportation Mgmt – Distributor Agreement",
+      "n": 66
+     },
+     {
+      "name": "Sparkling Spring Water – Software License & Maintenance",
+      "n": 86
+     },
+     {
+      "name": "OASYS Mobile – Outsourcing Agreement",
+      "n": 62
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    91,
+    27,
+    90,
+    59,
+    54,
+    40,
+    46,
+    92,
+    88,
+    24,
+    67,
+    22,
+    44,
+    99,
+    66,
+    86,
+    62
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 17,
+    "names": {
+     "yes": [
+      {
+       "name": "Teardrop Golf – Endorsement Agreement",
+       "n": 91
+      },
+      {
+       "name": "Entrust – Strategic Alliance Agreement",
+       "n": 27
+      },
+      {
+       "name": "Summa Four – Software License & Maintenance",
+       "n": 90
+      },
+      {
+       "name": "NetGrocer – Sponsorship Agreement",
+       "n": 59
+      },
+      {
+       "name": "Logan's Roadhouse – Sponsorship Agreement",
+       "n": 54
+      },
+      {
+       "name": "HealthGate Data – Hosting & Management Agreement",
+       "n": 40
+      },
+      {
+       "name": "iVillage – Sponsorship Agreement",
+       "n": 46
+      },
+      {
+       "name": "theglobe.com – Co-Branding Agreement",
+       "n": 92
+      },
+      {
+       "name": "Stamps.com – Sponsorship Agreement",
+       "n": 88
+      },
+      {
+       "name": "Embark.com – Co-Branding Agreement",
+       "n": 24
+      },
+      {
+       "name": "PaperExchange.com – Co-Branding Agreement",
+       "n": 67
+      },
+      {
+       "name": "Corio – License & Hosting Agreement",
+       "n": 22
+      },
+      {
+       "name": "Invenda – Co-Branding Agreement",
+       "n": 44
+      },
+      {
+       "name": "Women's Golf Unlimited – Endorsement Agreement",
+       "n": 99
+      },
+      {
+       "name": "Optimized Transportation Mgmt – Distributor Agreement",
+       "n": 66
+      },
+      {
+       "name": "Sparkling Spring Water – Software License & Maintenance",
+       "n": 86
+      },
+      {
+       "name": "OASYS Mobile – Outsourcing Agreement",
+       "n": 62
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     91,
+     27,
+     90,
+     59,
+     54,
+     40,
+     46,
+     92,
+     88,
+     24,
+     67,
+     22,
+     44,
+     99,
+     66,
+     86,
+     62
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "date-ending-asof-2020",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Healthcare Integrated Technologies (Inde Living) / Vayyar reseller agreement",
+      "n": 39
+     },
+     {
+      "name": "Global Technologies consulting agreement",
+      "n": 36
+     },
+     {
+      "name": "Allied Esports (WPT / Zynga) content license",
+      "n": 4
+     },
+     {
+      "name": "Precheck Health Services / Co-Diagnostics distributor agreement",
+      "n": 70
+     }
+    ],
+    "possible": [
+     {
+      "name": "Iovance / MD Anderson strategic alliance",
+      "n": 45
+     },
+     {
+      "name": "Reynolds transition services agreement",
+      "n": 78,
+      "by_hand": true
+     },
+     {
+      "name": "SeaSpine (Integra / PcoMed) supply agreement",
+      "n": 82
+     },
+     {
+      "name": "NeuroBo / Dong-A ST supply agreement",
+      "n": 60
+     },
+     {
+      "name": "Clickstream / InfinixSoft app development",
+      "n": 19
+     }
+    ],
+    "no": [
+     {
+      "name": "QIWI cooperation agreement",
+      "n": 72
+     },
+     {
+      "name": "Quaker Chemical",
+      "n": 73
+     },
+     {
+      "name": "HerImports maintenance agreement",
+      "n": 41
+     },
+     {
+      "name": "Gentech distributor agreement",
+      "n": 35
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "possible",
+     "name": "Reynolds transition services agreement",
+     "why": "ties: 77, 78",
+     "settled_by_claude": [
+      78
+     ]
+    }
+   ],
+   "yes": [
+    39,
+    36,
+    4,
+    70
+   ],
+   "possible": [
+    45,
+    82,
+    60,
+    19,
+    78
+   ],
+   "no": [
+    72,
+    73,
+    41,
+    35
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Healthcare Integrated Technologies (Inde Living) / Vayyar reseller agreement",
+       "n": 39
+      },
+      {
+       "name": "Global Technologies consulting agreement",
+       "n": 36
+      },
+      {
+       "name": "Allied Esports (WPT / Zynga) content license",
+       "n": 4
+      },
+      {
+       "name": "Precheck Health Services / Co-Diagnostics distributor agreement",
+       "n": 70
+      }
+     ],
+     "possible": [
+      {
+       "name": "Iovance / MD Anderson strategic alliance",
+       "n": 45
+      },
+      {
+       "name": "Reynolds transition services agreement",
+       "n": null
+      },
+      {
+       "name": "SeaSpine (Integra / PcoMed) supply agreement",
+       "n": 82
+      },
+      {
+       "name": "NeuroBo / Dong-A ST supply agreement",
+       "n": 60
+      },
+      {
+       "name": "Clickstream / InfinixSoft app development",
+       "n": 19
+      }
+     ],
+     "no": [
+      {
+       "name": "QIWI cooperation agreement",
+       "n": 72
+      },
+      {
+       "name": "Quaker Chemical",
+       "n": 73
+      },
+      {
+       "name": "HerImports maintenance agreement",
+       "n": 41
+      },
+      {
+       "name": "Gentech distributor agreement",
+       "n": 35
+      }
+     ]
+    },
+    "unplaced": [
+     {
+      "list": "possible",
+      "name": "Reynolds transition services agreement",
+      "why": "ties: 77, 78"
+     }
+    ],
+    "yes": [
+     39,
+     36,
+     4,
+     70
+    ],
+    "possible": [
+     45,
+     82,
+     60,
+     19
+    ],
+    "no": [
+     72,
+     73,
+     41,
+     35
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "date-no-end",
+  "claims": {
+   "count": 9,
+   "names": {
+    "yes": [
+     {
+      "name": "Energy XXI – Transportation Agreement",
+      "n": 26
+     },
+     {
+      "name": "Southern Star Energy – Affiliate Agreement",
+      "n": 85
+     },
+     {
+      "name": "Know Labs (Visualant / Turpin) – IP Agreement",
+      "n": 48
+     },
+     {
+      "name": "Summa Four – Software License & Maintenance",
+      "n": 90
+     },
+     {
+      "name": "Sparkling Spring Water – Software License & Maintenance",
+      "n": 86
+     },
+     {
+      "name": "PHL Variable Insurance – Strategic Alliance",
+      "n": 69
+     },
+     {
+      "name": "Eton Pharmaceuticals (Aucta) – License & Development",
+      "n": 28
+     },
+     {
+      "name": "Theravance Biopharma – Service Agreement",
+      "n": 93
+     },
+     {
+      "name": "ArTara (University of Iowa) – Sponsored Research & License",
+      "n": 6
+     }
+    ],
+    "possible": [
+     {
+      "name": "LinkPlus – Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "Cerence IP Agreement",
+      "n": 16
+     },
+     {
+      "name": "FIS IP Agreement",
+      "n": 30,
+      "by_hand": true
+     },
+     {
+      "name": "Galera Therapeutics – Joint Filing Agreement",
+      "n": 34
+     },
+     {
+      "name": "Federated – Services Agreement",
+      "n": 29
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "possible",
+     "name": "FIS IP Agreement",
+     "why": "no roster entry has any of its words",
+     "settled_by_claude": [
+      30
+     ]
+    }
+   ],
+   "yes": [
+    26,
+    85,
+    48,
+    90,
+    86,
+    69,
+    28,
+    93,
+    6
+   ],
+   "possible": [
+    53,
+    16,
+    34,
+    29,
+    30
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 9,
+    "names": {
+     "yes": [
+      {
+       "name": "Energy XXI – Transportation Agreement",
+       "n": 26
+      },
+      {
+       "name": "Southern Star Energy – Affiliate Agreement",
+       "n": 85
+      },
+      {
+       "name": "Know Labs (Visualant / Turpin) – IP Agreement",
+       "n": 48
+      },
+      {
+       "name": "Summa Four – Software License & Maintenance",
+       "n": 90
+      },
+      {
+       "name": "Sparkling Spring Water – Software License & Maintenance",
+       "n": 86
+      },
+      {
+       "name": "PHL Variable Insurance – Strategic Alliance",
+       "n": 69
+      },
+      {
+       "name": "Eton Pharmaceuticals (Aucta) – License & Development",
+       "n": 28
+      },
+      {
+       "name": "Theravance Biopharma – Service Agreement",
+       "n": 93
+      },
+      {
+       "name": "ArTara (University of Iowa) – Sponsored Research & License",
+       "n": 6
+      }
+     ],
+     "possible": [
+      {
+       "name": "LinkPlus – Affiliate Agreement",
+       "n": 53
+      },
+      {
+       "name": "Cerence IP Agreement",
+       "n": 16
+      },
+      {
+       "name": "FIS IP Agreement",
+       "n": null
+      },
+      {
+       "name": "Galera Therapeutics – Joint Filing Agreement",
+       "n": 34
+      },
+      {
+       "name": "Federated – Services Agreement",
+       "n": 29
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [
+     {
+      "list": "possible",
+      "name": "FIS IP Agreement",
+      "why": "no roster entry has any of its words"
+     }
+    ],
+    "yes": [
+     26,
+     85,
+     48,
+     90,
+     86,
+     69,
+     28,
+     93,
+     6
+    ],
+    "possible": [
+     53,
+     16,
+     34,
+     29
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "date-asof-notice",
+  "claims": {
+   "count": 3,
+   "names": {
+    "yes": [
+     {
+      "name": "PaperExchange.com / VerticalNet Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "Corio / Commerce One License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "BNL Financial / Virtual Item Processing Outsourcing Agreement",
+      "n": 11
+     }
+    ],
+    "possible": [
+     {
+      "name": "MiddleBrook / DoctorDirectory Promotion Agreement",
+      "n": 56
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    67,
+    22,
+    11
+   ],
+   "possible": [
+    56
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 3,
+    "names": {
+     "yes": [
+      {
+       "name": "PaperExchange.com / VerticalNet Co-Branding Agreement",
+       "n": 67
+      },
+      {
+       "name": "Corio / Commerce One License and Hosting Agreement",
+       "n": 22
+      },
+      {
+       "name": "BNL Financial / Virtual Item Processing Outsourcing Agreement",
+       "n": 11
+      }
+     ],
+     "possible": [
+      {
+       "name": "MiddleBrook / DoctorDirectory Promotion Agreement",
+       "n": 56
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     67,
+     22,
+     11
+    ],
+    "possible": [
+     56
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "date-in-force-today",
+  "claims": {
+   "count": 30,
+   "names": {
+    "yes": [
+     {
+      "name": "RGC Resources – Town of Vinton gas franchise",
+      "n": 79
+     },
+     {
+      "name": "Range Resources (PennTex–MRD) transportation",
+      "n": 75
+     },
+     {
+      "name": "STW Resources – City of Fort Stockton cooperation",
+      "n": 89
+     },
+     {
+      "name": "Bloom Energy – Diamond State operations and maintenance agreement",
+      "n": 10
+     },
+     {
+      "name": "China Recycling Energy cooperation",
+      "n": 18
+     },
+     {
+      "name": "Coherus – Bioeq licence",
+      "n": 20
+     },
+     {
+      "name": "HOF Village – Constellation sponsorship",
+      "n": 38
+     },
+     {
+      "name": "Agape ATP – Organic Preparations supply",
+      "n": 2
+     },
+     {
+      "name": "Cerence – Nuance IP agreement",
+      "n": 16
+     },
+     {
+      "name": "FIS (Equifax–Certegy) IP agreement",
+      "n": 30,
+      "by_hand": true
+     },
+     {
+      "name": "Link Plus – Axiometric affiliate agreement",
+      "n": 53
+     },
+     {
+      "name": "Lifeway Foods endorsement",
+      "n": 52
+     },
+     {
+      "name": "BNL outsourcing",
+      "n": 11
+     },
+     {
+      "name": "Corio – Commerce One",
+      "n": 22
+     },
+     {
+      "name": "iCoreConnect – USA Managed Care",
+      "n": 42
+     },
+     {
+      "name": "Vayyar – Inde Living reseller",
+      "n": 39
+     },
+     {
+      "name": "PaperExchange – VerticalNet",
+      "n": 67
+     },
+     {
+      "name": "MiddleBrook promotion",
+      "n": 56
+     },
+     {
+      "name": "NICE – Flextronics",
+      "n": 61
+     },
+     {
+      "name": "FTE – EDGE",
+      "n": 33
+     },
+     {
+      "name": "ArTara – University of Iowa",
+      "n": 6
+     },
+     {
+      "name": "Energy XXI transportation",
+      "n": 26
+     },
+     {
+      "name": "Eton – Aucta",
+      "n": 28
+     },
+     {
+      "name": "Summa Four – D2",
+      "n": 90
+     },
+     {
+      "name": "Sparkling Spring software licence",
+      "n": 86
+     },
+     {
+      "name": "Know Labs – Turpin IP",
+      "n": 48
+     },
+     {
+      "name": "PHL Variable – Investors Capital",
+      "n": 69
+     },
+     {
+      "name": "Theravance employment agreement",
+      "n": 93
+     },
+     {
+      "name": "Galera joint filing agreement",
+      "n": 34
+     },
+     {
+      "name": "Southern Star (element 5) affiliate terms",
+      "n": 85
+     }
+    ],
+    "possible": [
+     {
+      "name": "Emerald Health – Dr. Murray agreement",
+      "n": 25
+     },
+     {
+      "name": "Aimmune–Xencor",
+      "n": 3,
+      "by_hand": true
+     },
+     {
+      "name": "CURO",
+      "n": 23
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "FIS (Equifax–Certegy) IP agreement",
+     "why": "no roster entry has any of its words",
+     "settled_by_claude": [
+      30
+     ]
+    },
+    {
+     "list": "possible",
+     "name": "Aimmune–Xencor",
+     "why": "no roster entry has any of its words",
+     "settled_by_claude": [
+      3
+     ]
+    }
+   ],
+   "yes": [
+    79,
+    75,
+    89,
+    10,
+    18,
+    20,
+    38,
+    2,
+    16,
+    53,
+    52,
+    11,
+    22,
+    42,
+    39,
+    67,
+    56,
+    61,
+    33,
+    6,
+    26,
+    28,
+    90,
+    86,
+    48,
+    69,
+    93,
+    34,
+    85,
+    30
+   ],
+   "possible": [
+    25,
+    23,
+    3
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 30,
+    "names": {
+     "yes": [
+      {
+       "name": "RGC Resources – Town of Vinton gas franchise",
+       "n": 79
+      },
+      {
+       "name": "Range Resources (PennTex–MRD) transportation",
+       "n": 75
+      },
+      {
+       "name": "STW Resources – City of Fort Stockton cooperation",
+       "n": 89
+      },
+      {
+       "name": "Bloom Energy – Diamond State operations and maintenance agreement",
+       "n": 10
+      },
+      {
+       "name": "China Recycling Energy cooperation",
+       "n": 18
+      },
+      {
+       "name": "Coherus – Bioeq licence",
+       "n": 20
+      },
+      {
+       "name": "HOF Village – Constellation sponsorship",
+       "n": 38
+      },
+      {
+       "name": "Agape ATP – Organic Preparations supply",
+       "n": 2
+      },
+      {
+       "name": "Cerence – Nuance IP agreement",
+       "n": 16
+      },
+      {
+       "name": "FIS (Equifax–Certegy) IP agreement",
+       "n": null
+      },
+      {
+       "name": "Link Plus – Axiometric affiliate agreement",
+       "n": 53
+      },
+      {
+       "name": "Lifeway Foods endorsement",
+       "n": 52
+      },
+      {
+       "name": "BNL outsourcing",
+       "n": 11
+      },
+      {
+       "name": "Corio – Commerce One",
+       "n": 22
+      },
+      {
+       "name": "iCoreConnect – USA Managed Care",
+       "n": 42
+      },
+      {
+       "name": "Vayyar – Inde Living reseller",
+       "n": 39
+      },
+      {
+       "name": "PaperExchange – VerticalNet",
+       "n": 67
+      },
+      {
+       "name": "MiddleBrook promotion",
+       "n": 56
+      },
+      {
+       "name": "NICE – Flextronics",
+       "n": 61
+      },
+      {
+       "name": "FTE – EDGE",
+       "n": 33
+      },
+      {
+       "name": "ArTara – University of Iowa",
+       "n": 6
+      },
+      {
+       "name": "Energy XXI transportation",
+       "n": 26
+      },
+      {
+       "name": "Eton – Aucta",
+       "n": 28
+      },
+      {
+       "name": "Summa Four – D2",
+       "n": 90
+      },
+      {
+       "name": "Sparkling Spring software licence",
+       "n": 86
+      },
+      {
+       "name": "Know Labs – Turpin IP",
+       "n": 48
+      },
+      {
+       "name": "PHL Variable – Investors Capital",
+       "n": 69
+      },
+      {
+       "name": "Theravance employment agreement",
+       "n": 93
+      },
+      {
+       "name": "Galera joint filing agreement",
+       "n": 34
+      },
+      {
+       "name": "Southern Star affiliate terms",
+       "n": 85
+      }
+     ],
+     "possible": [
+      {
+       "name": "Emerald Health – Dr. Murray agreement",
+       "n": 25
+      },
+      {
+       "name": "Aimmune–Xencor",
+       "n": null
+      },
+      {
+       "name": "CURO",
+       "n": 23
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [
+     {
+      "list": "yes",
+      "name": "FIS (Equifax–Certegy) IP agreement",
+      "why": "no roster entry has any of its words"
+     },
+     {
+      "list": "possible",
+      "name": "Aimmune–Xencor",
+      "why": "no roster entry has any of its words"
+     }
+    ],
+    "yes": [
+     79,
+     75,
+     89,
+     10,
+     18,
+     20,
+     38,
+     2,
+     16,
+     53,
+     52,
+     11,
+     22,
+     42,
+     39,
+     67,
+     56,
+     61,
+     33,
+     6,
+     26,
+     28,
+     90,
+     86,
+     48,
+     69,
+     93,
+     34,
+     85
+    ],
+    "possible": [
+     25,
+     23
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "both-post2010-nosolicit",
+  "claims": {
+   "count": 8,
+   "names": {
+    "yes": [
+     {
+      "name": "Leclanché S.A. and Oak Ridge Energy Technologies — Joint Development and Marketing Agreement",
+      "n": 50
+     },
+     {
+      "name": "EDGE Communications and FTE Networks — Strategic Alliance Agreement",
+      "n": 33
+     },
+     {
+      "name": "Quaker Chemical and the Gulf Oil sellers — Non-Competition and Non-Solicitation Agreement",
+      "n": 73
+     },
+     {
+      "name": "Bioeq and Coherus BioSciences — License and Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory, Edible Arrangements and Farids — Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Coral Gold Resources and Intermark Capital — Consulting Agreement",
+      "n": 21
+     },
+     {
+      "name": "InfinixSoft and Clickstream — Application Development Agreement",
+      "n": 19
+     },
+     {
+      "name": "Kubient and The Associated Press — Master Services Agreement",
+      "n": 49
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    50,
+    33,
+    73,
+    20,
+    80,
+    21,
+    19,
+    49
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 8,
+    "names": {
+     "yes": [
+      {
+       "name": "Leclanché S.A. and Oak Ridge Energy Technologies — Joint Development and Marketing Agreement",
+       "n": 50
+      },
+      {
+       "name": "EDGE Communications and FTE Networks — Strategic Alliance Agreement",
+       "n": 33
+      },
+      {
+       "name": "Quaker Chemical and the Gulf Oil sellers — Non-Competition and Non-Solicitation Agreement",
+       "n": 73
+      },
+      {
+       "name": "Bioeq and Coherus BioSciences — License and Development Agreement",
+       "n": 20
+      },
+      {
+       "name": "Rocky Mountain Chocolate Factory, Edible Arrangements and Farids — Strategic Alliance Agreement",
+       "n": 80
+      },
+      {
+       "name": "Coral Gold Resources and Intermark Capital — Consulting Agreement",
+       "n": 21
+      },
+      {
+       "name": "InfinixSoft and Clickstream — Application Development Agreement",
+       "n": 19
+      },
+      {
+       "name": "Kubient and The Associated Press — Master Services Agreement",
+       "n": 49
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     50,
+     33,
+     73,
+     20,
+     80,
+     21,
+     19,
+     49
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "or-nosolicit-rofr",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Clickstream Development Agreement",
+      "n": 19
+     },
+     {
+      "name": "Coherus Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Leclanché Joint Development and Marketing Agreement",
+      "n": 50
+     },
+     {
+      "name": "Coral Gold Consulting Agreement",
+      "n": 21
+     },
+     {
+      "name": "FTE Networks Strategic Alliance",
+      "n": 33
+     },
+     {
+      "name": "Sparkling Spring Water Software License",
+      "n": 86
+     },
+     {
+      "name": "Kubient Master Services Agreement (Part 2)",
+      "n": 49
+     },
+     {
+      "name": "PHL Variable Strategic Alliance",
+      "n": 69
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory Strategic Alliance",
+      "n": 80
+     },
+     {
+      "name": "Quaker Chemical Non-Competition and Non-Solicitation Agreement",
+      "n": 73
+     },
+     {
+      "name": "OFG Bancorp Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "Theravance Service Agreement",
+      "n": 93
+     },
+     {
+      "name": "Agape ATP Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Embark.com Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "LinkPlus Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "Stamps.com Sponsorship Agreement",
+      "n": 88
+     },
+     {
+      "name": "Todos Medical Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "iVillage Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "King Pharmaceuticals Promotion Agreement",
+      "n": 47
+     },
+     {
+      "name": "Remark Holdings Content License",
+      "n": 76
+     }
+    ],
+    "possible": [
+     {
+      "name": "Coherus",
+      "n": 20
+     },
+     {
+      "name": "China Recycling Energy",
+      "n": 18
+     },
+     {
+      "name": "Precheck",
+      "n": 70
+     },
+     {
+      "name": "Leju",
+      "n": 51,
+      "by_hand": true
+     },
+     {
+      "name": "Artara",
+      "n": 6
+     },
+     {
+      "name": "Cardax",
+      "n": 14
+     },
+     {
+      "name": "Bellring",
+      "n": 9
+     },
+     {
+      "name": "Healthcare Integrated Technologies",
+      "n": 39
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "possible",
+     "name": "Leju",
+     "why": "ties: 17, 51",
+     "settled_by_claude": [
+      51
+     ]
+    }
+   ],
+   "yes": [
+    19,
+    20,
+    50,
+    21,
+    33,
+    86,
+    49,
+    69,
+    80,
+    73,
+    63,
+    93,
+    2,
+    24,
+    53,
+    88,
+    95,
+    46,
+    47,
+    76
+   ],
+   "possible": [
+    20,
+    18,
+    70,
+    6,
+    14,
+    9,
+    39,
+    51
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Clickstream Development Agreement",
+       "n": 19
+      },
+      {
+       "name": "Coherus Development Agreement",
+       "n": 20
+      },
+      {
+       "name": "Leclanché Joint Development and Marketing Agreement",
+       "n": 50
+      },
+      {
+       "name": "Coral Gold Consulting Agreement",
+       "n": 21
+      },
+      {
+       "name": "FTE Networks Strategic Alliance",
+       "n": 33
+      },
+      {
+       "name": "Sparkling Spring Water Software License",
+       "n": 86
+      },
+      {
+       "name": "Kubient Master Services Agreement (Part 2)",
+       "n": 49
+      },
+      {
+       "name": "PHL Variable Strategic Alliance",
+       "n": 69
+      },
+      {
+       "name": "Rocky Mountain Chocolate Factory Strategic Alliance",
+       "n": 80
+      },
+      {
+       "name": "Quaker Chemical Non-Competition and Non-Solicitation Agreement",
+       "n": 73
+      },
+      {
+       "name": "OFG Bancorp Outsourcing Agreement",
+       "n": 63
+      },
+      {
+       "name": "Theravance Service Agreement",
+       "n": 93
+      },
+      {
+       "name": "Agape ATP Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "Embark.com Co-Branding Agreement",
+       "n": 24
+      },
+      {
+       "name": "LinkPlus Affiliate Agreement",
+       "n": 53
+      },
+      {
+       "name": "Stamps.com Sponsorship Agreement",
+       "n": 88
+      },
+      {
+       "name": "Todos Medical Reseller Agreement",
+       "n": 95
+      },
+      {
+       "name": "iVillage Sponsorship Agreement",
+       "n": 46
+      },
+      {
+       "name": "King Pharmaceuticals Promotion Agreement",
+       "n": 47
+      },
+      {
+       "name": "Remark Holdings Content License",
+       "n": 76
+      }
+     ],
+     "possible": [
+      {
+       "name": "Coherus",
+       "n": 20
+      },
+      {
+       "name": "China Recycling Energy",
+       "n": 18
+      },
+      {
+       "name": "Precheck",
+       "n": 70
+      },
+      {
+       "name": "Leju",
+       "n": null
+      },
+      {
+       "name": "Artara",
+       "n": 6
+      },
+      {
+       "name": "Cardax",
+       "n": 14
+      },
+      {
+       "name": "Bellring",
+       "n": 9
+      },
+      {
+       "name": "Healthcare Integrated Technologies",
+       "n": 39
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [
+     {
+      "list": "possible",
+      "name": "Leju",
+      "why": "ties: 17, 51"
+     }
+    ],
+    "yes": [
+     19,
+     20,
+     50,
+     21,
+     33,
+     86,
+     49,
+     69,
+     80,
+     73,
+     63,
+     93,
+     2,
+     24,
+     53,
+     88,
+     95,
+     46,
+     47,
+     76
+    ],
+    "possible": [
+     20,
+     18,
+     70,
+     6,
+     14,
+     9,
+     39
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "party",
+  "claims": {
+   "count": 2,
+   "names": {
+    "yes": [
+     {
+      "name": "Domain Name and Content License Agreement",
+      "n": 17,
+      "by_hand": true
+     },
+     {
+      "name": "Internet Channel Cooperation Agreement",
+      "n": 51
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "Domain Name and Content License Agreement",
+     "why": "ties: 4, 17, 37, 76, 97",
+     "settled_by_claude": [
+      17
+     ]
+    }
+   ],
+   "yes": [
+    51,
+    17
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 2,
+    "names": {
+     "yes": [
+      {
+       "name": "Domain Name and Content License Agreement",
+       "n": null
+      },
+      {
+       "name": "Internet Channel Cooperation Agreement",
+       "n": 51
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [
+     {
+      "list": "yes",
+      "name": "Domain Name and Content License Agreement",
+      "why": "ties: 4, 17, 37, 76, 97"
+     }
+    ],
+    "yes": [
+     51
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "type-hosting",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Quantum Group – e-business Hosting Agreement",
+      "n": 74
+     },
+     {
+      "name": "Freecook – Website Design, Development and Hosting Agreement",
+      "n": 31
+     },
+     {
+      "name": "Corio – License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "HealthGate – Electronic Journal Software Development, Hosting and Management Agreement",
+      "n": 40
+     }
+    ],
+    "possible": [
+     {
+      "name": "Oasys Mobile – Outsourcing Agreement",
+      "n": 62
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    74,
+    31,
+    22,
+    40
+   ],
+   "possible": [
+    62
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Quantum Group – e-business Hosting Agreement",
+       "n": 74
+      },
+      {
+       "name": "Freecook – Website Design, Development and Hosting Agreement",
+       "n": 31
+      },
+      {
+       "name": "Corio – License and Hosting Agreement",
+       "n": 22
+      },
+      {
+       "name": "HealthGate – Electronic Journal Software Development, Hosting and Management Agreement",
+       "n": 40
+      }
+     ],
+     "possible": [
+      {
+       "name": "Oasys Mobile – Outsourcing Agreement",
+       "n": 62
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     74,
+     31,
+     22,
+     40
+    ],
+    "possible": [
+     62
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "threshold-notice60",
+  "claims": {
+   "count": 5,
+   "names": {
+    "yes": [
+     {
+      "name": "BNL Financial — Virtual Item Processing – Outsourcing Agreement",
+      "n": 11
+     },
+     {
+      "name": "Agape ATP — ODM Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Emerald Health — Consulting & Product Development Agreement",
+      "n": 25
+     },
+     {
+      "name": "iCoreConnect (iMedicor / USA MCO) — Strategic Alliance Agreement",
+      "n": 42
+     },
+     {
+      "name": "Todos Medical — Marketing & Reseller Agreement",
+      "n": 95
+     }
+    ],
+    "possible": [
+     {
+      "name": "OFG Bancorp / Metavante — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "STW Resources — Cooperation Agreement",
+      "n": 89
+     },
+     {
+      "name": "MiddleBrook Pharmaceuticals — Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "Healthcare Integrated Technologies (Vayyar) — Reseller Agreement",
+      "n": 39
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    11,
+    2,
+    25,
+    42,
+    95
+   ],
+   "possible": [
+    63,
+    89,
+    56,
+    39
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 5,
+    "names": {
+     "yes": [
+      {
+       "name": "BNL Financial — Virtual Item Processing – Outsourcing Agreement",
+       "n": 11
+      },
+      {
+       "name": "Agape ATP — ODM Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "Emerald Health — Consulting & Product Development Agreement",
+       "n": 25
+      },
+      {
+       "name": "iCoreConnect (iMedicor / USA MCO) — Strategic Alliance Agreement",
+       "n": 42
+      },
+      {
+       "name": "Todos Medical — Marketing & Reseller Agreement",
+       "n": 95
+      }
+     ],
+     "possible": [
+      {
+       "name": "OFG Bancorp / Metavante — Outsourcing Agreement",
+       "n": 63
+      },
+      {
+       "name": "STW Resources — Cooperation Agreement",
+       "n": 89
+      },
+      {
+       "name": "MiddleBrook Pharmaceuticals — Promotion Agreement",
+       "n": 56
+      },
+      {
+       "name": "Healthcare Integrated Technologies (Vayyar) — Reseller Agreement",
+       "n": 39
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     11,
+     2,
+     25,
+     42,
+     95
+    ],
+    "possible": [
+     63,
+     89,
+     56,
+     39
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "absent-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "absent-2",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-noncompete-or-exclusivity",
+  "claims": {
+   "count": 47,
+   "names": {
+    "yes": [
+     {
+      "name": "Staar Surgical Distributor",
+      "n": 87
+     },
+     {
+      "name": "Agape ATP Supply",
+      "n": 2
+     },
+     {
+      "name": "Aimmune Development",
+      "n": 3
+     },
+     {
+      "name": "Coherus Development",
+      "n": 20
+     },
+     {
+      "name": "Eton Development",
+      "n": 28
+     },
+     {
+      "name": "King Pharmaceuticals Promotion",
+      "n": 47
+     },
+     {
+      "name": "Todos Medical Reseller",
+      "n": 95
+     },
+     {
+      "name": "Clickstream Development",
+      "n": 19
+     },
+     {
+      "name": "Emerald Health Development",
+      "n": 25
+     },
+     {
+      "name": "Healthgate Hosting",
+      "n": 40
+     },
+     {
+      "name": "Stamps.com Sponsorship",
+      "n": 88
+     },
+     {
+      "name": "NetGrocer Sponsorship",
+      "n": 59
+     },
+     {
+      "name": "PaperExchange Co-Branding",
+      "n": 67
+     },
+     {
+      "name": "Invenda Co-Branding",
+      "n": 44
+     },
+     {
+      "name": "Remark / World Book Content License",
+      "n": 76
+     },
+     {
+      "name": "Lifeway Foods Endorsement",
+      "n": 52
+     },
+     {
+      "name": "Performance Sports Endorsement",
+      "n": 68
+     },
+     {
+      "name": "Logan's Roadhouse Sponsorship",
+      "n": 54
+     },
+     {
+      "name": "Quaker Chemical Non-Competition Agreement",
+      "n": 73
+     },
+     {
+      "name": "Precheck Distributor",
+      "n": 70
+     },
+     {
+      "name": "Theravance Service Agreement",
+      "n": 93
+     },
+     {
+      "name": "theglobe.com Co-Branding",
+      "n": 92
+     },
+     {
+      "name": "BellRing Manufacturing",
+      "n": 9
+     },
+     {
+      "name": "BorrowMoney.com Joint Venture",
+      "n": 13
+     },
+     {
+      "name": "Gentech",
+      "n": 35
+     },
+     {
+      "name": "Optimized Transportation",
+      "n": 66
+     },
+     {
+      "name": "NeoMedia",
+      "n": 58
+     },
+     {
+      "name": "Link Plus",
+      "n": 53
+     },
+     {
+      "name": "Bon-Ton",
+      "n": 12
+     },
+     {
+      "name": "Leclanché",
+      "n": 50
+     },
+     {
+      "name": "SeaSpine Supply",
+      "n": 82
+     },
+     {
+      "name": "Artara",
+      "n": 6
+     },
+     {
+      "name": "China Real Estate Information",
+      "n": 17
+     },
+     {
+      "name": "Cardax",
+      "n": 14
+     },
+     {
+      "name": "FIS IP Agreement",
+      "n": 30
+     },
+     {
+      "name": "iVillage",
+      "n": 46
+     },
+     {
+      "name": "Embark.com",
+      "n": 24
+     },
+     {
+      "name": "LEJU/Baidu",
+      "n": 51
+     },
+     {
+      "name": "Allied Esports",
+      "n": 4
+     },
+     {
+      "name": "Teardrop Golf",
+      "n": 91
+     },
+     {
+      "name": "Upjohn",
+      "n": 96
+     },
+     {
+      "name": "NeuroBo",
+      "n": 60
+     },
+     {
+      "name": "GPAQ/HOF Village",
+      "n": 38
+     },
+     {
+      "name": "OFG Bancorp",
+      "n": 63
+     },
+     {
+      "name": "Range Resources",
+      "n": 75
+     },
+     {
+      "name": "Intersect ENT",
+      "n": 43
+     },
+     {
+      "name": "Kubient MSA",
+      "n": 49
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    3,
+    4,
+    6,
+    9,
+    12,
+    13,
+    14,
+    17,
+    19,
+    20,
+    24,
+    25,
+    28,
+    30,
+    35,
+    38,
+    40,
+    43,
+    44,
+    46,
+    47,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    58,
+    59,
+    60,
+    63,
+    66,
+    67,
+    68,
+    70,
+    73,
+    75,
+    76,
+    82,
+    87,
+    88,
+    91,
+    92,
+    93,
+    95,
+    96
+   ],
+   "possible": [],
+   "no": [],
+   "settled": [
+    {
+     "list": "yes",
+     "name": "FIS IP Agreement",
+     "n": [
+      30
+     ],
+     "why": "FIS = Fidelity National Information Services; its IP agreement (Equifax/Certegy) is file 30, the only FIS file"
+    }
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 47,
+    "names": {
+     "yes": [
+      {
+       "name": "Staar Surgical Distributor",
+       "n": 87
+      },
+      {
+       "name": "Agape ATP Supply",
+       "n": 2
+      },
+      {
+       "name": "Aimmune Development",
+       "n": 3
+      },
+      {
+       "name": "Coherus Development",
+       "n": 20
+      },
+      {
+       "name": "Eton Development",
+       "n": 28
+      },
+      {
+       "name": "King Pharmaceuticals Promotion",
+       "n": 47
+      },
+      {
+       "name": "Todos Medical Reseller",
+       "n": 95
+      },
+      {
+       "name": "Clickstream Development",
+       "n": 19
+      },
+      {
+       "name": "Emerald Health Development",
+       "n": 25
+      },
+      {
+       "name": "Healthgate Hosting",
+       "n": 40
+      },
+      {
+       "name": "Stamps.com Sponsorship",
+       "n": 88
+      },
+      {
+       "name": "NetGrocer Sponsorship",
+       "n": 59
+      },
+      {
+       "name": "PaperExchange Co-Branding",
+       "n": 67
+      },
+      {
+       "name": "Invenda Co-Branding",
+       "n": 44
+      },
+      {
+       "name": "Remark / World Book Content License",
+       "n": 76
+      },
+      {
+       "name": "Lifeway Foods Endorsement",
+       "n": 52
+      },
+      {
+       "name": "Performance Sports Endorsement",
+       "n": 68
+      },
+      {
+       "name": "Logan's Roadhouse Sponsorship",
+       "n": 54
+      },
+      {
+       "name": "Quaker Chemical Non-Competition Agreement",
+       "n": 73
+      },
+      {
+       "name": "Precheck Distributor",
+       "n": 70
+      },
+      {
+       "name": "Theravance Service Agreement",
+       "n": 93
+      },
+      {
+       "name": "theglobe.com Co-Branding",
+       "n": 92
+      },
+      {
+       "name": "BellRing Manufacturing",
+       "n": 9
+      },
+      {
+       "name": "BorrowMoney.com Joint Venture",
+       "n": 13
+      },
+      {
+       "name": "Gentech",
+       "n": 35
+      },
+      {
+       "name": "Optimized Transportation",
+       "n": 66
+      },
+      {
+       "name": "NeoMedia",
+       "n": 58
+      },
+      {
+       "name": "Link Plus",
+       "n": 53
+      },
+      {
+       "name": "Bon-Ton",
+       "n": 12
+      },
+      {
+       "name": "Leclanché",
+       "n": 50
+      },
+      {
+       "name": "SeaSpine Supply",
+       "n": 82
+      },
+      {
+       "name": "Artara",
+       "n": 6
+      },
+      {
+       "name": "China Real Estate Information",
+       "n": 17
+      },
+      {
+       "name": "Cardax",
+       "n": 14
+      },
+      {
+       "name": "FIS IP Agreement",
+       "n": null
+      },
+      {
+       "name": "iVillage",
+       "n": 46
+      },
+      {
+       "name": "Embark.com",
+       "n": 24
+      },
+      {
+       "name": "LEJU/Baidu",
+       "n": 51
+      },
+      {
+       "name": "Allied Esports",
+       "n": 4
+      },
+      {
+       "name": "Teardrop Golf",
+       "n": 91
+      },
+      {
+       "name": "Upjohn",
+       "n": 96
+      },
+      {
+       "name": "NeuroBo",
+       "n": 60
+      },
+      {
+       "name": "GPAQ/HOF Village",
+       "n": 38
+      },
+      {
+       "name": "OFG Bancorp",
+       "n": 63
+      },
+      {
+       "name": "Range Resources",
+       "n": 75
+      },
+      {
+       "name": "Intersect ENT",
+       "n": 43
+      },
+      {
+       "name": "Kubient MSA",
+       "n": 49
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [
+     {
+      "list": "yes",
+      "name": "FIS IP Agreement",
+      "why": "no roster entry has any of its words"
+     }
+    ],
+    "yes": [
+     87,
+     2,
+     3,
+     20,
+     28,
+     47,
+     95,
+     19,
+     25,
+     40,
+     88,
+     59,
+     67,
+     44,
+     76,
+     52,
+     68,
+     54,
+     73,
+     70,
+     93,
+     92,
+     9,
+     13,
+     35,
+     66,
+     58,
+     53,
+     12,
+     50,
+     82,
+     6,
+     17,
+     14,
+     46,
+     24,
+     51,
+     4,
+     91,
+     96,
+     60,
+     38,
+     63,
+     75,
+     43,
+     49
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-law-outside-us",
+  "claims": {
+   "count": 15,
+   "names": {
+    "yes": [
+     {
+      "name": "LEJU Holdings / Baidu Internet Channel Cooperation",
+      "n": 51
+     },
+     {
+      "name": "China Real Estate Information Corp / SINA Content License",
+      "n": 17
+     },
+     {
+      "name": "NeoMedia / PPG Paints Trading (Shanghai) Distributor",
+      "n": 58
+     },
+     {
+      "name": "Leclanché / Oak Ridge Joint Development and Marketing",
+      "n": 50
+     },
+     {
+      "name": "QIWI / Otkritie Cooperation Agreement",
+      "n": 72
+     },
+     {
+      "name": "Theravance Biopharma UK Service Agreement",
+      "n": 93
+     },
+     {
+      "name": "Healthgate Data Hosting and Management",
+      "n": 40
+     },
+     {
+      "name": "Agape ATP Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Southern Star Energy (element 5 affiliate terms)",
+      "n": 85
+     },
+     {
+      "name": "NICE Ltd / Flextronics Israel Outsourcing",
+      "n": 61
+     },
+     {
+      "name": "Todos Medical Marketing/Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "Entrust / Northern Telecom Strategic Alliance",
+      "n": 27
+     },
+     {
+      "name": "Know Labs (Visualant) IP Agreement",
+      "n": 48
+     },
+     {
+      "name": "Coral Gold Resources Consulting Agreement",
+      "n": 21
+     },
+     {
+      "name": "Sparkling Spring Water Software License and Maintenance",
+      "n": 86
+     }
+    ],
+    "possible": [
+     {
+      "name": "Intersect ENT / Hovione Supply",
+      "n": 43
+     },
+     {
+      "name": "China Recycling Energy Cooperation",
+      "n": 18
+     },
+     {
+      "name": "Quaker Chemical Non-Competition",
+      "n": 73
+     },
+     {
+      "name": "Aimmune / Xencor Development",
+      "n": 3
+     },
+     {
+      "name": "Coherus / Bioeq IP AG",
+      "n": 20
+     },
+     {
+      "name": "Freecook Hosting Agreement",
+      "n": 31
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    51,
+    17,
+    58,
+    50,
+    72,
+    93,
+    40,
+    2,
+    85,
+    61,
+    95,
+    27,
+    48,
+    21,
+    86
+   ],
+   "possible": [
+    43,
+    18,
+    73,
+    3,
+    20,
+    31
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 15,
+    "names": {
+     "yes": [
+      {
+       "name": "LEJU Holdings / Baidu Internet Channel Cooperation",
+       "n": 51
+      },
+      {
+       "name": "China Real Estate Information Corp / SINA Content License",
+       "n": 17
+      },
+      {
+       "name": "NeoMedia / PPG Paints Trading (Shanghai) Distributor",
+       "n": 58
+      },
+      {
+       "name": "Leclanché / Oak Ridge Joint Development and Marketing",
+       "n": 50
+      },
+      {
+       "name": "QIWI / Otkritie Cooperation Agreement",
+       "n": 72
+      },
+      {
+       "name": "Theravance Biopharma UK Service Agreement",
+       "n": 93
+      },
+      {
+       "name": "Healthgate Data Hosting and Management",
+       "n": 40
+      },
+      {
+       "name": "Agape ATP Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "Southern Star Energy (element 5 affiliate terms)",
+       "n": 85
+      },
+      {
+       "name": "NICE Ltd / Flextronics Israel Outsourcing",
+       "n": 61
+      },
+      {
+       "name": "Todos Medical Marketing/Reseller Agreement",
+       "n": 95
+      },
+      {
+       "name": "Entrust / Northern Telecom Strategic Alliance",
+       "n": 27
+      },
+      {
+       "name": "Know Labs (Visualant) IP Agreement",
+       "n": 48
+      },
+      {
+       "name": "Coral Gold Resources Consulting Agreement",
+       "n": 21
+      },
+      {
+       "name": "Sparkling Spring Water Software License and Maintenance",
+       "n": 86
+      }
+     ],
+     "possible": [
+      {
+       "name": "Intersect ENT / Hovione Supply",
+       "n": 43
+      },
+      {
+       "name": "China Recycling Energy Cooperation",
+       "n": 18
+      },
+      {
+       "name": "Quaker Chemical Non-Competition",
+       "n": 73
+      },
+      {
+       "name": "Aimmune / Xencor Development",
+       "n": 3
+      },
+      {
+       "name": "Coherus / Bioeq IP AG",
+       "n": 20
+      },
+      {
+       "name": "Freecook Hosting Agreement",
+       "n": 31
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     51,
+     17,
+     58,
+     50,
+     72,
+     93,
+     40,
+     2,
+     85,
+     61,
+     95,
+     27,
+     48,
+     21,
+     86
+    ],
+    "possible": [
+     43,
+     18,
+     73,
+     3,
+     20,
+     31
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-auto-renewal",
+  "claims": {
+   "count": 15,
+   "names": {
+    "yes": [
+     {
+      "name": "Agape ATP Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "BNL Financial Outsourcing Agreement",
+      "n": 11
+     },
+     {
+      "name": "Coherus Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Corio License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Emerald Health Bioceuticals Development Agreement",
+      "n": 25
+     },
+     {
+      "name": "FTE Networks Strategic Alliance",
+      "n": 33
+     },
+     {
+      "name": "Healthcare Integrated Technologies Reseller Agreement",
+      "n": 39
+     },
+     {
+      "name": "iCoreConnect Strategic Alliance",
+      "n": 42
+     },
+     {
+      "name": "Middlebrook Pharmaceuticals Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "NICE Outsourcing Agreement",
+      "n": 61
+     },
+     {
+      "name": "OFG Bancorp Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "PaperExchange Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "Range Resources Transportation Agreement",
+      "n": 75
+     },
+     {
+      "name": "STW Resources Cooperation Agreement",
+      "n": 89
+     },
+     {
+      "name": "Todos Medical Marketing/Reseller Agreement",
+      "n": 95
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    11,
+    20,
+    22,
+    25,
+    33,
+    39,
+    42,
+    56,
+    61,
+    63,
+    67,
+    75,
+    89,
+    95
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 15,
+    "names": {
+     "yes": [
+      {
+       "name": "Agape ATP Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "BNL Financial Outsourcing Agreement",
+       "n": 11
+      },
+      {
+       "name": "Coherus Development Agreement",
+       "n": 20
+      },
+      {
+       "name": "Corio License and Hosting Agreement",
+       "n": 22
+      },
+      {
+       "name": "Emerald Health Bioceuticals Development Agreement",
+       "n": 25
+      },
+      {
+       "name": "FTE Networks Strategic Alliance",
+       "n": 33
+      },
+      {
+       "name": "Healthcare Integrated Technologies Reseller Agreement",
+       "n": 39
+      },
+      {
+       "name": "iCoreConnect Strategic Alliance",
+       "n": 42
+      },
+      {
+       "name": "Middlebrook Pharmaceuticals Promotion Agreement",
+       "n": 56
+      },
+      {
+       "name": "NICE Outsourcing Agreement",
+       "n": 61
+      },
+      {
+       "name": "OFG Bancorp Outsourcing Agreement",
+       "n": 63
+      },
+      {
+       "name": "PaperExchange Co-Branding Agreement",
+       "n": 67
+      },
+      {
+       "name": "Range Resources Transportation Agreement",
+       "n": 75
+      },
+      {
+       "name": "STW Resources Cooperation Agreement",
+       "n": 89
+      },
+      {
+       "name": "Todos Medical Marketing/Reseller Agreement",
+       "n": 95
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     2,
+     11,
+     20,
+     22,
+     25,
+     33,
+     39,
+     42,
+     56,
+     61,
+     63,
+     67,
+     75,
+     89,
+     95
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-arbitration",
+  "claims": {
+   "count": 20,
+   "names": {
+    "yes": [
+     {
+      "name": "Agape ATP – Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "BNL Financial – Outsourcing Agreement",
+      "n": 11
+     },
+     {
+      "name": "BorrowMoney.com – Joint Venture Agreement",
+      "n": 13
+     },
+     {
+      "name": "Cardax – Collaboration Agreement",
+      "n": 14
+     },
+     {
+      "name": "China Real Estate Information – Content License",
+      "n": 17
+     },
+     {
+      "name": "Coherus Biosciences – Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Corio – License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Emerald Health Bioceuticals – Development Agreement",
+      "n": 25
+     },
+     {
+      "name": "Gentech Holdings – Distributor Agreement",
+      "n": 35
+     },
+     {
+      "name": "Global Technologies – Consulting Agreement",
+      "n": 36
+     },
+     {
+      "name": "Invenda – Co-Branding Agreement",
+      "n": 44
+     },
+     {
+      "name": "MiddleBrook Pharmaceuticals – Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "NeoMedia – Distributor Agreement",
+      "n": 58
+     },
+     {
+      "name": "NetGrocer – Sponsorship Agreement",
+      "n": 59
+     },
+     {
+      "name": "Paperexchange – Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "PHL Variable Insurance – Strategic Alliance",
+      "n": 69
+     },
+     {
+      "name": "QIWI – Cooperation Agreement",
+      "n": 72
+     },
+     {
+      "name": "Remark Holdings – Content License",
+      "n": 76
+     },
+     {
+      "name": "STAAR Surgical – Distributor Agreement",
+      "n": 87
+     },
+     {
+      "name": "Todos Medical – Marketing/Reseller Agreement",
+      "n": 95
+     }
+    ],
+    "possible": [
+     {
+      "name": "SeaSpine (Integra/PcoMed) Supply Agreement",
+      "n": 82
+     },
+     {
+      "name": "Fidelity National Information Services – Intellectual Property Agreement",
+      "n": 30
+     }
+    ],
+    "no": [
+     {
+      "name": "FTE Networks",
+      "n": 33
+     },
+     {
+      "name": "Upjohn",
+      "n": 96
+     },
+     {
+      "name": "Range Resources",
+      "n": 75
+     },
+     {
+      "name": "Bon-Ton Stores",
+      "n": 12
+     },
+     {
+      "name": "Aimmune",
+      "n": 3
+     },
+     {
+      "name": "Bloom Energy",
+      "n": 10
+     },
+     {
+      "name": "OFG Bancorp",
+      "n": 63
+     },
+     {
+      "name": "Reynolds (both agreements)",
+      "n": null
+     },
+     {
+      "name": "Eton",
+      "n": 28
+     },
+     {
+      "name": "Sparkling Spring",
+      "n": 86
+     },
+     {
+      "name": "Stamps.com",
+      "n": 88
+     },
+     {
+      "name": "King Pharmaceuticals",
+      "n": 47
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "no",
+     "name": "Reynolds (both agreements)",
+     "why": "ties: 60, 96"
+    }
+   ],
+   "yes": [
+    2,
+    11,
+    13,
+    14,
+    17,
+    20,
+    22,
+    25,
+    35,
+    36,
+    44,
+    56,
+    58,
+    59,
+    67,
+    69,
+    72,
+    76,
+    87,
+    95
+   ],
+   "possible": [
+    82,
+    30
+   ],
+   "no": [
+    33,
+    96,
+    75,
+    12,
+    3,
+    10,
+    63,
+    28,
+    86,
+    88,
+    47
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 20,
+    "names": {
+     "yes": [
+      {
+       "name": "Agape ATP – Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "BNL Financial – Outsourcing Agreement",
+       "n": 11
+      },
+      {
+       "name": "BorrowMoney.com – Joint Venture Agreement",
+       "n": 13
+      },
+      {
+       "name": "Cardax – Collaboration Agreement",
+       "n": 14
+      },
+      {
+       "name": "China Real Estate Information – Content License",
+       "n": 17
+      },
+      {
+       "name": "Coherus Biosciences – Development Agreement",
+       "n": 20
+      },
+      {
+       "name": "Corio – License and Hosting Agreement",
+       "n": 22
+      },
+      {
+       "name": "Emerald Health Bioceuticals – Development Agreement",
+       "n": 25
+      },
+      {
+       "name": "Gentech Holdings – Distributor Agreement",
+       "n": 35
+      },
+      {
+       "name": "Global Technologies – Consulting Agreement",
+       "n": 36
+      },
+      {
+       "name": "Invenda – Co-Branding Agreement",
+       "n": 44
+      },
+      {
+       "name": "MiddleBrook Pharmaceuticals – Promotion Agreement",
+       "n": 56
+      },
+      {
+       "name": "NeoMedia – Distributor Agreement",
+       "n": 58
+      },
+      {
+       "name": "NetGrocer – Sponsorship Agreement",
+       "n": 59
+      },
+      {
+       "name": "Paperexchange – Co-Branding Agreement",
+       "n": 67
+      },
+      {
+       "name": "PHL Variable Insurance – Strategic Alliance",
+       "n": 69
+      },
+      {
+       "name": "QIWI – Cooperation Agreement",
+       "n": 72
+      },
+      {
+       "name": "Remark Holdings – Content License",
+       "n": 76
+      },
+      {
+       "name": "STAAR Surgical – Distributor Agreement",
+       "n": 87
+      },
+      {
+       "name": "Todos Medical – Marketing/Reseller Agreement",
+       "n": 95
+      }
+     ],
+     "possible": [
+      {
+       "name": "SeaSpine (Integra/PcoMed) Supply Agreement",
+       "n": 82
+      },
+      {
+       "name": "Fidelity National Information Services – Intellectual Property Agreement",
+       "n": 30
+      }
+     ],
+     "no": [
+      {
+       "name": "FTE Networks",
+       "n": 33
+      },
+      {
+       "name": "Upjohn",
+       "n": 96
+      },
+      {
+       "name": "Range Resources",
+       "n": 75
+      },
+      {
+       "name": "Bon-Ton Stores",
+       "n": 12
+      },
+      {
+       "name": "Aimmune",
+       "n": 3
+      },
+      {
+       "name": "Bloom Energy",
+       "n": 10
+      },
+      {
+       "name": "OFG Bancorp",
+       "n": 63
+      },
+      {
+       "name": "Reynolds (both agreements)",
+       "n": null
+      },
+      {
+       "name": "Eton",
+       "n": 28
+      },
+      {
+       "name": "Sparkling Spring",
+       "n": 86
+      },
+      {
+       "name": "Stamps.com",
+       "n": 88
+      },
+      {
+       "name": "King Pharmaceuticals",
+       "n": 47
+      }
+     ]
+    },
+    "unplaced": [
+     {
+      "list": "no",
+      "name": "Reynolds (both agreements)",
+      "why": "ties: 60, 96"
+     }
+    ],
+    "yes": [
+     2,
+     11,
+     13,
+     14,
+     17,
+     20,
+     22,
+     25,
+     35,
+     36,
+     44,
+     56,
+     58,
+     59,
+     67,
+     69,
+     72,
+     76,
+     87,
+     95
+    ],
+    "possible": [
+     82,
+     30
+    ],
+    "no": [
+     33,
+     96,
+     75,
+     12,
+     3,
+     10,
+     63,
+     28,
+     86,
+     88,
+     47
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-confidentiality",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Aimmune / Xencor – Development",
+      "n": 3
+     },
+     {
+      "name": "Allied Esports / Zynga – Content License",
+      "n": 4
+     },
+     {
+      "name": "ArTara / Univ. of Iowa – License",
+      "n": 6
+     },
+     {
+      "name": "BellRing Brands – Manufacturing",
+      "n": 9
+     },
+     {
+      "name": "Bloom Energy – Maintenance",
+      "n": 10
+     },
+     {
+      "name": "BNL Financial – Outsourcing",
+      "n": 11
+     },
+     {
+      "name": "BorrowMoney.com – Joint Venture",
+      "n": 13
+     },
+     {
+      "name": "Cardax / Capsugel – Collaboration",
+      "n": 14
+     },
+     {
+      "name": "Cerence / Nuance – IP Agreement",
+      "n": 16
+     },
+     {
+      "name": "China Real Estate Info / SINA – Content License",
+      "n": 17
+     },
+     {
+      "name": "Clickstream – Development",
+      "n": 19
+     },
+     {
+      "name": "Coherus – Development",
+      "n": 20
+     },
+     {
+      "name": "Coral Gold – Consulting",
+      "n": 21
+     },
+     {
+      "name": "Corio / Commerce One – License & Hosting",
+      "n": 22
+     },
+     {
+      "name": "Embark.com / United – Co-Branding",
+      "n": 24
+     },
+     {
+      "name": "Emerald Health – Development",
+      "n": 25
+     },
+     {
+      "name": "Energy XXI – Transportation",
+      "n": 26
+     },
+     {
+      "name": "Entrust / Nortel – Strategic Alliance",
+      "n": 27
+     },
+     {
+      "name": "Eton / Aucta – Development",
+      "n": 28
+     },
+     {
+      "name": "Fidelity National (Equifax/Certegy) – IP Agreement",
+      "n": 30
+     },
+     {
+      "name": "Freeze Tag / ADA – Sponsorship",
+      "n": 32
+     },
+     {
+      "name": "FTE Networks – Strategic Alliance",
+      "n": 33
+     },
+     {
+      "name": "Gentech – Distributor",
+      "n": 35
+     },
+     {
+      "name": "Global Technologies – Consulting",
+      "n": 36
+     },
+     {
+      "name": "GPAQ / HOF Village – Services",
+      "n": 38
+     },
+     {
+      "name": "HealthGate – Hosting & Management",
+      "n": 40
+     },
+     {
+      "name": "Healthcare Integrated Technologies – Reseller",
+      "n": 39
+     },
+     {
+      "name": "iCoreConnect – Strategic Alliance",
+      "n": 42
+     },
+     {
+      "name": "Intersect ENT / Hovione – Supply",
+      "n": 43
+     },
+     {
+      "name": "Invenda / Excite@Home – Co-Branding",
+      "n": 44
+     },
+     {
+      "name": "Iovance / MD Anderson – Strategic Alliance",
+      "n": 45
+     },
+     {
+      "name": "iVillage / Ford – Sponsorship",
+      "n": 46
+     },
+     {
+      "name": "King Pharma / Depomed – Promotion",
+      "n": 47
+     },
+     {
+      "name": "Leclanché – Joint Development & Marketing",
+      "n": 50
+     },
+     {
+      "name": "Leju / Baidu – Internet Channel Cooperation",
+      "n": 51
+     },
+     {
+      "name": "Lifeway Foods – Endorsement",
+      "n": 52
+     },
+     {
+      "name": "Logan's Roadhouse – Sponsorship",
+      "n": 54
+     },
+     {
+      "name": "MiddleBrook – Promotion",
+      "n": 56
+     },
+     {
+      "name": "NetGrocer / Excite – Sponsorship",
+      "n": 59
+     },
+     {
+      "name": "NICE / Flextronics – Outsourcing",
+      "n": 61
+     },
+     {
+      "name": "OasysMobile – Outsourcing",
+      "n": 62
+     },
+     {
+      "name": "OFG Bancorp / Metavante – Outsourcing",
+      "n": 63
+     },
+     {
+      "name": "Ominto – Reseller",
+      "n": 64
+     },
+     {
+      "name": "PaperExchange / VerticalNet – Co-Branding",
+      "n": 67
+     },
+     {
+      "name": "Performance Sports Brands / Andy North – Endorsement",
+      "n": 68
+     },
+     {
+      "name": "PHL Variable – Strategic Alliance",
+      "n": 69
+     },
+     {
+      "name": "QIWI – Cooperation",
+      "n": 72
+     },
+     {
+      "name": "Quaker Chemical – Non-Compete / Non-Solicitation",
+      "n": 73
+     },
+     {
+      "name": "Range Resources – Transportation",
+      "n": 75
+     },
+     {
+      "name": "Remark Holdings – Content License",
+      "n": 76
+     },
+     {
+      "name": "Reynolds Consumer Products – Service Agreement",
+      "n": 78
+     },
+     {
+      "name": "Reynolds / Pactiv – Supply",
+      "n": 77
+     },
+     {
+      "name": "SeaSpine – Supply",
+      "n": 82
+     },
+     {
+      "name": "Sparkling Spring Water – Software License",
+      "n": 86
+     },
+     {
+      "name": "STAAR Surgical – Distributor",
+      "n": 87
+     },
+     {
+      "name": "Stamps.com / Intuit – Sponsorship",
+      "n": 88
+     },
+     {
+      "name": "Summa Four – Software License & Maintenance",
+      "n": 90
+     },
+     {
+      "name": "Theravance – Service (employment) Agreement",
+      "n": 93
+     },
+     {
+      "name": "Todos Medical – Marketing & Reseller",
+      "n": 95
+     },
+     {
+      "name": "Upjohn / Pfizer – Manufacturing & Supply",
+      "n": 96
+     },
+     {
+      "name": "WebMD / Emdeon – Content License",
+      "n": 97
+     },
+     {
+      "name": "Women's Golf Unlimited / Whitworth – Endorsement",
+      "n": 99
+     }
+    ],
+    "possible": [
+     {
+      "name": "CURO – Servicing",
+      "n": 23
+     },
+     {
+      "name": "China Recycling Energy – Cooperation",
+      "n": 18
+     },
+     {
+      "name": "Southern Star Energy – Affiliate Program",
+      "n": 85
+     },
+     {
+      "name": "Quantum Group / IBM – Hosting",
+      "n": 74
+     },
+     {
+      "name": "theglobe.com / Boxlot – Co-Branding",
+      "n": 92
+     }
+    ],
+    "no": [
+     {
+      "name": "Agape ATP – Supply",
+      "n": 2
+     },
+     {
+      "name": "ADMA – Amendment #3 to Manufacturing",
+      "n": 1
+     },
+     {
+      "name": "ARC Group / Jaguars – Sponsorship",
+      "n": 5
+     },
+     {
+      "name": "Atento – Joint Filing",
+      "n": 7
+     },
+     {
+      "name": "Banuestra – Agency",
+      "n": 8
+     },
+     {
+      "name": "Bon-Ton – Agency",
+      "n": 12
+     },
+     {
+      "name": "Cardlytics – Maintenance",
+      "n": 15
+     },
+     {
+      "name": "Federated – Services Agreement",
+      "n": 29
+     },
+     {
+      "name": "Freecook – Hosting",
+      "n": 31
+     },
+     {
+      "name": "Galera – Joint Filing",
+      "n": 34
+     },
+     {
+      "name": "Glu Mobile – Content License (Amendment No. 2 only)",
+      "n": 37
+     },
+     {
+      "name": "Her Imports – Maintenance",
+      "n": 41
+     },
+     {
+      "name": "Know Labs – IP Agreement",
+      "n": 48
+     },
+     {
+      "name": "Kubient / AP – MSA Part 2",
+      "n": 49
+     },
+     {
+      "name": "Link Plus – Affiliate",
+      "n": 53
+     },
+     {
+      "name": "MetLife – Remarketing",
+      "n": 55
+     },
+     {
+      "name": "mPhase / Lucent – Co-Branding",
+      "n": 57
+     },
+     {
+      "name": "NeoMedia – Distributor",
+      "n": 58
+     },
+     {
+      "name": "NeuroBo / Dong-A – Manufacturing & Supply",
+      "n": 60
+     },
+     {
+      "name": "OneMain – Joint Filing",
+      "n": 65
+     },
+     {
+      "name": "Optimized Transportation – Distributor",
+      "n": 66
+     },
+     {
+      "name": "PreCheck – Distributor",
+      "n": 70
+     },
+     {
+      "name": "Q BioMed – Joint Filing",
+      "n": 71
+     },
+     {
+      "name": "RGC Resources – Gas Franchise",
+      "n": 79
+     },
+     {
+      "name": "Rocky Mountain Chocolate – Strategic Alliance",
+      "n": 80
+     },
+     {
+      "name": "ScanSource / Cisco – Amendment No. 3 only",
+      "n": 81
+     },
+     {
+      "name": "Soupman Franchise Agreement 2",
+      "n": null
+     },
+     {
+      "name": "Soupman Franchise Agreement 4",
+      "n": null
+     },
+     {
+      "name": "STW Resources – Cooperation",
+      "n": 89
+     },
+     {
+      "name": "Teardrop Golf – Endorsement",
+      "n": 91
+     },
+     {
+      "name": "Thrivent – insurance policy endorsement",
+      "n": 94
+     },
+     {
+      "name": "Wells Fargo MBS – Yield Maintenance",
+      "n": 98
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "no",
+     "name": "Soupman Franchise Agreement 2",
+     "why": "ties: 83, 84"
+    },
+    {
+     "list": "no",
+     "name": "Soupman Franchise Agreement 4",
+     "why": "ties: 83, 84"
+    }
+   ],
+   "yes": [
+    3,
+    4,
+    6,
+    9,
+    10,
+    11,
+    13,
+    14,
+    16,
+    17,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    32,
+    33,
+    35,
+    36,
+    38,
+    39,
+    40,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    50,
+    51,
+    52,
+    54,
+    56,
+    59,
+    61,
+    62,
+    63,
+    64,
+    67,
+    68,
+    69,
+    72,
+    73,
+    75,
+    76,
+    77,
+    78,
+    82,
+    86,
+    87,
+    88,
+    90,
+    93,
+    95,
+    96,
+    97,
+    99
+   ],
+   "possible": [
+    23,
+    18,
+    85,
+    74,
+    92
+   ],
+   "no": [
+    2,
+    1,
+    5,
+    7,
+    8,
+    12,
+    15,
+    29,
+    31,
+    34,
+    37,
+    41,
+    48,
+    49,
+    53,
+    55,
+    57,
+    58,
+    60,
+    65,
+    66,
+    70,
+    71,
+    79,
+    80,
+    81,
+    89,
+    91,
+    94,
+    98
+   ],
+   "settled": [
+    {
+     "list": "yes",
+     "name": "Reynolds Consumer Products – Service Agreement",
+     "n": [
+      78
+     ],
+     "why": "the Reynolds Service Agreement (a transition services agreement) is file 78"
+    }
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Aimmune / Xencor – Development",
+       "n": 3
+      },
+      {
+       "name": "Allied Esports / Zynga – Content License",
+       "n": 4
+      },
+      {
+       "name": "ArTara / Univ. of Iowa – License",
+       "n": 6
+      },
+      {
+       "name": "BellRing Brands – Manufacturing",
+       "n": 9
+      },
+      {
+       "name": "Bloom Energy – Maintenance",
+       "n": 10
+      },
+      {
+       "name": "BNL Financial – Outsourcing",
+       "n": 11
+      },
+      {
+       "name": "BorrowMoney.com – Joint Venture",
+       "n": 13
+      },
+      {
+       "name": "Cardax / Capsugel – Collaboration",
+       "n": 14
+      },
+      {
+       "name": "Cerence / Nuance – IP Agreement",
+       "n": 16
+      },
+      {
+       "name": "China Real Estate Info / SINA – Content License",
+       "n": 17
+      },
+      {
+       "name": "Clickstream – Development",
+       "n": 19
+      },
+      {
+       "name": "Coherus – Development",
+       "n": 20
+      },
+      {
+       "name": "Coral Gold – Consulting",
+       "n": 21
+      },
+      {
+       "name": "Corio / Commerce One – License & Hosting",
+       "n": 22
+      },
+      {
+       "name": "Embark.com / United – Co-Branding",
+       "n": 24
+      },
+      {
+       "name": "Emerald Health – Development",
+       "n": 25
+      },
+      {
+       "name": "Energy XXI – Transportation",
+       "n": 26
+      },
+      {
+       "name": "Entrust / Nortel – Strategic Alliance",
+       "n": 27
+      },
+      {
+       "name": "Eton / Aucta – Development",
+       "n": 28
+      },
+      {
+       "name": "Fidelity National (Equifax/Certegy) – IP Agreement",
+       "n": 30
+      },
+      {
+       "name": "Freeze Tag / ADA – Sponsorship",
+       "n": 32
+      },
+      {
+       "name": "FTE Networks – Strategic Alliance",
+       "n": 33
+      },
+      {
+       "name": "Gentech – Distributor",
+       "n": 35
+      },
+      {
+       "name": "Global Technologies – Consulting",
+       "n": 36
+      },
+      {
+       "name": "GPAQ / HOF Village – Services",
+       "n": 38
+      },
+      {
+       "name": "HealthGate – Hosting & Management",
+       "n": 40
+      },
+      {
+       "name": "Healthcare Integrated Technologies – Reseller",
+       "n": 39
+      },
+      {
+       "name": "iCoreConnect – Strategic Alliance",
+       "n": 42
+      },
+      {
+       "name": "Intersect ENT / Hovione – Supply",
+       "n": 43
+      },
+      {
+       "name": "Invenda / Excite@Home – Co-Branding",
+       "n": 44
+      },
+      {
+       "name": "Iovance / MD Anderson – Strategic Alliance",
+       "n": 45
+      },
+      {
+       "name": "iVillage / Ford – Sponsorship",
+       "n": 46
+      },
+      {
+       "name": "King Pharma / Depomed – Promotion",
+       "n": 47
+      },
+      {
+       "name": "Leclanché – Joint Development & Marketing",
+       "n": 50
+      },
+      {
+       "name": "Leju / Baidu – Internet Channel Cooperation",
+       "n": 51
+      },
+      {
+       "name": "Lifeway Foods – Endorsement",
+       "n": 52
+      },
+      {
+       "name": "Logan's Roadhouse – Sponsorship",
+       "n": 54
+      },
+      {
+       "name": "MiddleBrook – Promotion",
+       "n": 56
+      },
+      {
+       "name": "NetGrocer / Excite – Sponsorship",
+       "n": 59
+      },
+      {
+       "name": "NICE / Flextronics – Outsourcing",
+       "n": 61
+      },
+      {
+       "name": "OasysMobile – Outsourcing",
+       "n": 62
+      },
+      {
+       "name": "OFG Bancorp / Metavante – Outsourcing",
+       "n": 63
+      },
+      {
+       "name": "Ominto – Reseller",
+       "n": 64
+      },
+      {
+       "name": "PaperExchange / VerticalNet – Co-Branding",
+       "n": 67
+      },
+      {
+       "name": "Performance Sports Brands / Andy North – Endorsement",
+       "n": 68
+      },
+      {
+       "name": "PHL Variable – Strategic Alliance",
+       "n": 69
+      },
+      {
+       "name": "QIWI – Cooperation",
+       "n": 72
+      },
+      {
+       "name": "Quaker Chemical – Non-Compete / Non-Solicitation",
+       "n": 73
+      },
+      {
+       "name": "Range Resources – Transportation",
+       "n": 75
+      },
+      {
+       "name": "Remark Holdings – Content License",
+       "n": 76
+      },
+      {
+       "name": "Reynolds Consumer Products – Service Agreement",
+       "n": null
+      },
+      {
+       "name": "Reynolds / Pactiv – Supply",
+       "n": 77
+      },
+      {
+       "name": "SeaSpine – Supply",
+       "n": 82
+      },
+      {
+       "name": "Sparkling Spring Water – Software License",
+       "n": 86
+      },
+      {
+       "name": "STAAR Surgical – Distributor",
+       "n": 87
+      },
+      {
+       "name": "Stamps.com / Intuit – Sponsorship",
+       "n": 88
+      },
+      {
+       "name": "Summa Four – Software License & Maintenance",
+       "n": 90
+      },
+      {
+       "name": "Theravance – Service (employment) Agreement",
+       "n": 93
+      },
+      {
+       "name": "Todos Medical – Marketing & Reseller",
+       "n": 95
+      },
+      {
+       "name": "Upjohn / Pfizer – Manufacturing & Supply",
+       "n": 96
+      },
+      {
+       "name": "WebMD / Emdeon – Content License",
+       "n": 97
+      },
+      {
+       "name": "Women's Golf Unlimited / Whitworth – Endorsement",
+       "n": 99
+      }
+     ],
+     "possible": [
+      {
+       "name": "CURO – Servicing",
+       "n": 23
+      },
+      {
+       "name": "China Recycling Energy – Cooperation",
+       "n": 18
+      },
+      {
+       "name": "Southern Star Energy – Affiliate Program",
+       "n": 85
+      },
+      {
+       "name": "Quantum Group / IBM – Hosting",
+       "n": 74
+      },
+      {
+       "name": "theglobe.com / Boxlot – Co-Branding",
+       "n": 92
+      }
+     ],
+     "no": [
+      {
+       "name": "Agape ATP – Supply",
+       "n": 2
+      },
+      {
+       "name": "ADMA – Amendment #3 to Manufacturing",
+       "n": 1
+      },
+      {
+       "name": "ARC Group / Jaguars – Sponsorship",
+       "n": 5
+      },
+      {
+       "name": "Atento – Joint Filing",
+       "n": 7
+      },
+      {
+       "name": "Banuestra – Agency",
+       "n": 8
+      },
+      {
+       "name": "Bon-Ton – Agency",
+       "n": 12
+      },
+      {
+       "name": "Cardlytics – Maintenance",
+       "n": 15
+      },
+      {
+       "name": "Federated – Services Agreement",
+       "n": 29
+      },
+      {
+       "name": "Freecook – Hosting",
+       "n": 31
+      },
+      {
+       "name": "Galera – Joint Filing",
+       "n": 34
+      },
+      {
+       "name": "Glu Mobile – Content License (Amendment No. 2 only)",
+       "n": 37
+      },
+      {
+       "name": "Her Imports – Maintenance",
+       "n": 41
+      },
+      {
+       "name": "Know Labs – IP Agreement",
+       "n": 48
+      },
+      {
+       "name": "Kubient / AP – MSA Part 2",
+       "n": 49
+      },
+      {
+       "name": "Link Plus – Affiliate",
+       "n": 53
+      },
+      {
+       "name": "MetLife – Remarketing",
+       "n": 55
+      },
+      {
+       "name": "mPhase / Lucent – Co-Branding",
+       "n": 57
+      },
+      {
+       "name": "NeoMedia – Distributor",
+       "n": 58
+      },
+      {
+       "name": "NeuroBo / Dong-A – Manufacturing & Supply",
+       "n": 60
+      },
+      {
+       "name": "OneMain – Joint Filing",
+       "n": 65
+      },
+      {
+       "name": "Optimized Transportation – Distributor",
+       "n": 66
+      },
+      {
+       "name": "PreCheck – Distributor",
+       "n": 70
+      },
+      {
+       "name": "Q BioMed – Joint Filing",
+       "n": 71
+      },
+      {
+       "name": "RGC Resources – Gas Franchise",
+       "n": 79
+      },
+      {
+       "name": "Rocky Mountain Chocolate – Strategic Alliance",
+       "n": 80
+      },
+      {
+       "name": "ScanSource / Cisco – Amendment No. 3 only",
+       "n": 81
+      },
+      {
+       "name": "Soupman Franchise Agreement 2",
+       "n": null
+      },
+      {
+       "name": "Soupman Franchise Agreement 4",
+       "n": null
+      },
+      {
+       "name": "STW Resources – Cooperation",
+       "n": 89
+      },
+      {
+       "name": "Teardrop Golf – Endorsement",
+       "n": 91
+      },
+      {
+       "name": "Thrivent – insurance policy endorsement",
+       "n": 94
+      },
+      {
+       "name": "Wells Fargo MBS – Yield Maintenance",
+       "n": 98
+      }
+     ]
+    },
+    "unplaced": [
+     {
+      "list": "yes",
+      "name": "Reynolds Consumer Products – Service Agreement",
+      "why": "ties: 77, 78"
+     },
+     {
+      "list": "no",
+      "name": "Soupman Franchise Agreement 2",
+      "why": "ties: 83, 84"
+     },
+     {
+      "list": "no",
+      "name": "Soupman Franchise Agreement 4",
+      "why": "ties: 83, 84"
+     }
+    ],
+    "yes": [
+     3,
+     4,
+     6,
+     9,
+     10,
+     11,
+     13,
+     14,
+     16,
+     17,
+     19,
+     20,
+     21,
+     22,
+     24,
+     25,
+     26,
+     27,
+     28,
+     30,
+     32,
+     33,
+     35,
+     36,
+     38,
+     40,
+     39,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     50,
+     51,
+     52,
+     54,
+     56,
+     59,
+     61,
+     62,
+     63,
+     64,
+     67,
+     68,
+     69,
+     72,
+     73,
+     75,
+     76,
+     77,
+     82,
+     86,
+     87,
+     88,
+     90,
+     93,
+     95,
+     96,
+     97,
+     99
+    ],
+    "possible": [
+     23,
+     18,
+     85,
+     74,
+     92
+    ],
+    "no": [
+     2,
+     1,
+     5,
+     7,
+     8,
+     12,
+     15,
+     29,
+     31,
+     34,
+     37,
+     41,
+     48,
+     49,
+     53,
+     55,
+     57,
+     58,
+     60,
+     65,
+     66,
+     70,
+     71,
+     79,
+     80,
+     81,
+     89,
+     91,
+     94,
+     98
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-agreement-confidential",
+  "claims": {
+   "count": 31,
+   "names": {
+    "yes": [
+     {
+      "name": "AlliedEsports – Content License",
+      "n": 4
+     },
+     {
+      "name": "BellringBrands – Manufacturing",
+      "n": 9
+     },
+     {
+      "name": "Bloom Energy – Maintenance",
+      "n": 10
+     },
+     {
+      "name": "BNL Financial – Outsourcing",
+      "n": 11
+     },
+     {
+      "name": "BorrowMoney.com – Joint Venture",
+      "n": 13
+     },
+     {
+      "name": "Coherus – Development",
+      "n": 20
+     },
+     {
+      "name": "Eton Pharmaceuticals – Development",
+      "n": 28
+     },
+     {
+      "name": "Emerald Health Bioceuticals – Development",
+      "n": 25
+     },
+     {
+      "name": "Energy XXI – Transportation",
+      "n": 26
+     },
+     {
+      "name": "FreezeTag – Sponsorship",
+      "n": 32
+     },
+     {
+      "name": "Gpaq Acquisition – Sponsorship & Services",
+      "n": 38
+     },
+     {
+      "name": "HealthGate Data – Hosting & Management",
+      "n": 40
+     },
+     {
+      "name": "iCoreConnect – Strategic Alliance",
+      "n": 42
+     },
+     {
+      "name": "InvendaCorp – Co-Branding",
+      "n": 44
+     },
+     {
+      "name": "Intersect ENT – Supply",
+      "n": 43
+     },
+     {
+      "name": "iVillage – Sponsorship",
+      "n": 46
+     },
+     {
+      "name": "Leclanché – Joint Development & Marketing",
+      "n": 50
+     },
+     {
+      "name": "NetGrocer – Sponsorship",
+      "n": 59
+     },
+     {
+      "name": "OASYS Mobile – Outsourcing",
+      "n": 62
+     },
+     {
+      "name": "OFG Bancorp – Outsourcing",
+      "n": 63
+     },
+     {
+      "name": "Ominto – Reseller",
+      "n": 64
+     },
+     {
+      "name": "Performance Sports Brands – Endorsement",
+      "n": 68
+     },
+     {
+      "name": "QIWI – Cooperation",
+      "n": 72
+     },
+     {
+      "name": "Quantum Group – Hosting (IBM)",
+      "n": 74
+     },
+     {
+      "name": "Range Resources Louisiana – Transportation",
+      "n": 75
+     },
+     {
+      "name": "Remark Holdings – Content License",
+      "n": 76
+     },
+     {
+      "name": "Reynolds Consumer Products – Supply (2019)",
+      "n": 77
+     },
+     {
+      "name": "SeaSpine – Supply",
+      "n": 82
+     },
+     {
+      "name": "Stamps.com – Sponsorship",
+      "n": 88
+     },
+     {
+      "name": "Summa Four – Software License & Maintenance",
+      "n": 90
+     },
+     {
+      "name": "Todos Medical – Marketing/Reseller",
+      "n": 95
+     }
+    ],
+    "possible": [
+     {
+      "name": "Theravance",
+      "n": 93
+     },
+     {
+      "name": "Lifeway Foods",
+      "n": 52
+     },
+     {
+      "name": "Fidelity National IS",
+      "n": 30
+     },
+     {
+      "name": "MiddleBrook",
+      "n": 56
+     },
+     {
+      "name": "Cardax",
+      "n": 14
+     },
+     {
+      "name": "Upjohn",
+      "n": 96
+     },
+     {
+      "name": "Cerence",
+      "n": 16
+     },
+     {
+      "name": "Kubient",
+      "n": 49
+     },
+     {
+      "name": "Soupman",
+      "n": [
+       83,
+       84
+      ]
+     },
+     {
+      "name": "Cardlytics",
+      "n": 15
+     },
+     {
+      "name": "GluMobile",
+      "n": 37
+     },
+     {
+      "name": "ScanSource",
+      "n": 81
+     },
+     {
+      "name": "Federated",
+      "n": 29
+     },
+     {
+      "name": "Arc Group",
+      "n": 5
+     },
+     {
+      "name": "Women's Golf Unlimited",
+      "n": 99
+     }
+    ],
+    "no": [
+     {
+      "name": "Leju",
+      "n": null
+     },
+     {
+      "name": "King Pharmaceuticals",
+      "n": 47
+     },
+     {
+      "name": "theglobe.com",
+      "n": 92
+     },
+     {
+      "name": "Paperexchange.com",
+      "n": 67
+     },
+     {
+      "name": "Global Technologies",
+      "n": null
+     },
+     {
+      "name": "Aimmune",
+      "n": 3
+     },
+     {
+      "name": "China Real Estate Information",
+      "n": 17
+     },
+     {
+      "name": "NICE",
+      "n": 61
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "no",
+     "name": "Leju",
+     "why": "ties: 17, 51"
+    },
+    {
+     "list": "no",
+     "name": "Global Technologies",
+     "why": "ties: 19, 36"
+    }
+   ],
+   "yes": [
+    4,
+    9,
+    10,
+    11,
+    13,
+    20,
+    28,
+    25,
+    26,
+    32,
+    38,
+    40,
+    42,
+    44,
+    43,
+    46,
+    50,
+    59,
+    62,
+    63,
+    64,
+    68,
+    72,
+    74,
+    75,
+    76,
+    77,
+    82,
+    88,
+    90,
+    95
+   ],
+   "possible": [
+    5,
+    14,
+    15,
+    16,
+    29,
+    30,
+    37,
+    49,
+    52,
+    56,
+    81,
+    83,
+    84,
+    93,
+    96,
+    99
+   ],
+   "no": [
+    47,
+    92,
+    67,
+    3,
+    17,
+    61
+   ],
+   "settled": [
+    {
+     "list": "possible",
+     "name": "Soupman",
+     "n": [
+      83,
+      84
+     ],
+     "why": "the answer says \"both Soupman files\" (Franchise Agreements 2 and 4, files 83 and 84), under \"Can't be confirmed from the file\""
+    }
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 31,
+    "names": {
+     "yes": [
+      {
+       "name": "AlliedEsports – Content License",
+       "n": 4
+      },
+      {
+       "name": "BellringBrands – Manufacturing",
+       "n": 9
+      },
+      {
+       "name": "Bloom Energy – Maintenance",
+       "n": 10
+      },
+      {
+       "name": "BNL Financial – Outsourcing",
+       "n": 11
+      },
+      {
+       "name": "BorrowMoney.com – Joint Venture",
+       "n": 13
+      },
+      {
+       "name": "Coherus – Development",
+       "n": 20
+      },
+      {
+       "name": "Eton Pharmaceuticals – Development",
+       "n": 28
+      },
+      {
+       "name": "Emerald Health Bioceuticals – Development",
+       "n": 25
+      },
+      {
+       "name": "Energy XXI – Transportation",
+       "n": 26
+      },
+      {
+       "name": "FreezeTag – Sponsorship",
+       "n": 32
+      },
+      {
+       "name": "Gpaq Acquisition – Sponsorship & Services",
+       "n": 38
+      },
+      {
+       "name": "HealthGate Data – Hosting & Management",
+       "n": 40
+      },
+      {
+       "name": "iCoreConnect – Strategic Alliance",
+       "n": 42
+      },
+      {
+       "name": "InvendaCorp – Co-Branding",
+       "n": 44
+      },
+      {
+       "name": "Intersect ENT – Supply",
+       "n": 43
+      },
+      {
+       "name": "iVillage – Sponsorship",
+       "n": 46
+      },
+      {
+       "name": "Leclanché – Joint Development & Marketing",
+       "n": 50
+      },
+      {
+       "name": "NetGrocer – Sponsorship",
+       "n": 59
+      },
+      {
+       "name": "OASYS Mobile – Outsourcing",
+       "n": 62
+      },
+      {
+       "name": "OFG Bancorp – Outsourcing",
+       "n": 63
+      },
+      {
+       "name": "Ominto – Reseller",
+       "n": 64
+      },
+      {
+       "name": "Performance Sports Brands – Endorsement",
+       "n": 68
+      },
+      {
+       "name": "QIWI – Cooperation",
+       "n": 72
+      },
+      {
+       "name": "Quantum Group – Hosting (IBM)",
+       "n": 74
+      },
+      {
+       "name": "Range Resources Louisiana – Transportation",
+       "n": 75
+      },
+      {
+       "name": "Remark Holdings – Content License",
+       "n": 76
+      },
+      {
+       "name": "Reynolds Consumer Products – Supply (2019)",
+       "n": 77
+      },
+      {
+       "name": "SeaSpine – Supply",
+       "n": 82
+      },
+      {
+       "name": "Stamps.com – Sponsorship",
+       "n": 88
+      },
+      {
+       "name": "Summa Four – Software License & Maintenance",
+       "n": 90
+      },
+      {
+       "name": "Todos Medical – Marketing/Reseller",
+       "n": 95
+      }
+     ],
+     "possible": [
+      {
+       "name": "Theravance",
+       "n": 93
+      },
+      {
+       "name": "Lifeway Foods",
+       "n": 52
+      },
+      {
+       "name": "Fidelity National IS",
+       "n": 30
+      },
+      {
+       "name": "MiddleBrook",
+       "n": 56
+      },
+      {
+       "name": "Cardax",
+       "n": 14
+      },
+      {
+       "name": "Upjohn",
+       "n": 96
+      },
+      {
+       "name": "Cerence",
+       "n": 16
+      },
+      {
+       "name": "Kubient",
+       "n": 49
+      },
+      {
+       "name": "Soupman",
+       "n": null
+      },
+      {
+       "name": "Cardlytics",
+       "n": 15
+      },
+      {
+       "name": "GluMobile",
+       "n": 37
+      },
+      {
+       "name": "ScanSource",
+       "n": 81
+      },
+      {
+       "name": "Federated",
+       "n": 29
+      },
+      {
+       "name": "Arc Group",
+       "n": 5
+      },
+      {
+       "name": "Women's Golf Unlimited",
+       "n": 99
+      }
+     ],
+     "no": [
+      {
+       "name": "Leju",
+       "n": null
+      },
+      {
+       "name": "King Pharmaceuticals",
+       "n": 47
+      },
+      {
+       "name": "theglobe.com",
+       "n": 92
+      },
+      {
+       "name": "Paperexchange.com",
+       "n": 67
+      },
+      {
+       "name": "Global Technologies",
+       "n": null
+      },
+      {
+       "name": "Aimmune",
+       "n": 3
+      },
+      {
+       "name": "China Real Estate Information",
+       "n": 17
+      },
+      {
+       "name": "NICE",
+       "n": 61
+      }
+     ]
+    },
+    "unplaced": [
+     {
+      "list": "possible",
+      "name": "Soupman",
+      "why": "ties: 83, 84"
+     },
+     {
+      "list": "no",
+      "name": "Leju",
+      "why": "ties: 17, 51"
+     },
+     {
+      "list": "no",
+      "name": "Global Technologies",
+      "why": "ties: 19, 36"
+     }
+    ],
+    "yes": [
+     4,
+     9,
+     10,
+     11,
+     13,
+     20,
+     28,
+     25,
+     26,
+     32,
+     38,
+     40,
+     42,
+     44,
+     43,
+     46,
+     50,
+     59,
+     62,
+     63,
+     64,
+     68,
+     72,
+     74,
+     75,
+     76,
+     77,
+     82,
+     88,
+     90,
+     95
+    ],
+    "possible": [
+     93,
+     52,
+     30,
+     56,
+     14,
+     96,
+     16,
+     49,
+     15,
+     37,
+     81,
+     29,
+     5,
+     99
+    ],
+    "no": [
+     47,
+     92,
+     67,
+     3,
+     17,
+     61
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-indemnification",
+  "claims": {
+   "count": 69,
+   "names": {
+    "yes": [
+     {
+      "name": "Allied Esports Content License",
+      "n": 4
+     },
+     {
+      "name": "Aimmune Development",
+      "n": 3
+     },
+     {
+      "name": "Banuestra Agency",
+      "n": 8
+     },
+     {
+      "name": "BellRing Manufacturing",
+      "n": 9
+     },
+     {
+      "name": "Bloom Energy Maintenance",
+      "n": 10
+     },
+     {
+      "name": "BNL Outsourcing",
+      "n": 11
+     },
+     {
+      "name": "Bon-Ton Agency",
+      "n": 12
+     },
+     {
+      "name": "BorrowMoney JV",
+      "n": 13
+     },
+     {
+      "name": "Cardax Collaboration",
+      "n": 14
+     },
+     {
+      "name": "China Real Estate Content License",
+      "n": 17
+     },
+     {
+      "name": "Clickstream Development",
+      "n": 19
+     },
+     {
+      "name": "Coherus Development",
+      "n": 20
+     },
+     {
+      "name": "Coral Gold Consulting",
+      "n": 21
+     },
+     {
+      "name": "CURO Servicing",
+      "n": 23
+     },
+     {
+      "name": "Energy XXI Transportation",
+      "n": 26
+     },
+     {
+      "name": "Eton Development",
+      "n": 28
+     },
+     {
+      "name": "FIS IP Agreement",
+      "n": 30
+     },
+     {
+      "name": "Freeze Tag Sponsorship",
+      "n": 32
+     },
+     {
+      "name": "Gentech Distributor",
+      "n": 35
+     },
+     {
+      "name": "Global Technologies Consulting",
+      "n": 36
+     },
+     {
+      "name": "GPAQ Service Agreement",
+      "n": 38
+     },
+     {
+      "name": "HealthGate Hosting",
+      "n": 40
+     },
+     {
+      "name": "iCoreConnect Strategic Alliance",
+      "n": 42
+     },
+     {
+      "name": "Intersect ENT Supply",
+      "n": 43
+     },
+     {
+      "name": "Invenda Co-Branding",
+      "n": 44
+     },
+     {
+      "name": "iVillage Sponsorship",
+      "n": 46
+     },
+     {
+      "name": "King Pharma Promotion",
+      "n": 47
+     },
+     {
+      "name": "Leju Internet Channel Cooperation",
+      "n": 51
+     },
+     {
+      "name": "MetLife Remarketing",
+      "n": 55
+     },
+     {
+      "name": "MiddleBrook Promotion",
+      "n": 56
+     },
+     {
+      "name": "NICE Outsourcing",
+      "n": 61
+     },
+     {
+      "name": "OASYS Outsourcing",
+      "n": 62
+     },
+     {
+      "name": "OFG Outsourcing",
+      "n": 63
+     },
+     {
+      "name": "Ominto Reseller",
+      "n": 64
+     },
+     {
+      "name": "PaperExchange Co-Branding",
+      "n": 67
+     },
+     {
+      "name": "PHL Variable Strategic Alliance",
+      "n": 69
+     },
+     {
+      "name": "Quantum Group Hosting",
+      "n": 74
+     },
+     {
+      "name": "Remark Content License",
+      "n": 76
+     },
+     {
+      "name": "Reynolds Supply Agreement (2019)",
+      "n": 77
+     },
+     {
+      "name": "Reynolds Service Agreement (2020)",
+      "n": 78
+     },
+     {
+      "name": "Rocky Mountain Chocolate",
+      "n": 80
+     },
+     {
+      "name": "SeaSpine Supply",
+      "n": 82
+     },
+     {
+      "name": "Stamps.com Sponsorship",
+      "n": 88
+     },
+     {
+      "name": "STW Cooperation",
+      "n": 89
+     },
+     {
+      "name": "Summa Four Software License",
+      "n": 90
+     },
+     {
+      "name": "theglobe.com Co-Branding",
+      "n": 92
+     },
+     {
+      "name": "Todos Medical Reseller",
+      "n": 95
+     },
+     {
+      "name": "Upjohn Manufacturing/Supply",
+      "n": 96
+     },
+     {
+      "name": "Agape Supply",
+      "n": 2
+     },
+     {
+      "name": "Artara License",
+      "n": 6
+     },
+     {
+      "name": "Corio License & Hosting",
+      "n": 22
+     },
+     {
+      "name": "Federated Services",
+      "n": 29
+     },
+     {
+      "name": "FTE Networks Strategic Alliance",
+      "n": 33
+     },
+     {
+      "name": "Healthcare Integrated Reseller",
+      "n": 39
+     },
+     {
+      "name": "Her Imports Maintenance",
+      "n": 41
+     },
+     {
+      "name": "NetGrocer Sponsorship",
+      "n": 59
+     },
+     {
+      "name": "Performance Sports Endorsement",
+      "n": 68
+     },
+     {
+      "name": "Sparkling Spring Software License",
+      "n": 86
+     },
+     {
+      "name": "Staar Surgical Distributor",
+      "n": 87
+     },
+     {
+      "name": "Teardrop Golf Endorsement",
+      "n": 91
+     },
+     {
+      "name": "Soupman Franchise part 2",
+      "n": 83
+     },
+     {
+      "name": "Emerald Health",
+      "n": 25
+     },
+     {
+      "name": "Iovance",
+      "n": 45
+     },
+     {
+      "name": "Lifeway Endorsement",
+      "n": 52
+     },
+     {
+      "name": "Link Plus Affiliate",
+      "n": 53
+     },
+     {
+      "name": "NeoMedia Distributor",
+      "n": 58
+     },
+     {
+      "name": "Range Resources Transportation",
+      "n": 75
+     },
+     {
+      "name": "Southern Star Affiliate",
+      "n": 85
+     },
+     {
+      "name": "Wells Fargo Yield Maintenance",
+      "n": 98
+     }
+    ],
+    "possible": [],
+    "no": [
+     {
+      "name": "ENTRUST",
+      "n": 27
+     },
+     {
+      "name": "Cerence",
+      "n": 16
+     },
+     {
+      "name": "NeuroBo",
+      "n": 60
+     },
+     {
+      "name": "ADMA Amendment #3",
+      "n": 1
+     },
+     {
+      "name": "WebMD",
+      "n": 97
+     },
+     {
+      "name": "Embark",
+      "n": 24
+     },
+     {
+      "name": "ArcGroup",
+      "n": 5
+     },
+     {
+      "name": "China Recycling",
+      "n": 18
+     },
+     {
+      "name": "Logan's Roadhouse",
+      "n": 54
+     },
+     {
+      "name": "QIWI",
+      "n": 72
+     },
+     {
+      "name": "Quaker",
+      "n": 73
+     },
+     {
+      "name": "Kubient MSA part 2",
+      "n": 49
+     },
+     {
+      "name": "Soupman part 4",
+      "n": null
+     },
+     {
+      "name": "Glu Mobile amendment",
+      "n": 37
+     },
+     {
+      "name": "ScanSource amendment",
+      "n": 81
+     },
+     {
+      "name": "Women's Golf",
+      "n": 99
+     },
+     {
+      "name": "RGC franchise",
+      "n": 79
+     },
+     {
+      "name": "Cardlytics Maintenance",
+      "n": 15
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "no",
+     "name": "Soupman part 4",
+     "why": "ties: 83, 84"
+    }
+   ],
+   "yes": [
+    2,
+    3,
+    4,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    17,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    28,
+    29,
+    30,
+    32,
+    33,
+    35,
+    36,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    51,
+    52,
+    53,
+    55,
+    56,
+    58,
+    59,
+    61,
+    62,
+    63,
+    64,
+    67,
+    68,
+    69,
+    74,
+    75,
+    76,
+    77,
+    78,
+    80,
+    82,
+    83,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    95,
+    96,
+    98
+   ],
+   "possible": [],
+   "no": [
+    27,
+    16,
+    60,
+    1,
+    97,
+    24,
+    5,
+    18,
+    54,
+    72,
+    73,
+    49,
+    37,
+    81,
+    99,
+    79,
+    15
+   ],
+   "settled": [
+    {
+     "list": "yes",
+     "name": "FIS IP Agreement",
+     "n": [
+      30
+     ],
+     "why": "FIS = Fidelity National Information Services; its IP agreement (Equifax/Certegy) is file 30, the only FIS file"
+    },
+    {
+     "list": "yes",
+     "name": "Soupman Franchise part 2",
+     "n": [
+      83
+     ],
+     "why": "Soupman Franchise Agreement 2 is file 83"
+    }
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 69,
+    "names": {
+     "yes": [
+      {
+       "name": "Allied Esports Content License",
+       "n": 4
+      },
+      {
+       "name": "Aimmune Development",
+       "n": 3
+      },
+      {
+       "name": "Banuestra Agency",
+       "n": 8
+      },
+      {
+       "name": "BellRing Manufacturing",
+       "n": 9
+      },
+      {
+       "name": "Bloom Energy Maintenance",
+       "n": 10
+      },
+      {
+       "name": "BNL Outsourcing",
+       "n": 11
+      },
+      {
+       "name": "Bon-Ton Agency",
+       "n": 12
+      },
+      {
+       "name": "BorrowMoney JV",
+       "n": 13
+      },
+      {
+       "name": "Cardax Collaboration",
+       "n": 14
+      },
+      {
+       "name": "China Real Estate Content License",
+       "n": 17
+      },
+      {
+       "name": "Clickstream Development",
+       "n": 19
+      },
+      {
+       "name": "Coherus Development",
+       "n": 20
+      },
+      {
+       "name": "Coral Gold Consulting",
+       "n": 21
+      },
+      {
+       "name": "CURO Servicing",
+       "n": 23
+      },
+      {
+       "name": "Energy XXI Transportation",
+       "n": 26
+      },
+      {
+       "name": "Eton Development",
+       "n": 28
+      },
+      {
+       "name": "FIS IP Agreement",
+       "n": null
+      },
+      {
+       "name": "Freeze Tag Sponsorship",
+       "n": 32
+      },
+      {
+       "name": "Gentech Distributor",
+       "n": 35
+      },
+      {
+       "name": "Global Technologies Consulting",
+       "n": 36
+      },
+      {
+       "name": "GPAQ Service Agreement",
+       "n": 38
+      },
+      {
+       "name": "HealthGate Hosting",
+       "n": 40
+      },
+      {
+       "name": "iCoreConnect Strategic Alliance",
+       "n": 42
+      },
+      {
+       "name": "Intersect ENT Supply",
+       "n": 43
+      },
+      {
+       "name": "Invenda Co-Branding",
+       "n": 44
+      },
+      {
+       "name": "iVillage Sponsorship",
+       "n": 46
+      },
+      {
+       "name": "King Pharma Promotion",
+       "n": 47
+      },
+      {
+       "name": "Leju Internet Channel Cooperation",
+       "n": 51
+      },
+      {
+       "name": "MetLife Remarketing",
+       "n": 55
+      },
+      {
+       "name": "MiddleBrook Promotion",
+       "n": 56
+      },
+      {
+       "name": "NICE Outsourcing",
+       "n": 61
+      },
+      {
+       "name": "OASYS Outsourcing",
+       "n": 62
+      },
+      {
+       "name": "OFG Outsourcing",
+       "n": 63
+      },
+      {
+       "name": "Ominto Reseller",
+       "n": 64
+      },
+      {
+       "name": "PaperExchange Co-Branding",
+       "n": 67
+      },
+      {
+       "name": "PHL Variable Strategic Alliance",
+       "n": 69
+      },
+      {
+       "name": "Quantum Group Hosting",
+       "n": 74
+      },
+      {
+       "name": "Remark Content License",
+       "n": 76
+      },
+      {
+       "name": "Reynolds Supply Agreement (2019)",
+       "n": 77
+      },
+      {
+       "name": "Reynolds Service Agreement (2020)",
+       "n": 78
+      },
+      {
+       "name": "Rocky Mountain Chocolate",
+       "n": 80
+      },
+      {
+       "name": "SeaSpine Supply",
+       "n": 82
+      },
+      {
+       "name": "Stamps.com Sponsorship",
+       "n": 88
+      },
+      {
+       "name": "STW Cooperation",
+       "n": 89
+      },
+      {
+       "name": "Summa Four Software License",
+       "n": 90
+      },
+      {
+       "name": "theglobe.com Co-Branding",
+       "n": 92
+      },
+      {
+       "name": "Todos Medical Reseller",
+       "n": 95
+      },
+      {
+       "name": "Upjohn Manufacturing/Supply",
+       "n": 96
+      },
+      {
+       "name": "Agape Supply",
+       "n": 2
+      },
+      {
+       "name": "Artara License",
+       "n": 6
+      },
+      {
+       "name": "Corio License & Hosting",
+       "n": 22
+      },
+      {
+       "name": "Federated Services",
+       "n": 29
+      },
+      {
+       "name": "FTE Networks Strategic Alliance",
+       "n": 33
+      },
+      {
+       "name": "Healthcare Integrated Reseller",
+       "n": 39
+      },
+      {
+       "name": "Her Imports Maintenance",
+       "n": 41
+      },
+      {
+       "name": "NetGrocer Sponsorship",
+       "n": 59
+      },
+      {
+       "name": "Performance Sports Endorsement",
+       "n": 68
+      },
+      {
+       "name": "Sparkling Spring Software License",
+       "n": 86
+      },
+      {
+       "name": "Staar Surgical Distributor",
+       "n": 87
+      },
+      {
+       "name": "Teardrop Golf Endorsement",
+       "n": 91
+      },
+      {
+       "name": "Soupman Franchise part 2",
+       "n": null
+      },
+      {
+       "name": "Emerald Health",
+       "n": 25
+      },
+      {
+       "name": "Iovance",
+       "n": 45
+      },
+      {
+       "name": "Lifeway Endorsement",
+       "n": 52
+      },
+      {
+       "name": "Link Plus Affiliate",
+       "n": 53
+      },
+      {
+       "name": "NeoMedia Distributor",
+       "n": 58
+      },
+      {
+       "name": "Range Resources Transportation",
+       "n": 75
+      },
+      {
+       "name": "Southern Star Affiliate",
+       "n": 85
+      },
+      {
+       "name": "Wells Fargo Yield Maintenance",
+       "n": 98
+      }
+     ],
+     "possible": [],
+     "no": [
+      {
+       "name": "ENTRUST",
+       "n": 27
+      },
+      {
+       "name": "Cerence",
+       "n": 16
+      },
+      {
+       "name": "NeuroBo",
+       "n": 60
+      },
+      {
+       "name": "ADMA Amendment #3",
+       "n": 1
+      },
+      {
+       "name": "WebMD",
+       "n": 97
+      },
+      {
+       "name": "Embark",
+       "n": 24
+      },
+      {
+       "name": "ArcGroup",
+       "n": 5
+      },
+      {
+       "name": "China Recycling",
+       "n": 18
+      },
+      {
+       "name": "Logan's Roadhouse",
+       "n": 54
+      },
+      {
+       "name": "QIWI",
+       "n": 72
+      },
+      {
+       "name": "Quaker",
+       "n": 73
+      },
+      {
+       "name": "Kubient MSA part 2",
+       "n": 49
+      },
+      {
+       "name": "Soupman part 4",
+       "n": null
+      },
+      {
+       "name": "Glu Mobile amendment",
+       "n": 37
+      },
+      {
+       "name": "ScanSource amendment",
+       "n": 81
+      },
+      {
+       "name": "Women's Golf",
+       "n": 99
+      },
+      {
+       "name": "RGC franchise",
+       "n": 79
+      },
+      {
+       "name": "Cardlytics Maintenance",
+       "n": 15
+      }
+     ]
+    },
+    "unplaced": [
+     {
+      "list": "yes",
+      "name": "FIS IP Agreement",
+      "why": "no roster entry has any of its words"
+     },
+     {
+      "list": "yes",
+      "name": "Soupman Franchise part 2",
+      "why": "ties: 83, 84"
+     },
+     {
+      "list": "no",
+      "name": "Soupman part 4",
+      "why": "ties: 83, 84"
+     }
+    ],
+    "yes": [
+     4,
+     3,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     17,
+     19,
+     20,
+     21,
+     23,
+     26,
+     28,
+     32,
+     35,
+     36,
+     38,
+     40,
+     42,
+     43,
+     44,
+     46,
+     47,
+     51,
+     55,
+     56,
+     61,
+     62,
+     63,
+     64,
+     67,
+     69,
+     74,
+     76,
+     77,
+     78,
+     80,
+     82,
+     88,
+     89,
+     90,
+     92,
+     95,
+     96,
+     2,
+     6,
+     22,
+     29,
+     33,
+     39,
+     41,
+     59,
+     68,
+     86,
+     87,
+     91,
+     25,
+     45,
+     52,
+     53,
+     58,
+     75,
+     85,
+     98
+    ],
+    "possible": [],
+    "no": [
+     27,
+     16,
+     60,
+     1,
+     97,
+     24,
+     5,
+     18,
+     54,
+     72,
+     73,
+     49,
+     37,
+     81,
+     99,
+     79,
+     15
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "set-cap-on-liability",
+  "claims": {
+   "count": 23,
+   "names": {
+    "yes": [
+     {
+      "name": "ADMA – Amendment #3 to Manufacturing Agmt",
+      "n": 1
+     },
+     {
+      "name": "BNL Financial – Outsourcing",
+      "n": 11
+     },
+     {
+      "name": "Bloom Energy – Master O&M",
+      "n": 10
+     },
+     {
+      "name": "Cardax / Capsugel – Collaboration",
+      "n": 14
+     },
+     {
+      "name": "Corio / Commerce One – License & Hosting",
+      "n": 22
+     },
+     {
+      "name": "Entrust / Nortel – Strategic Alliance",
+      "n": 27
+     },
+     {
+      "name": "HealthGate – Hosting & Management",
+      "n": 40
+     },
+     {
+      "name": "Healthcare Integrated Tech / Vayyar – Reseller",
+      "n": 39
+     },
+     {
+      "name": "Intersect ENT / Hovione – Supply",
+      "n": 43
+     },
+     {
+      "name": "Invenda / Excite@Home – Co-Branding",
+      "n": 44
+     },
+     {
+      "name": "NICE / Flextronics – Outsourcing",
+      "n": 61
+     },
+     {
+      "name": "OASYS / E.piphany – Outsourcing",
+      "n": 62
+     },
+     {
+      "name": "PaperExchange / VerticalNet – Co-Branding",
+      "n": 67
+     },
+     {
+      "name": "Quantum Group / IBM – Hosting",
+      "n": 74
+     },
+     {
+      "name": "Remark / World Book – Content License",
+      "n": 76
+     },
+     {
+      "name": "Reynolds – Transition Services Agmt",
+      "n": 78
+     },
+     {
+      "name": "Stamps.com / Intuit – Sponsorship",
+      "n": 88
+     },
+     {
+      "name": "Summa Four / D2 – License & Maintenance",
+      "n": 90
+     },
+     {
+      "name": "theglobe.com / Boxlot – Co-Branding",
+      "n": 92
+     },
+     {
+      "name": "Todos Medical – Reseller",
+      "n": 95
+     },
+     {
+      "name": "Upjohn / Pfizer – Manufacturing & Supply",
+      "n": 96
+     },
+     {
+      "name": "NetGrocer / Excite – Sponsorship",
+      "n": 59
+     },
+     {
+      "name": "WebMD / Emdeon – Content License",
+      "n": 97
+     }
+    ],
+    "possible": [
+     {
+      "name": "STAAR Surgical – distributor agreement",
+      "n": 87
+     },
+     {
+      "name": "NeoMedia – distributor agreement",
+      "n": 58
+     },
+     {
+      "name": "MetLife Remarketing",
+      "n": 55
+     },
+     {
+      "name": "Rocky Mountain Chocolate",
+      "n": 80
+     },
+     {
+      "name": "Bon-Ton Agency",
+      "n": 12
+     },
+     {
+      "name": "OFG / Metavante",
+      "n": 63
+     },
+     {
+      "name": "NeuroBo / Dong-A",
+      "n": 60
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    1,
+    10,
+    11,
+    14,
+    22,
+    27,
+    39,
+    40,
+    43,
+    44,
+    59,
+    61,
+    62,
+    67,
+    74,
+    76,
+    78,
+    88,
+    90,
+    92,
+    95,
+    96,
+    97
+   ],
+   "possible": [
+    87,
+    58,
+    55,
+    80,
+    12,
+    63,
+    60
+   ],
+   "no": [],
+   "settled": [
+    {
+     "list": "yes",
+     "name": "Reynolds – Transition Services Agmt",
+     "n": [
+      78
+     ],
+     "why": "the Reynolds Service Agreement (a transition services agreement) is file 78"
+    }
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 23,
+    "names": {
+     "yes": [
+      {
+       "name": "ADMA – Amendment #3 to Manufacturing Agmt",
+       "n": 1
+      },
+      {
+       "name": "BNL Financial – Outsourcing",
+       "n": 11
+      },
+      {
+       "name": "Bloom Energy – Master O&M",
+       "n": 10
+      },
+      {
+       "name": "Cardax / Capsugel – Collaboration",
+       "n": 14
+      },
+      {
+       "name": "Corio / Commerce One – License & Hosting",
+       "n": 22
+      },
+      {
+       "name": "Entrust / Nortel – Strategic Alliance",
+       "n": 27
+      },
+      {
+       "name": "HealthGate – Hosting & Management",
+       "n": 40
+      },
+      {
+       "name": "Healthcare Integrated Tech / Vayyar – Reseller",
+       "n": 39
+      },
+      {
+       "name": "Intersect ENT / Hovione – Supply",
+       "n": 43
+      },
+      {
+       "name": "Invenda / Excite@Home – Co-Branding",
+       "n": 44
+      },
+      {
+       "name": "NICE / Flextronics – Outsourcing",
+       "n": 61
+      },
+      {
+       "name": "OASYS / E.piphany – Outsourcing",
+       "n": 62
+      },
+      {
+       "name": "PaperExchange / VerticalNet – Co-Branding",
+       "n": 67
+      },
+      {
+       "name": "Quantum Group / IBM – Hosting",
+       "n": 74
+      },
+      {
+       "name": "Remark / World Book – Content License",
+       "n": 76
+      },
+      {
+       "name": "Reynolds – Transition Services Agmt",
+       "n": null
+      },
+      {
+       "name": "Stamps.com / Intuit – Sponsorship",
+       "n": 88
+      },
+      {
+       "name": "Summa Four / D2 – License & Maintenance",
+       "n": 90
+      },
+      {
+       "name": "theglobe.com / Boxlot – Co-Branding",
+       "n": 92
+      },
+      {
+       "name": "Todos Medical – Reseller",
+       "n": 95
+      },
+      {
+       "name": "Upjohn / Pfizer – Manufacturing & Supply",
+       "n": 96
+      },
+      {
+       "name": "NetGrocer / Excite – Sponsorship",
+       "n": 59
+      },
+      {
+       "name": "WebMD / Emdeon – Content License",
+       "n": 97
+      }
+     ],
+     "possible": [
+      {
+       "name": "STAAR Surgical – distributor agreement",
+       "n": 87
+      },
+      {
+       "name": "NeoMedia – distributor agreement",
+       "n": 58
+      },
+      {
+       "name": "MetLife Remarketing",
+       "n": 55
+      },
+      {
+       "name": "Rocky Mountain Chocolate",
+       "n": 80
+      },
+      {
+       "name": "Bon-Ton Agency",
+       "n": 12
+      },
+      {
+       "name": "OFG / Metavante",
+       "n": 63
+      },
+      {
+       "name": "NeuroBo / Dong-A",
+       "n": 60
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [
+     {
+      "list": "yes",
+      "name": "Reynolds – Transition Services Agmt",
+      "why": "ties: 77, 78"
+     }
+    ],
+    "yes": [
+     1,
+     11,
+     10,
+     14,
+     22,
+     27,
+     40,
+     39,
+     43,
+     44,
+     61,
+     62,
+     67,
+     74,
+     76,
+     88,
+     90,
+     92,
+     95,
+     96,
+     59,
+     97
+    ],
+    "possible": [
+     87,
+     58,
+     55,
+     80,
+     12,
+     63,
+     60
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "both-texas-confidentiality",
+  "claims": {
+   "count": 4,
+   "names": {
+    "yes": [
+     {
+      "name": "Iovance (Lion Biotechnologies) / MD Anderson — Strategic Alliance Agreement (2017)",
+      "n": 45
+     },
+     {
+      "name": "FTE Networks / EDGE Communications — Strategic Alliance Agreement (2016)",
+      "n": 33
+     },
+     {
+      "name": "Energy XXI Gulf Coast / Energy XXI USA — Transportation Agreement (2015)",
+      "n": 26
+     },
+     {
+      "name": "Range Resources Louisiana (PennTex / MRD Operating) — Transportation Services Agreement (2015)",
+      "n": 75
+     }
+    ],
+    "possible": [],
+    "no": [
+     {
+      "name": "Optimized Transportation Management — ITS–Comware Distributor Agreement",
+      "n": 66
+     },
+     {
+      "name": "STW Resources / City of Fort Stockton — Cooperation Agreement",
+      "n": 89
+     },
+     {
+      "name": "PreCheck Health Services / Co-Diagnostics — Distributor Agreement",
+      "n": 70
+     }
+    ]
+   },
+   "unplaced": [],
+   "yes": [
+    45,
+    33,
+    26,
+    75
+   ],
+   "possible": [],
+   "no": [
+    66,
+    89,
+    70
+   ]
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 4,
+    "names": {
+     "yes": [
+      {
+       "name": "Iovance (Lion Biotechnologies) / MD Anderson — Strategic Alliance Agreement (2017)",
+       "n": 45
+      },
+      {
+       "name": "FTE Networks / EDGE Communications — Strategic Alliance Agreement (2016)",
+       "n": 33
+      },
+      {
+       "name": "Energy XXI Gulf Coast / Energy XXI USA — Transportation Agreement (2015)",
+       "n": 26
+      },
+      {
+       "name": "Range Resources Louisiana (PennTex / MRD Operating) — Transportation Services Agreement (2015)",
+       "n": 75
+      }
+     ],
+     "possible": [],
+     "no": [
+      {
+       "name": "Optimized Transportation Management — ITS–Comware Distributor Agreement",
+       "n": 66
+      },
+      {
+       "name": "STW Resources / City of Fort Stockton — Cooperation Agreement",
+       "n": 89
+      },
+      {
+       "name": "PreCheck Health Services / Co-Diagnostics — Distributor Agreement",
+       "n": 70
+      }
+     ]
+    },
+    "unplaced": [],
+    "yes": [
+     45,
+     33,
+     26,
+     75
+    ],
+    "possible": [],
+    "no": [
+     66,
+     89,
+     70
+    ]
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "both-autorenew-warranty",
+  "claims": {
+   "count": 11,
+   "names": {
+    "yes": [
+     {
+      "name": "Agape ATP – Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "BNL Financial – Outsourcing",
+      "n": 11
+     },
+     {
+      "name": "Corio – License and Hosting",
+      "n": 22
+     },
+     {
+      "name": "FTE Networks – Strategic Alliance",
+      "n": 33
+     },
+     {
+      "name": "MiddleBrook – Promotion",
+      "n": 56
+     },
+     {
+      "name": "NICE – Outsourcing (Flextronics)",
+      "n": 61
+     },
+     {
+      "name": "OFG Bancorp – Outsourcing (Metavante)",
+      "n": 63
+     }
+    ],
+    "possible": [
+     {
+      "name": "Todos Medical – Marketing/Reseller",
+      "n": 95
+     },
+     {
+      "name": "Optimized Transportation – Distributor",
+      "n": 66
+     },
+     {
+      "name": "Allied Esports – Content License",
+      "n": 4
+     },
+     {
+      "name": "Healthcare Integrated Tech – Reseller",
+      "n": 39
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    11,
+    22,
+    33,
+    56,
+    61,
+    63
+   ],
+   "possible": [
+    95,
+    66,
+    4,
+    39
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 11,
+    "names": {
+     "yes": [
+      {
+       "name": "Agape ATP – Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "BNL Financial – Outsourcing",
+       "n": 11
+      },
+      {
+       "name": "Corio – License and Hosting",
+       "n": 22
+      },
+      {
+       "name": "FTE Networks – Strategic Alliance",
+       "n": 33
+      },
+      {
+       "name": "MiddleBrook – Promotion",
+       "n": 56
+      },
+      {
+       "name": "NICE – Outsourcing (Flextronics)",
+       "n": 61
+      },
+      {
+       "name": "OFG Bancorp – Outsourcing (Metavante)",
+       "n": 63
+      }
+     ],
+     "possible": [
+      {
+       "name": "Todos Medical – Marketing/Reseller",
+       "n": 95
+      },
+      {
+       "name": "Optimized Transportation – Distributor",
+       "n": 66
+      },
+      {
+       "name": "Allied Esports – Content License",
+       "n": 4
+      },
+      {
+       "name": "Healthcare Integrated Tech – Reseller",
+       "n": 39
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     2,
+     11,
+     22,
+     33,
+     56,
+     61,
+     63
+    ],
+    "possible": [
+     95,
+     66,
+     4,
+     39
+    ],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "both-nosolicit-agreement-confidential",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Coherus Biosciences – Bioeq License and Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Leclanché – Joint Development and Marketing Agreement",
+      "n": 50
+     },
+     {
+      "name": "OFG Bancorp – Metavante Outsourcing Agreement",
+      "n": 63
+     }
+    ],
+    "possible": [
+     {
+      "name": "Theravance Biopharma – Service Agreement",
+      "n": 93
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    20,
+    50,
+    63
+   ],
+   "possible": [
+    93
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Coherus Biosciences – Bioeq License and Development Agreement",
+       "n": 20
+      },
+      {
+       "name": "Leclanché – Joint Development and Marketing Agreement",
+       "n": 50
+      },
+      {
+       "name": "OFG Bancorp – Metavante Outsourcing Agreement",
+       "n": 63
+      }
+     ],
+     "possible": [
+      {
+       "name": "Theravance Biopharma – Service Agreement",
+       "n": 93
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     20,
+     50,
+     63
+    ],
+    "possible": [
+     93
+    ],
+    "no": []
+   }
+  ]
+ }
+]

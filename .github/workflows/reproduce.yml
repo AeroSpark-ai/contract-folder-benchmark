@@ -1,0 +1,14 @@
+name: reproduce
+# Re-scores every recorded answer and fails if the numbers differ from results/2026-10-aerospark-chatgpt-claude/scores/headline.json.
+on:
+  push:
+  pull_request:
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 results/2026-10-aerospark-chatgpt-claude/scoring/reproduce.py --check

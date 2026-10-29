@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it and the CUAD dataset it is built on."
+type: dataset
+title: "The Contract Folder Test: AeroSpark, Claude and ChatGPT Business on a folder of 99 CUAD contracts"
+abstract: >-
+  The same 46 plain-English questions about the same folder of 99 commercial contracts from CUAD, put to Claude Max (Opus 5.5 at High)
+  and ChatGPT Business (GPT-6 at High), each reading the folder through its Google Drive connection, and to AeroSpark, a contract repository.
+  Includes the questions, the answer key and how it was made, every system's answers as recorded, how each answer was read, and the
+  code that scores them.
+version: 1.0.0
+license: CC-BY-4.0
+repository-code: "https://github.com/AeroSpark-ai/contract-folder-benchmark"
+keywords:
+  - contracts
+  - legal AI
+  - benchmark
+  - CUAD
+  - ChatGPT
+  - Claude
+authors:
+  - name: "AeroSpark"
+references:
+  - type: dataset
+    title: "Contract Understanding Atticus Dataset (CUAD) v1"
+    authors:
+      - name: "The Atticus Project"
+    doi: 10.5281/zenodo.4595826
+    license: CC-BY-4.0
+  - type: conference-paper
+    title: "CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review"
+    authors:
+      - family-names: Hendrycks
+        given-names: Dan
+      - family-names: Burns
+        given-names: Collin
+      - family-names: Chen
+        given-names: Anya
+      - family-names: Ball
+        given-names: Spencer
+    collection-title: "NeurIPS 2021 Datasets and Benchmarks Track"
+    year: 2021
