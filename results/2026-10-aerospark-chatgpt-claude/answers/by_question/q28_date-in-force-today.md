@@ -441,23 +441,35 @@ Document-based preliminary contract review; not a legal opinion or independent v
 
 </details>
 
-**Scored:** named as a match 19: **19 of the 28 in the key**, 0 not in the key.
+**Scored:** named as a match 0: **0 of the 28 in the key**, 0 not in the key.
 
-<details><summary>In the key and named (19), named but not in the key (0), possible (5), missed (5)</summary>
+<details><summary>In the key and named (0), named but not in the key (0), possible (24), missed (5)</summary>
 
 **In the key and named**
 
+- none
+
+**Named but not in the key**
+
+- none
+
+**Hedged as possible**
+
 - AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf
+- AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf
 - BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF
 - CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement.PDF
 - CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF
+- CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.PDF
 - ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF
 - EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf
+- EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf
 - FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF
 - FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF
 - GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf
 - HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf
 - ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement.PDF
+- IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF
 - LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf
 - NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF
 - PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf
@@ -466,17 +478,6 @@ Document-based preliminary contract review; not a legal opinion or independent v
 - STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF
 - SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF
 - SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf
-
-**Named but not in the key**
-
-- none
-
-**Hedged as possible**
-
-- AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf
-- CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.PDF
-- EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf
-- IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF
 - TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf
 
 **In the key, not named**
