@@ -31,7 +31,7 @@ One page per question: the words asked, the key, each system's answer and which 
 | 25 | [As of July 1, 2020, which of these contracts had an initial term due to end within the next 12 months?](q25_date-ending-asof-2020.md) | 5 | 5/5 | 4/5 | 4/5 |
 | 26 | [Which of these contracts run until a party ends them, with no fixed end date?](q26_date-no-end.md) | 14 | 11/14 | 8/14 | 7/14 |
 | 27 | [As of July 1, 2016, which of these contracts had a deadline within the next six months for giving notice to stop an automatic renewal?](q27_date-asof-notice.md) | 3 | 3/3 +2 wrong | 3/3 | 2/3 |
-| 28 | [Which of these contracts are still in force today?](q28_date-in-force-today.md) | 28 | 28/28 +4 wrong | 23/28 | 19/28 |
+| 28 | [Which of these contracts are still in force today?](q28_date-in-force-today.md) | 28 | 28/28 +4 wrong | 23/28 | 0/28 |
 | 29 | [Which contracts entered into after December 31, 2010 restrict a party from soliciting the other party's employees?](q29_both-post2010-nosolicit.md) | 9 | 9/9 | 8/9 | 8/9 |
 | 30 | [Which contracts restrict soliciting the other party's employees or give a right of first refusal, offer or negotiation?](q30_or-nosolicit-rofr.md) | 25 | 19/25 +1 wrong | 20/25 | 17/25 |
 | 31 | [Which contracts is Beijing Yisheng Leju Information Services Co., Ltd a party to?](q31_party.md) | 2 | 2/2 | 2/2 | 2/2 |

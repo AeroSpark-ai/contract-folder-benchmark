@@ -6,8 +6,8 @@ Made by `python3 results/2026-10-aerospark-chatgpt-claude/scoring/reproduce.py -
 
 | | AeroSpark | Claude | ChatGPT |
 |---|---|---|---|
-| **Score out of 100** | **89.8** | **85.6** | **83.7** |
-| Contracts found, the 30 list questions (576 in the key) | 490 (85%) | 463 (80%) | 446 (77%) |
+| **Score out of 100** | **89.8** | **85.6** | **82.2** |
+| Contracts found, the 30 list questions (576 in the key) | 490 (85%) | 463 (80%) | 427 (74%) |
 | Contracts named that are not in the key | 24 | 12 | 5 |
 | Found, with the contracts each hedged as "possible" credited too | 508 (29 not in the key) | 495 (61 not in the key) | 463 (27 not in the key) |
 | Counts right (of 5) | 4 | 4 | 4 |
@@ -21,7 +21,7 @@ Made by `python3 results/2026-10-aerospark-chatgpt-claude/scoring/reproduce.py -
 | | Difference in score, 95% of redraws | AeroSpark ahead in |
 |---|---|---|
 | AeroSpark minus Claude | +1.5 to +7.1 | 99.9% of redraws |
-| AeroSpark minus ChatGPT | +3.3 to +9.1 | 100.0% of redraws |
+| AeroSpark minus ChatGPT | +3.4 to +12.9 | 100.0% of redraws |
 
 **By kind of question** (the score out of 100 on the questions of each kind)
 
@@ -29,7 +29,7 @@ Made by `python3 results/2026-10-aerospark-chatgpt-claude/scoring/reproduce.py -
 |---|---|---|---|---|
 | Find every contract with a clause | 14 | 82.5 | 81.9 | 77.6 |
 | Two or three conditions at once | 4 | 88.5 | 72.7 | 77.5 |
-| Dates against a stated day | 6 | 94.6 | 82.8 | 75.6 |
+| Dates against a stated day | 6 | 94.6 | 82.8 | 64.3 |
 | The most recent, the shortest notice | 2 | 100.0 | 83.3 | 83.3 |
 | By party, by type, notice period, either of two clauses | 4 | 88.4 | 83.9 | 83.7 |
 | Counts | 5 | 80.0 | 80.0 | 80.0 |
