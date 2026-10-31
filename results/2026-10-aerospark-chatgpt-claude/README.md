@@ -13,8 +13,8 @@ a count, a lookup or a question about a contract not in the folder is right or n
 
 | | AeroSpark | Claude | ChatGPT |
 |---|---|---|---|
-| **Score out of 100** | **89.8** | **85.6** | **83.7** |
-| Contracts found, the 30 list questions (576 in the key) | 490 (85%) | 463 (80%) | 446 (77%) |
+| **Score out of 100** | **89.8** | **85.6** | **82.2** |
+| Contracts found, the 30 list questions (576 in the key) | 490 (85%) | 463 (80%) | 427 (74%) |
 | Contracts named that are not in the key | 24 | 12 | 5 |
 | Counts right (of 5) | 4 | 4 | 4 |
 | Lookups right (of 11) | 11 | 11 | 11 |
@@ -24,7 +24,7 @@ a count, a lookup or a question about a contract not in the folder is right or n
 - **Finding contracts.** AeroSpark found the most contracts and named more that are not in the key; ChatGPT named the fewest that are not in the key. All three got
   the same four of the five counts right (each missed the count of contracts with a right of first refusal) and all eleven lookups.
 - **Redrawing the questions.** With the 46 questions redrawn at random 10,000 times, AeroSpark stays ahead of Claude in 99.9% of redraws (by 1.5 to 7.1 points in
-  95% of them) and of ChatGPT in all of them (by 3.3 to 9.1).
+  95% of them) and of ChatGPT in 100.0% of them (by 3.4 to 12.9).
 - **Time.** AeroSpark answered all 46 in under a minute each; its slowest took 35 seconds. Claude and ChatGPT typically took five to ten minutes a question.
 
 Every figure is made by `scoring/reproduce.py` from the recorded answers ([scores/headline.md](scores/headline.md), by kind of question and with the contracts each system

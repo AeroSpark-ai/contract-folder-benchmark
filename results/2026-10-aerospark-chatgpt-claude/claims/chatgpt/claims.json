@@ -2652,7 +2652,8 @@
   "claims": {
    "count": null,
    "names": {
-    "yes": [
+    "yes": [],
+    "possible": [
      {
       "name": "STW Resources — Cooperation Agreement",
       "n": 89
@@ -2740,9 +2741,7 @@
      {
       "name": "Fidelity National Information Services — IP Agreement",
       "n": 30
-     }
-    ],
-    "possible": [
+     },
      {
       "name": "Upjohn — Manufacturing and Supply",
       "n": 96
@@ -2804,39 +2803,38 @@
     ]
    },
    "unplaced": [],
-   "yes": [
-    89,
-    38,
-    18,
+   "yes": [],
+   "possible": [
     2,
-    75,
-    25,
-    20,
-    53,
-    86,
-    90,
-    85,
-    61,
-    26,
-    67,
-    56,
-    42,
-    39,
-    33,
-    22,
+    3,
+    6,
+    10,
     11,
     16,
-    30
-   ],
-   "possible": [
-    96,
-    95,
+    18,
+    20,
+    22,
     23,
-    3,
-    45,
-    10,
+    25,
+    26,
     28,
-    6
+    30,
+    33,
+    38,
+    39,
+    42,
+    45,
+    53,
+    56,
+    61,
+    67,
+    75,
+    85,
+    86,
+    89,
+    90,
+    95,
+    96
    ],
    "no": [
     97,
@@ -3047,7 +3045,8 @@
      21
     ]
    }
-  ]
+  ],
+  "read_by_hand": "The reader took these names as affirmed. The answer hedges the whole list (\"a list of potentially continuing contracts, not 20 legally verified active agreements\"), so all of them count as possible. See claims/names_settled_by_claude.md."
  },
  {
   "pass": 1,
