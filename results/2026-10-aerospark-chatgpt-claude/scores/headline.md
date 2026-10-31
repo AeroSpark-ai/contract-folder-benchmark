@@ -9,12 +9,12 @@ Made by `python3 results/2026-10-aerospark-chatgpt-claude/scoring/reproduce.py -
 | **Score out of 100** | **89.8** | **85.6** | **82.2** |
 | Contracts found, the 30 list questions (576 in the key) | 490 (85%) | 463 (80%) | 427 (74%) |
 | Contracts named that are not in the key | 24 | 12 | 5 |
-| Found, with the contracts each hedged as "possible" credited too | 508 (29 not in the key) | 495 (61 not in the key) | 463 (27 not in the key) |
+| Found, with the contracts each hedged as "possible" credited too | 508 (29 not in the key) | 495 (61 not in the key) | 462 (27 not in the key) |
 | Counts right (of 5) | 4 | 4 | 4 |
 | Lookups right (of 11) | 11 | 11 | 11 |
 | Median time per question | 10 s | 5.6 min | 5.9 min |
-| Slowest question | 35 s | 11.2 min | 18.0 min |
-| All 46 questions | 9.3 min | 4.0 hours | 4.8 hours |
+| Slowest question | 35 s | 11.2 min | 19.4 min |
+| All 46 questions | 9.3 min | 4.0 hours | 4.9 hours |
 
 **Redrawing the questions.** The 46 questions redrawn at random 10,000 times (each redraw the same size, some questions twice, some not at all), and the score worked out again each time:
 

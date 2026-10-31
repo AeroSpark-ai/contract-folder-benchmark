@@ -19,7 +19,7 @@ a count, a lookup or a question about a contract not in the folder is right or n
 | Counts right (of 5) | 4 | 4 | 4 |
 | Lookups right (of 11) | 11 | 11 | 11 |
 | Median time per question | 10 s | 5.6 min | 5.9 min |
-| All 46 questions | 9 minutes | 4.0 hours | 4.8 hours |
+| All 46 questions | 9 minutes | 4.0 hours | 4.9 hours |
 
 - **Finding contracts.** AeroSpark found the most contracts and named more that are not in the key; ChatGPT named the fewest that are not in the key. All three got
   the same four of the five counts right (each missed the count of contracts with a right of first refusal) and all eleven lookups.
