@@ -2650,6 +2650,165 @@
   "pass": 1,
   "id": "date-in-force-today",
   "claims": {
+   "yes": [],
+   "possible": [
+    3,
+    6,
+    10,
+    18,
+    20,
+    22,
+    23,
+    25,
+    26,
+    28,
+    29,
+    33,
+    38,
+    39,
+    42,
+    45,
+    53,
+    56,
+    61,
+    67,
+    75,
+    77,
+    79,
+    85,
+    86,
+    89,
+    90,
+    93,
+    95
+   ],
+   "no": [],
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [
+     {
+      "name": "RGC Resources",
+      "n": 79
+     },
+     {
+      "name": "GPAQ",
+      "n": 38
+     },
+     {
+      "name": "Range Resources",
+      "n": 75
+     },
+     {
+      "name": "Coherus",
+      "n": 20
+     },
+     {
+      "name": "Link Plus",
+      "n": 53
+     },
+     {
+      "name": "Todos Medical",
+      "n": 95
+     },
+     {
+      "name": "PaperExchange",
+      "n": 67
+     },
+     {
+      "name": "Middlebrook",
+      "n": 56
+     },
+     {
+      "name": "iCoreConnect",
+      "n": 42
+     },
+     {
+      "name": "Healthcare Integrated Technologies",
+      "n": 39
+     },
+     {
+      "name": "NICE",
+      "n": 61
+     },
+     {
+      "name": "Corio",
+      "n": 22
+     },
+     {
+      "name": "Southern Star",
+      "n": 85
+     },
+     {
+      "name": "Summa Four",
+      "n": 90
+     },
+     {
+      "name": "Sparkling Spring Water",
+      "n": 86
+     },
+     {
+      "name": "Energy XXI",
+      "n": 26
+     },
+     {
+      "name": "FTE Networks",
+      "n": 33
+     },
+     {
+      "name": "Aimmune",
+      "n": 3
+     },
+     {
+      "name": "Eton",
+      "n": 28
+     },
+     {
+      "name": "CURO",
+      "n": 23
+     },
+     {
+      "name": "Bloom Energy",
+      "n": 10
+     },
+     {
+      "name": "Iovance",
+      "n": 45
+     },
+     {
+      "name": "Reynolds Consumer Products supply",
+      "n": 77
+     },
+     {
+      "name": "ArTara",
+      "n": 6
+     },
+     {
+      "name": "Theravance",
+      "n": 93
+     },
+     {
+      "name": "Federated",
+      "n": 29
+     },
+     {
+      "name": "STW Resources",
+      "n": 89
+     },
+     {
+      "name": "China Recycling Energy",
+      "n": 18
+     },
+     {
+      "name": "Emerald Health",
+      "n": 25
+     }
+    ],
+    "no": []
+   }
+  },
+  "read_by_hand": "The re-ask: \"none can be certified as legally active today\", \"strongest candidates\", and \"not a verified register\". The answer names no contract as a match, so all of them count as possible. Read by hand rather than by the model reader; first_answer_claims holds the first answer as read.",
+  "first_answer_claims": {
    "count": null,
    "names": {
     "yes": [],
@@ -2844,209 +3003,7 @@
     5,
     21
    ]
-  },
-  "agree": true,
-  "others": [
-   {
-    "count": null,
-    "names": {
-     "yes": [
-      {
-       "name": "STW Resources — Cooperation Agreement",
-       "n": 89
-      },
-      {
-       "name": "GPAQ Acquisition Holdings — Service Agreement",
-       "n": 38
-      },
-      {
-       "name": "China Recycling Energy — Cooperation Agreement",
-       "n": 18
-      },
-      {
-       "name": "Agape ATP — Supply Agreement",
-       "n": 2
-      },
-      {
-       "name": "Range Resources Louisiana — Transportation Agreement",
-       "n": 75
-      },
-      {
-       "name": "Emerald Health Bioceuticals — Development Agreement",
-       "n": 25
-      },
-      {
-       "name": "Coherus BioSciences — License and Development Agreement",
-       "n": 20
-      },
-      {
-       "name": "Link Plus — Affiliate Agreement",
-       "n": 53
-      },
-      {
-       "name": "Sparkling Spring Water — Software License",
-       "n": 86
-      },
-      {
-       "name": "Summa Four — Software License",
-       "n": 90
-      },
-      {
-       "name": "Southern Star Energy — Affiliate Agreement",
-       "n": 85
-      },
-      {
-       "name": "NICE Ltd. — Outsourcing Agreement",
-       "n": 61
-      },
-      {
-       "name": "Energy XXI — Transportation Agreement",
-       "n": 26
-      },
-      {
-       "name": "PaperExchange — Co-Branding Agreement",
-       "n": 67
-      },
-      {
-       "name": "MiddleBrook Pharmaceuticals — Promotion Agreement",
-       "n": 56
-      },
-      {
-       "name": "iCoreConnect — Strategic Alliance Agreement",
-       "n": 42
-      },
-      {
-       "name": "Healthcare Integrated Technologies — Reseller Agreement",
-       "n": 39
-      },
-      {
-       "name": "FTE Networks — Strategic Alliance Agreement",
-       "n": 33
-      },
-      {
-       "name": "Corio — License and Hosting Agreement",
-       "n": 22
-      },
-      {
-       "name": "BNL Financial — Outsourcing Agreement",
-       "n": 11
-      },
-      {
-       "name": "Cerence — IP Agreement",
-       "n": 16
-      },
-      {
-       "name": "Fidelity National Information Services — IP Agreement",
-       "n": 30
-      }
-     ],
-     "possible": [
-      {
-       "name": "Upjohn — Manufacturing and Supply",
-       "n": 96
-      },
-      {
-       "name": "Todos Medical — Reseller Agreement",
-       "n": 95
-      },
-      {
-       "name": "CURO Group — Servicing Agreement",
-       "n": 23
-      },
-      {
-       "name": "Aimmune Therapeutics — Development Agreement",
-       "n": 3
-      },
-      {
-       "name": "Iovance Biotherapeutics — Strategic Alliance",
-       "n": 45
-      },
-      {
-       "name": "Bloom Energy — Maintenance Agreement",
-       "n": 10
-      },
-      {
-       "name": "Eton Pharmaceuticals — Development Agreement",
-       "n": 28
-      },
-      {
-       "name": "ArTara Therapeutics — Project/License Agreement",
-       "n": 6
-      }
-     ],
-     "no": [
-      {
-       "name": "WebMD — Content License",
-       "n": 97
-      },
-      {
-       "name": "Wells Fargo — Yield Maintenance",
-       "n": 98
-      },
-      {
-       "name": "Freeze Tag — Sponsorship",
-       "n": 32
-      },
-      {
-       "name": "BellRing Brands — Manufacturing",
-       "n": 9
-      },
-      {
-       "name": "ARC Group — Sponsorship",
-       "n": 5
-      },
-      {
-       "name": "Coral Gold Resources — Consulting",
-       "n": 21
-      }
-     ]
-    },
-    "unplaced": [],
-    "yes": [
-     89,
-     38,
-     18,
-     2,
-     75,
-     25,
-     20,
-     53,
-     86,
-     90,
-     85,
-     61,
-     26,
-     67,
-     56,
-     42,
-     39,
-     33,
-     22,
-     11,
-     16,
-     30
-    ],
-    "possible": [
-     96,
-     95,
-     23,
-     3,
-     45,
-     10,
-     28,
-     6
-    ],
-    "no": [
-     97,
-     98,
-     32,
-     9,
-     5,
-     21
-    ]
-   }
-  ],
-  "read_by_hand": "The reader took these names as affirmed. The answer hedges the whole list (\"a list of potentially continuing contracts, not 20 legally verified active agreements\"), so all of them count as possible. See claims/names_settled_by_claude.md."
+  }
  },
  {
   "pass": 1,

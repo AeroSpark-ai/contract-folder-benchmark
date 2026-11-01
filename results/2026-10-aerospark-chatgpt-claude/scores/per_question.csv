@@ -26,7 +26,7 @@ n,id,kind,scored_as,key_from,key_contracts,aerospark_score,aerospark_found,aeros
 25,date-ending-asof-2020,Dates against a stated day,files,CUAD,5,1.0,5,0,5,0,,0.0,,0.8,4,0,5,0,,463.0,,0.8,4,0,5,0,,664.0,
 26,date-no-end,Dates against a stated day,files,CUAD,14,0.7857,11,0,11,0,,11.4,,0.5714,8,0,10,0,,470.0,,0.5,7,0,9,11,,1074.0,
 27,date-asof-notice,Dates against a stated day,files,CUAD,3,1.0,3,2,3,2,,17.3,,1.0,3,0,3,1,,673.0,,0.6667,2,0,2,0,,452.3,
-28,date-in-force-today,Dates against a stated day,files,CUAD,28,1.0,28,4,28,4,,0.0,,0.8214,23,0,26,0,,586.0,,0.0,0,0,23,1,,634.0,
+28,date-in-force-today,Dates against a stated day,files,CUAD,28,1.0,28,4,28,4,,0.0,,0.8214,23,0,26,0,,586.0,,0.0,0,0,22,1,,1164.0,
 29,both-post2010-nosolicit,Two or three conditions at once,files,CUAD,9,1.0,9,0,9,0,,19.7,,0.8889,8,0,8,0,,306.0,,0.8889,8,0,8,0,,511.2,
 30,or-nosolicit-rofr,"By party, by type, notice period, either of two clauses",files,CUAD,25,0.76,19,1,21,1,,20.8,,0.8,20,0,22,5,,634.0,,0.68,17,0,18,0,,880.6,
 31,party,"By party, by type, notice period, either of two clauses",files,CUAD,2,1.0,2,0,2,0,,11.5,,1.0,2,0,2,0,,25.0,,1.0,2,0,2,0,,112.0,
