@@ -1,0 +1,16 @@
+{
+ "note": "Graded by reading each answer against the key, the same rule as the main run: the expected fact stated, a date in any form. Whatever the tool last said about a question stands. A lookup it told the reader not to rely on counts as not answered until it is asked again.",
+ "questions": {
+  "look-law-1": {"key": "New York", "right": true},
+  "look-law-2": {"key": "England and Wales", "right": true},
+  "look-signed-1": {"key": "1/1/04", "right": true, "note": "first answer right, then disowned by a later reply; right on the re-ask, January 1, 2004"},
+  "look-ends-1": {"key": "1/20/25", "right": true, "note": "first answer right, then disowned by a later reply; right on the re-ask, 20 January 2025"},
+  "look-ends-2": {"key": "1/21/05", "right": true, "note": "first answer right, then disowned by a later reply; right on the re-ask, January 21st, 2005"},
+  "look-party-1": {"key": "DIAMOND STATE GENERATION PARTNERS, LLC", "right": true, "note": "first answer right, then disowned by a later reply; right on the re-ask"},
+  "look-party-2": {"key": "mPhase Technologies Inc", "right": true, "note": "first answer right, then disowned by a later reply; right on the re-ask"},
+  "look-renewal-1": {"key": "successive 1 year", "right": true, "note": "first answer disowned by a later reply. On the re-ask: the agreement sets no renewal term of its own, and the only renewable term is one year, for maintenance and support. Counted right; the same clause and one-year term the other systems cite"},
+  "look-notice-1": {"key": "30 days", "right": true, "note": "stands because a page reload cleared the history before a later reply could disown it"},
+  "absent-1": {"key": "not in the folder", "right": true, "note": "said it could not find this agreement and that it may not be among those in the review"},
+  "absent-2": {"key": "not in the folder", "right": true, "note": "the end of the next reply was not read before the history cleared, so a later retraction cannot be ruled out"}
+ }
+}

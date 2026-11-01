@@ -48,7 +48,8 @@ Step by step, for chat assistants and other systems: [benchmark/docs/RUNNING.md]
 
 Each run is kept in [results/](results/README.md) with every answer as recorded, how each answer was read, and the code that re-makes its tables. The first is our own,
 [October 2026: AeroSpark, Claude and ChatGPT Business](results/2026-10-aerospark-chatgpt-claude/README.md): out of 100, **AeroSpark 89.8, Claude 85.6, ChatGPT 82.2**.
-AeroSpark answered all 46 questions in under a minute each (median 10 seconds); Claude and ChatGPT took about six minutes a question.
+AeroSpark answered all 46 questions in under a minute each (median 10 seconds); Claude and ChatGPT took about six minutes a question. A second run,
+[Claude's Tabular review](results/2026-10-claude-tabular-review/README.md), put the same questions to the table-building tool Anthropic released on 28 October 2026: 83.9.
 
 **We build AeroSpark**, a contract repository, and wrote this benchmark. That is why everything is public: the contracts, the questions, the key and how it was made,
 the scoring code and every recorded answer. If you run it, we would like to see your results; if you disagree with a label, a reading or a rule,

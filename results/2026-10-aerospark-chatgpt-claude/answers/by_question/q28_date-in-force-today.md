@@ -349,101 +349,92 @@ I can put all 99 into a sheet with the dates, clauses and reasoning for each if 
 
 </details>
 
-## ChatGPT: 10.6 min
+## ChatGPT: 19.4 min
 
 <details><summary>ChatGPT's answer, verbatim (Drive links removed)</summary>
 
 # Contract status review — Benchmark Test
 
-As of October 13, 2026 · Google Drive shared drive: Benchmark Test
+As of October 31, 2026 · Google Drive shared drive: Benchmark Test
 
-I reviewed the term, expiration, renewal, and termination provisions in the 99 PDF contracts found in the shared drive. No subfolders were returned.
+I reviewed the 99 PDF files in your Benchmark Test shared drive. The drive contains no subfolders.
 
-The findings: Several contracts are still within their stated contractual term, and others contain perpetual or automatic-renewal provisions. However, the documents alone cannot establish whether the parties subsequently terminated, amended, or replaced those agreements.
+Five agreements have terms that, on the face of the documents, could still be running today. Another group contains perpetual, automatically renewing, or event-dependent agreements that may also remain in force.
 
-## 1. Contracts with terms extending into or beyond 2026
+However, none can be certified as legally active today from these PDFs alone. They are predominantly historical SEC-filed contracts, and the drive does not establish whether subsequent termination notices, amendments, or triggering events occurred.
 
-These are the strongest candidates for agreements still in force under their original terms, assuming no early termination or triggering event.
+## 1. Strongest candidates for still being in force
 
-| Contract                                                                                                                          | Contractual duration                                                                         | Assessment                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [STW Resources — Cooperation Agreement](https://drive.google.com/file/d/REDACTED/view)                   | 30 years from effective date, approximately through 2044; automatic annual renewal afterward | Within stated term, subject to early-termination conditions                |
-| [GPAQ Acquisition Holdings — Service Agreement](https://drive.google.com/file/d/REDACTED/view)           | Express expiration: December 31, 2028                                                        | Within stated term                                                         |
-| [China Recycling Energy — Cooperation Agreement](https://drive.google.com/file/d/REDACTED/view)          | 20 years, approximately through 2033                                                         | Within stated term unless equipment-related termination occurred           |
-| [Agape ATP — Supply Agreement](https://drive.google.com/file/d/REDACTED/view)                            | 10 years from execution, with automatic 10-year renewals                                     | Within apparent initial term                                               |
-| [Range Resources Louisiana — Transportation Agreement](https://drive.google.com/file/d/REDACTED/view)    | Through the end of the 15th Contract Year, then continues until terminated on notice         | Potentially within minimum term; commencement date needs confirmation      |
-| [Emerald Health Bioceuticals — Development Agreement](https://drive.google.com/file/d/REDACTED/view)     | 10-year agreement, with automatically renewing two-year service periods                      | Within apparent overall term; services may have been terminated separately |
-| [Coherus BioSciences — License and Development Agreement](https://drive.google.com/file/d/REDACTED/view) | 10 years after first commercial sale, followed by indefinite automatic renewal               | Potentially in force; commercial-sale and termination history needed       |
+These agreements have no stated end date before October 31, 2026, or expressly provide for continuing operation.
 
-## 2. Contracts that may remain in force indefinitely
+| Contract                                                                                                                                                     | Relevant provision                                                                    | Assessment                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| RGC Resources / Roanoke Gas — Gas Franchise                 | §2: 20 years from January 1, 2016                                                     | Within stated term, through December 31, 2035                       |
+| GPAQ / HOF Village — Constellation Sponsorship and Services | §4.1: expires December 31, 2028                                                       | Within stated term                                                  |
+| Range Resources / PennTex — Transportation Services         | §2.1: 15 contract years from 2015, then continues until terminated on 30 days' notice | Within stated term                                                  |
+| Coherus BioSciences / Bioeq — License and Development       | §15.1: ten years after first commercial sale, then indefinite automatic renewal       | Potentially active, assuming effectiveness and no early termination |
+| Link Plus / Axiometric — Affiliate Agreement                | §5: remains in force perpetually unless mutually changed in writing                   | Potentially active indefinitely                                     |
 
-These agreements do not simply expire after their initial period. Their provisions allow them to continue until a specified notice or termination event.
+The RGC and GPAQ documents provide the clearest calendar-based evidence. The others require confirmation that no termination or superseding agreement has occurred.
 
-| Contract                                                                                                                          | Provision supporting continued validity                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [Link Plus — Affiliate Agreement](https://drive.google.com/file/d/REDACTED/view)                         | Section 5 states that the agreement remains in force in perpetuity unless mutually amended or otherwise agreed in writing |
-| [Sparkling Spring Water — Software License](https://drive.google.com/file/d/REDACTED/view)               | Section 17 provides perpetual effect while required fees are paid and the agreement is not terminated                     |
-| [Summa Four — Software License](https://drive.google.com/file/d/REDACTED/view)                           | Section 9.1 continues the agreement until terminated                                                                      |
-| [Southern Star Energy — Affiliate Agreement](https://drive.google.com/file/d/REDACTED/view)              | Unlimited duration; either party may cancel                                                                               |
-| [NICE Ltd. — Outsourcing Agreement](https://drive.google.com/file/d/REDACTED/view)                       | Three-year initial term, followed by automatic indefinite extension                                                       |
-| [Energy XXI — Transportation Agreement](https://drive.google.com/file/d/REDACTED/view)                   | Section 8.1 continues until either party gives 30 days' written notice                                                    |
-| [PaperExchange — Co-Branding Agreement](https://drive.google.com/file/d/REDACTED/view)                   | Automatically renews annually unless notice is given                                                                      |
-| [MiddleBrook Pharmaceuticals — Promotion Agreement](https://drive.google.com/file/d/REDACTED/view)       | Three-year initial term, followed by automatic one-year renewals                                                          |
-| [iCoreConnect — Strategic Alliance Agreement](https://drive.google.com/file/d/REDACTED/view)             | Five-year initial term, automatically renewing for additional five-year periods                                           |
-| [Healthcare Integrated Technologies — Reseller Agreement](https://drive.google.com/file/d/REDACTED/view) | Automatic successive one-year renewals                                                                                    |
-| [FTE Networks — Strategic Alliance Agreement](https://drive.google.com/file/d/REDACTED/view)             | Continues month-to-month after initial expiration unless terminated                                                       |
-| [Corio — License and Hosting Agreement](https://drive.google.com/file/d/REDACTED/view)                   | Five-year initial period, then automatic one-year renewals                                                                |
-| [BNL Financial — Outsourcing Agreement](https://drive.google.com/file/d/REDACTED/view)                   | Continues year-to-year after the initial term unless terminated with notice                                               |
+## 2. Agreements that could still be active
 
-All 13 require current-status confirmation. An automatic-renewal provision in an agreement from 2000, for example, does not prove that every subsequent renewal actually took effect.
+These should not be marked expired solely because they were signed many years ago.
 
-## 3. Additional agreements requiring specific factual checks
+| Renewal or continuation mechanism                   | Contracts requiring verification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Automatic recurring renewal                         | Todos Medical reseller — five-year initial term from first purchase order, conditional renewal; PaperExchange co-branding — annual renewals; Middlebrook promotion — annual renewals                                                                                                                                                                                                                                            |
+| Automatic or indefinite continuation                | iCoreConnect strategic alliance — successive five-year terms; Healthcare Integrated Technologies reseller — annual renewals; NICE outsourcing — indefinite extension; Corio license and hosting — annual renewals                                                                                                              |
+| Continues until cancellation or termination         | Southern Star affiliate; Summa Four software license; Sparkling Spring Water software license — perpetual while fees are paid; Energy XXI transportation; FTE Networks strategic alliance — month-to-month after initial term |
+| Depends on ongoing business or project activity     | Aimmune / Xencor development license — product/country royalty terms; Eton / Aucta development — conditional effectiveness and termination; CURO servicing — continues while specified receivables remain; Bloom Energy maintenance — tied to equipment warranties                                                             |
+| Depends on project completion or purchase schedules | Iovance / MD Anderson research; Reynolds Consumer Products supply; ArTara / University research                                                                                                                                                                                                                                                                                                                                 |
+| Other dependencies                                  | Theravance employment service agreement — until employment termination; Federated limited power of attorney — until revocation or termination of related agreements                                                                                                                                                                                                                                                                                                                                                              |
 
-| Contract                                                                                                                  | What needs verification                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Upjohn — Manufacturing and Supply](https://drive.google.com/file/d/REDACTED/view)               | Four-year initial term plus up to three optional 12-month extensions. The extension elections and executed effective date are needed; the filed form contains placeholders |
-| [Todos Medical — Reseller Agreement](https://drive.google.com/file/d/REDACTED/view)              | Five years after first purchase order, with a further five-year renewal contingent on performance milestones                                                               |
-| [CURO Group — Servicing Agreement](https://drive.google.com/file/d/REDACTED/view)                | Whether the owner still holds receivables or participation interests and whether termination notice was delivered                                                          |
-| [Aimmune Therapeutics — Development Agreement](https://drive.google.com/file/d/REDACTED/view)    | Duration depends on product-specific and country-specific royalty terms                                                                                                    |
-| [Iovance Biotherapeutics — Strategic Alliance](https://drive.google.com/file/d/REDACTED/view)    | Whether the relevant research was completed or terminated and deliverables received                                                                                        |
-| [Bloom Energy — Maintenance Agreement](https://drive.google.com/file/d/REDACTED/view)            | Expiration depends on the warranty period of the last relevant Bloom system                                                                                                |
-| [Eton Pharmaceuticals — Development Agreement](https://drive.google.com/file/d/REDACTED/view)    | Effectiveness depends on specified manufacturing and FDA-related conditions                                                                                                |
-| [ArTara Therapeutics — Project/License Agreement](https://drive.google.com/file/d/REDACTED/view) | Whether the underlying project continued or was terminated                                                                                                                 |
+Two additional long-term contracts deserve attention:
 
-Two additional intellectual-property agreements deserve separate attention: [Cerence's IP Agreement](https://drive.google.com/file/d/REDACTED/view) contains perpetual license grants and restrictions on termination, while the [Fidelity National Information Services IP Agreement](https://drive.google.com/file/d/REDACTED/view) grants perpetual licenses. Those rights may remain effective even though the ongoing operational status of the broader arrangements cannot be confirmed.
+- STW Resources / City of Fort Stockton cooperation provides a 30-year term, potentially into approximately 2044. However, the stored PDF has blank signature/date fields, so execution needs verification.
+- China Recycling Energy cooperation provides 20 years from project operation, but the operational start and automatic-termination conditions are not established.
 
-## 4. Examples whose stated terms have expired
+## 3. Contracts whose stated terms have already ended
 
-These contracts have express historical expiration dates or limited periods that have elapsed, with no automatic continuation established in the reviewed text.
+The following are much clearer examples of contracts that should be treated as expired under their original terms, unless later extensions exist.
 
-| Contract                                                                                                    | Stated end date                                                       |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [WebMD — Content License](https://drive.google.com/file/d/REDACTED/view)           | August 31, 2006; one additional one-year renewal possible             |
-| [Wells Fargo — Yield Maintenance](https://drive.google.com/file/d/REDACTED/view)   | April 1, 2009                                                         |
-| [Freeze Tag — Sponsorship](https://drive.google.com/file/d/REDACTED/view)          | March 14, 2020                                                        |
-| [BellRing Brands — Manufacturing](https://drive.google.com/file/d/REDACTED/view)   | December 31, 2022                                                     |
-| [ARC Group — Sponsorship](https://drive.google.com/file/d/REDACTED/view)           | After the 2022–23 NFL season, subject to its defined expiration terms |
-| [Coral Gold Resources — Consulting](https://drive.google.com/file/d/REDACTED/view) | January 31, 2025; automatic termination specified                     |
+| Contract                                                                                                                                      | Original expiry                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Teardrop Golf endorsement                    | December 31, 1998                                                  |
+| WebMD content license                        | August 31, 2006; one additional year possible by agreement         |
+| NeoMedia distributor                         | December 31, 2006                                                  |
+| Wells Fargo yield maintenance                | April 1, 2009                                                      |
+| ScanSource / Cisco distributor amendment     | January 20, 2012                                                   |
+| Leju / Baidu cooperation                     | July 31, 2014                                                      |
+| Freeze Tag sponsorship                       | March 14, 2020                                                     |
+| QIWI cooperation                             | No later than June 2, 2020, absent mutual extension                |
+| BellRing Brands manufacturing                | December 31, 2022                                                  |
+| ARC Group / Jacksonville Jaguars sponsorship | February 2023 or conclusion of the 2022–23 season, whichever later |
+| Coral Gold consulting                        | January 31, 2025                                                   |
+| BorrowMoney joint venture                    | February 28, 2025, unless unanimously extended                     |
 
-These may still have surviving obligations, and a later extension could change their operational status.
+An important borderline case is the Emerald Health / Dr. Murray agreement: its general ten-year term, beginning September 1, 2016, reaches September 2026, but its services-renewal and continuing royalty provisions may leave some obligations operative. It should not simply be labeled fully expired.
 
-## Conclusion
+## 4. Contracts for which the supplied file is insufficient
 
-The review identifies 20 principal contracts with express future-duration, perpetual, indefinite, or automatic-continuation provisions, plus additional conditional agreements and perpetual IP rights worth checking.
+Several PDFs are only amendments, redacted agreements, or incomplete forms. Notable examples include the Pfizer / Upjohn manufacturing agreement, whose form contains a placeholder effective date and optional written extensions; the ADMA / Sanofi manufacturing amendment, which does not establish the complete underlying agreement's current term; and the Cardax collaboration agreement, whose term-and-renewal clause is redacted.
 
-That is a list of potentially continuing contracts, not 20 legally verified active agreements. The remaining files include agreements with elapsed terms, renewal mechanisms requiring separate written agreements, conditional durations, and documents insufficient to establish a current term.
+These, along with other historical and ancillary documents, cannot reliably be classified as active or expired without additional records.
 
-To establish a definitive active-contract register, the next evidence needed is any later executed amendments, non-renewal or termination notices, and records establishing whether contract-specific milestones or conditions were met. Those records were not established by this PDF collection.
+## Bottom line
 
-The highest-priority confirmations are the seven agreements in Section 1, especially GPAQ, STW Resources, China Recycling Energy, Agape ATP, Range Resources, Emerald Health, and Coherus.
+The highest-priority contracts to verify as currently active are RGC, GPAQ/Constellation, Range Resources/PennTex, Coherus/Bioeq, and Link Plus/Axiometric. The automatically renewing and perpetual agreements in section 2 are the next group to investigate.
 
-Document-based preliminary contract review; not a legal opinion or independent verification of the parties' current legal relationships.
+For a definitive legal status, the missing evidence is signed final copies where applicable, subsequent amendments, notices of termination or nonrenewal, and confirmation of relevant milestones, payments, asset ownership, or project activity.
+
+This review establishes which agreements could still be in force based on their written provisions, not a verified register of contracts currently performed by the parties.
 
 </details>
 
 **Scored:** named as a match 0: **0 of the 28 in the key**, 0 not in the key.
 
-<details><summary>In the key and named (0), named but not in the key (0), possible (24), missed (5)</summary>
+<details><summary>In the key and named (0), named but not in the key (0), possible (23), missed (6)</summary>
 
 **In the key and named**
 
@@ -455,16 +446,13 @@ Document-based preliminary contract review; not a legal opinion or independent v
 
 **Hedged as possible**
 
-- AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf
 - AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf
-- BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF
 - CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement.PDF
 - CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF
 - CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.PDF
 - ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.PDF
 - EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf
 - EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf
-- FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF
 - FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.PDF
 - GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf
 - HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf
@@ -474,19 +462,22 @@ Document-based preliminary contract review; not a legal opinion or independent v
 - NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.PDF
 - PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf
 - RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf
+- RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.pdf
 - SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF
 - STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.PDF
 - SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF
 - SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf
+- THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF
 - TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.pdf
 
 **In the key, not named**
 
+- AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf
+- BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.PDF
+- FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.PDF
 - KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT.PDF
 - MetLife, Inc. - Remarketing Agreement.PDF
 - PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF
-- RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.pdf
-- THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF
 
 </details>
 
