@@ -1,0 +1,164 @@
+{
+ "systems": {
+  "aerospark": {
+   "score": 89.8,
+   "key": 576,
+   "found": 490,
+   "wrong": 24,
+   "found_with_possibles": 508,
+   "wrong_with_possibles": 29,
+   "counts_right": 4,
+   "lookups_right": 11,
+   "median_seconds": 10.2,
+   "slowest_seconds": 35.0,
+   "total_seconds": 557.1,
+   "time_bands": [
+    46,
+    0,
+    0,
+    0
+   ],
+   "by_kind": {
+    "Find every contract with a clause": 82.5,
+    "Two or three conditions at once": 88.5,
+    "Dates against a stated day": 94.6,
+    "The most recent, the shortest notice": 100.0,
+    "By party, by type, notice period, either of two clauses": 88.4,
+    "Counts": 80.0,
+    "One fact about one named contract": 100.0,
+    "A contract that is not in the folder": 100.0
+   }
+  },
+  "claude": {
+   "score": 85.6,
+   "key": 576,
+   "found": 463,
+   "wrong": 12,
+   "found_with_possibles": 495,
+   "wrong_with_possibles": 61,
+   "counts_right": 4,
+   "lookups_right": 11,
+   "median_seconds": 337.0,
+   "slowest_seconds": 673.0,
+   "total_seconds": 14432.0,
+   "time_bands": [
+    11,
+    9,
+    23,
+    3
+   ],
+   "by_kind": {
+    "Find every contract with a clause": 81.9,
+    "Two or three conditions at once": 72.7,
+    "Dates against a stated day": 82.8,
+    "The most recent, the shortest notice": 83.3,
+    "By party, by type, notice period, either of two clauses": 83.9,
+    "Counts": 80.0,
+    "One fact about one named contract": 100.0,
+    "A contract that is not in the folder": 100.0
+   }
+  },
+  "tabular": {
+   "score": 83.9,
+   "key": 576,
+   "found": 452,
+   "wrong": 23,
+   "found_with_possibles": 482,
+   "wrong_with_possibles": 23,
+   "counts_right": 4,
+   "lookups_right": 11,
+   "median_seconds": 42.0,
+   "slowest_seconds": 312.0,
+   "total_seconds": 4692.0,
+   "time_bands": [
+    24,
+    21,
+    1,
+    0
+   ],
+   "by_kind": {
+    "Find every contract with a clause": 82.8,
+    "Two or three conditions at once": 78.4,
+    "Dates against a stated day": 68.0,
+    "The most recent, the shortest notice": 83.3,
+    "By party, by type, notice period, either of two clauses": 77.6,
+    "Counts": 80.0,
+    "One fact about one named contract": 100.0,
+    "A contract that is not in the folder": 100.0
+   }
+  },
+  "chatgpt": {
+   "score": 82.2,
+   "key": 576,
+   "found": 427,
+   "wrong": 5,
+   "found_with_possibles": 462,
+   "wrong_with_possibles": 27,
+   "counts_right": 4,
+   "lookups_right": 11,
+   "median_seconds": 356.1,
+   "slowest_seconds": 1164.0,
+   "total_seconds": 17666.0,
+   "time_bands": [
+    8,
+    9,
+    22,
+    7
+   ],
+   "by_kind": {
+    "Find every contract with a clause": 77.6,
+    "Two or three conditions at once": 77.5,
+    "Dates against a stated day": 64.3,
+    "The most recent, the shortest notice": 83.3,
+    "By party, by type, notice period, either of two clauses": 83.7,
+    "Counts": 80.0,
+    "One fact about one named contract": 100.0,
+    "A contract that is not in the folder": 100.0
+   }
+  }
+ },
+ "redraws": {
+  "aerospark_minus_claude": {
+   "range_95": [
+    1.5,
+    7.1
+   ],
+   "ahead_pct": 99.9
+  },
+  "aerospark_minus_chatgpt": {
+   "range_95": [
+    3.4,
+    12.9
+   ],
+   "ahead_pct": 100.0
+  },
+  "claude_minus_tabular": {
+   "range_95": [
+    -1.5,
+    6.3
+   ],
+   "ahead_pct": 80.1
+  },
+  "aerospark_minus_tabular": {
+   "range_95": [
+    1.4,
+    11.7
+   ],
+   "ahead_pct": 99.7
+  },
+  "tabular_minus_chatgpt": {
+   "range_95": [
+    -1.0,
+    4.5
+   ],
+   "ahead_pct": 87.5
+  },
+  "claude_minus_chatgpt": {
+   "range_95": [
+    -0.1,
+    8.0
+   ],
+   "ahead_pct": 97.1
+  }
+ }
+}
