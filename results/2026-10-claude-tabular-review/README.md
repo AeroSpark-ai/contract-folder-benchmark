@@ -3,7 +3,7 @@
 The same 46 questions about the same 99 contracts as [the main run](../2026-10-aerospark-chatgpt-claude/README.md), put to **Tabular review**, a ready-made artifact from the legal gallery
 [Anthropic released on 28 October 2026](https://claude.com/resources/articles/introducing-artifacts-for-legal-work). It builds a table of contracts against questions, and answers from that table in an Ask panel.
 
-**We build [AeroSpark](https://aerospark.ai), a contract repository.** So everything needed to check this run is here.
+**We build [AeroSpark](https://www.aerospark.ai/l/gh-tabular), a contract repository.** So everything needed to check this run is here.
 
 ## The result
 

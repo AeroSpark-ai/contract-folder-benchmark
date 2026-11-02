@@ -1,6 +1,6 @@
 # All four systems side by side
 
-The same 46 questions about the same folder of 99 contracts, against the same answer key. **We build [AeroSpark](https://aerospark.ai), a contract repository**, so every figure here is re-made from the recorded answers by `results/compare.py`.
+The same 46 questions about the same folder of 99 contracts, against the same answer key. **We build [AeroSpark](https://www.aerospark.ai/l/gh-comparison), a contract repository**, so every figure here is re-made from the recorded answers by `results/compare.py`.
 
 | | AeroSpark | Plain Claude | Tabular review | ChatGPT |
 |---|---|---|---|---|
