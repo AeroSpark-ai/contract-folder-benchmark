@@ -16,7 +16,7 @@ contract repository, or an agent of your own.
 | Median wait per question | 10 s | 5.6 min | 42 s | 5.9 min |
 | All 46 questions | 9 minutes | 4.0 hours | About 85 minutes | 4.9 hours |
 
-**We build [AeroSpark](https://aerospark.ai)**, and wrote this benchmark, so everything needed to check these figures is here. By kind of question, with the redraws and how the runs differ:
+**We build [AeroSpark](https://www.aerospark.ai/l/gh-readme)**, and wrote this benchmark, so everything needed to check these figures is here. By kind of question, with the redraws and how the runs differ:
 [results/COMPARISON.md](results/COMPARISON.md).
 
 ## What the benchmark is

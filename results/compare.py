@@ -81,7 +81,7 @@ def page(data, qs, kinds):
     s = [data['systems'][k] for k, _ in SYSTEMS]
     cols = ' | '.join(n for _, n in SYSTEMS)
     h = ['# All four systems side by side', '',
-         'The same 46 questions about the same folder of 99 contracts, against the same answer key. **We build [AeroSpark](https://aerospark.ai), a contract repository**, so every figure here is re-made from the recorded answers by `results/compare.py`.', '',
+         'The same 46 questions about the same folder of 99 contracts, against the same answer key. **We build [AeroSpark](https://www.aerospark.ai/l/gh-comparison), a contract repository**, so every figure here is re-made from the recorded answers by `results/compare.py`.', '',
          f'| | {cols} |', '|---|---|---|---|---|',
          row('**Score out of 100**', [f"**{x['score']:.1f}**" for x in s]),
          row(f"Contracts found, the 30 list questions ({s[0]['key']} in the key)", [f"{x['found']} ({100 * x['found'] / x['key']:.0f}%)" for x in s]),
