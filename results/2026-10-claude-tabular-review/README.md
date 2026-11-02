@@ -3,29 +3,30 @@
 The same 46 questions about the same 99 contracts as [the main run](../2026-10-aerospark-chatgpt-claude/README.md), put to **Tabular review**, a ready-made artifact from the legal gallery
 [Anthropic released on 28 October 2026](https://claude.com/resources/articles/introducing-artifacts-for-legal-work). It builds a table of contracts against questions, and answers from that table in an Ask panel.
 
-**We build AeroSpark, a contract repository.** So everything needed to check this run is here.
+**We build [AeroSpark](https://aerospark.ai), a contract repository.** So everything needed to check this run is here.
 
 ## The result
 
-Every question counts the same, out of 100, as in the main run. Plain Claude's figures are its run there: Claude Max, Opus 5.5 at High, Google Drive connector, a fresh chat per question.
+Every question counts the same, out of 100, as in the main run. The other three columns are from [the main run](../2026-10-aerospark-chatgpt-claude/README.md): AeroSpark through its Ask box; plain Claude on Claude Max, Opus 5.5 at High, with the Google Drive connector; ChatGPT Business, GPT-6 at High, with Google Drive. Each had a fresh chat per question.
 
-| | Plain Claude | Tabular review |
-|---|---|---|
-| **Score out of 100** | **85.6** | **83.9** |
-| Contracts found, the 30 list questions (576 in the key) | 463 (80%) | 452 (78%) |
-| Contracts named that are not in the key | 12 | 23 |
-| Found, with the contracts each hedged as "possible" credited too | 495 (61 not in the key) | 482 (23 not in the key) |
-| Counts right (of 5) | 4 | 4 |
-| Lookups right (of 11) | 11 | 11, six of them on a re-ask |
-| Questions answered in under a minute | 11 | 24 |
-| Median time per question | 5.6 min | 42 s |
-| All 46, added up | 4.0 hours | About 85 minutes, plus about 30 minutes while the page was blocked |
+| | AeroSpark | Plain Claude | Tabular review | ChatGPT |
+|---|---|---|---|---|
+| **Score out of 100** | **89.8** | **85.6** | **83.9** | **82.2** |
+| Contracts found, the 30 list questions (576 in the key) | 490 (85%) | 463 (80%) | 452 (78%) | 427 (74%) |
+| Contracts named that are not in the key | 24 | 12 | 23 | 5 |
+| Found, with the contracts each hedged as "possible" credited too | 508 (29 not in the key) | 495 (61 not in the key) | 482 (23 not in the key) | 462 (27 not in the key) |
+| Counts right (of 5) | 4 | 4 | 4 | 4 |
+| Lookups right (of 11) | 11 | 11 | 11, six of them on a re-ask | 11 |
+| Questions answered in under a minute | 46 | 11 | 24 | 8 |
+| Median time per question | 10 s | 5.6 min | 42 s | 5.9 min |
+| All 46, added up | 9 minutes | 4.0 hours | About 85 minutes, plus about 30 minutes while the page was blocked | 4.9 hours |
+
+The times are how long a person waits, from asking to the finished answer. AeroSpark reads each contract when it is added, before any question is asked. Tabular review reads every contract when a question needs a new column, and that wait counts against the question.
 
 Tabular review's first answers scored 69.7. Any question where a system found 25% or less of the key was asked again in the same words: questions 14 to 19, 26 and 28. The re-asks took it to 83.9, and their
 time is in its total.
 
-With the 46 questions redrawn at random 10,000 times, plain Claude minus Tabular review is -1.5 to +6.3 in 95% of redraws, and plain Claude is ahead in 80.1% of them. Question by question:
-[scores/headline.md](scores/headline.md).
+With the 46 questions redrawn at random 10,000 times, plain Claude minus Tabular review is -1.5 to +6.3 in 95% of redraws, and plain Claude is ahead in 80.1% of them. AeroSpark minus Tabular review is +1.4 to +11.7, with AeroSpark ahead in 99.7%. All four side by side: [COMPARISON.md](../COMPARISON.md). Question by question, with all four: [scores/headline.md](scores/headline.md).
 
 ## How it was run
 
