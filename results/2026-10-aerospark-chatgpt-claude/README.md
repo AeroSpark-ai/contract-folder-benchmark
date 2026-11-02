@@ -6,6 +6,8 @@ in October 2026.
 
 **We build AeroSpark.** So everything needed to check this run is here: every system's answers word for word, how each answer was read, and the code that scores them.
 
+A second run put the same questions to Claude's Tabular review: [all four side by side](../COMPARISON.md).
+
 ## The result
 
 Every question counts the same, out of 100: a question that asks which contracts have something earns the share of the key's contracts the answer names as a match;
