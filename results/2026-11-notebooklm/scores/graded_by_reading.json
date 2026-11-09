@@ -1,0 +1,52 @@
+{
+ "note": "Graded by reading each answer against the key, the same rule as the main run: the expected fact stated, a date in any form. Read by Claude.",
+ "questions": {
+  "look-law-1": {
+   "key": "New York",
+   "right": true
+  },
+  "look-law-2": {
+   "key": "England and Wales",
+   "right": true
+  },
+  "look-signed-1": {
+   "key": "1 January 2004",
+   "right": true
+  },
+  "look-ends-1": {
+   "key": "20 January 2025",
+   "right": true
+  },
+  "look-ends-2": {
+   "key": "21 January 2005",
+   "right": true
+  },
+  "look-party-1": {
+   "key": "Diamond State Generation Partners, LLC",
+   "right": true
+  },
+  "look-party-2": {
+   "key": "mPhase Technologies Inc",
+   "right": true
+  },
+  "look-renewal-1": {
+   "key": "successive 1-year renewals",
+   "right": true,
+   "note": "maintenance runs for a renewable one-year term; it adds that the licence itself is perpetual"
+  },
+  "look-notice-1": {
+   "key": "30 days",
+   "right": true
+  },
+  "absent-1": {
+   "key": "not in the folder",
+   "right": true,
+   "note": "said the sources do not contain that agreement, and named three other IP agreements that are there"
+  },
+  "absent-2": {
+   "key": "not in the folder",
+   "right": true,
+   "note": "said there is no Clear Capital / Radial Spark agreement in the sources; no law given"
+  }
+ }
+}

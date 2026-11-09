@@ -1,0 +1,206 @@
+[
+ {
+  "pass": 1,
+  "id": "count-rofr",
+  "claims": {
+   "count": 9,
+   "names": {
+    "yes": [
+     {
+      "name": "Agape ATP Corp. — Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Embark.Com, Inc. — Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "King Pharmaceuticals, Inc. — Promotion Agreement",
+      "n": 47
+     },
+     {
+      "name": "Leju Holdings Ltd. — Internet Channel Cooperation Agreement",
+      "n": 51
+     },
+     {
+      "name": "Link Plus Corp. — Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory, Inc. — Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Stamps.Com Inc. — Sponsorship Agreement",
+      "n": 88
+     },
+     {
+      "name": "Teardrop Golf Co. — Endorsement Agreement",
+      "n": 91
+     },
+     {
+      "name": "Todos Medical Ltd. — Marketing Agreement/Reseller Agreement",
+      "n": 95
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    24,
+    47,
+    51,
+    53,
+    80,
+    88,
+    91,
+    95
+   ],
+   "possible": [],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": 9,
+    "names": {
+     "yes": [
+      {
+       "name": "Agape ATP Corp. — Supply Agreement",
+       "n": 2
+      },
+      {
+       "name": "Embark.Com, Inc. — Co-Branding Agreement",
+       "n": 24
+      },
+      {
+       "name": "King Pharmaceuticals, Inc. — Promotion Agreement",
+       "n": 47
+      },
+      {
+       "name": "Leju Holdings Ltd. — Internet Channel Cooperation Agreement",
+       "n": 51
+      },
+      {
+       "name": "Link Plus Corp. — Affiliate Agreement",
+       "n": 53
+      },
+      {
+       "name": "Rocky Mountain Chocolate Factory, Inc. — Strategic Alliance Agreement",
+       "n": 80
+      },
+      {
+       "name": "Stamps.Com Inc. — Sponsorship Agreement",
+       "n": 88
+      },
+      {
+       "name": "Teardrop Golf Co. — Endorsement Agreement",
+       "n": 91
+      },
+      {
+       "name": "Todos Medical Ltd. — Marketing Agreement/Reseller Agreement",
+       "n": 95
+      }
+     ],
+     "possible": [],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     2,
+     24,
+     47,
+     51,
+     53,
+     80,
+     88,
+     91,
+     95
+    ],
+    "possible": [],
+    "no": []
+   }
+  ]
+ },
+ {
+  "pass": 1,
+  "id": "threshold-notice60",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Todos Medical Ltd. — Marketing Agreement / Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "STW Resources Holding Corp. — Cooperation Agreement",
+      "n": 89
+     },
+     {
+      "name": "Middlebrook Pharmaceuticals, Inc. — Promotion Agreement",
+      "n": 56
+     }
+    ],
+    "possible": [
+     {
+      "name": "iCoreConnect Inc. — Strategic Alliance Agreement",
+      "n": 42
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    95,
+    89,
+    56
+   ],
+   "possible": [
+    42
+   ],
+   "no": []
+  },
+  "agree": true,
+  "others": [
+   {
+    "count": null,
+    "names": {
+     "yes": [
+      {
+       "name": "Todos Medical Ltd. — Marketing Agreement / Reseller Agreement",
+       "n": 95
+      },
+      {
+       "name": "STW Resources Holding Corp. — Cooperation Agreement",
+       "n": 89
+      },
+      {
+       "name": "Middlebrook Pharmaceuticals, Inc. — Promotion Agreement",
+       "n": 56
+      }
+     ],
+     "possible": [
+      {
+       "name": "iCoreConnect Inc. — Strategic Alliance Agreement",
+       "n": 42
+      }
+     ],
+     "no": []
+    },
+    "unplaced": [],
+    "yes": [
+     95,
+     89,
+     56
+    ],
+    "possible": [
+     42
+    ],
+    "no": []
+   }
+  ]
+ }
+]

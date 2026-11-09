@@ -26,7 +26,7 @@ The times are how long a person waits, from asking to the finished answer. AeroS
 Tabular review's first answers scored 69.7. Any question where a system found 25% or less of the key was asked again in the same words: questions 14 to 19, 26 and 28. The re-asks took it to 83.9, and their
 time is in its total.
 
-With the 46 questions redrawn at random 10,000 times, plain Claude minus Tabular review is -1.5 to +6.3 in 95% of redraws, and plain Claude is ahead in 80.1% of them. AeroSpark minus Tabular review is +1.4 to +11.7, with AeroSpark ahead in 99.7%. All four side by side: [COMPARISON.md](../COMPARISON.md). Question by question, with all four: [scores/headline.md](scores/headline.md).
+With the 46 questions redrawn at random 10,000 times, plain Claude minus Tabular review is -1.5 to +6.3 in 95% of redraws, and plain Claude is ahead in 80.1% of them. AeroSpark minus Tabular review is +1.4 to +11.7, with AeroSpark ahead in 99.7%. All five side by side, with NotebookLM: [COMPARISON.md](../COMPARISON.md). Question by question, with all four: [scores/headline.md](scores/headline.md).
 
 ## How it was run
 

@@ -8,13 +8,13 @@ contract repository, or an agent of your own.
 
 ## The results so far
 
-| | AeroSpark | Plain Claude | Claude's Tabular review | ChatGPT |
-|---|---|---|---|---|
-| **Score out of 100** | **89.8** | **85.6** | **83.9** | **82.2** |
-| Contracts found, of the 576 in the key | 490 | 463 | 452 | 427 |
-| Contracts named that are not in the key | 24 | 12 | 23 | 5 |
-| Median wait per question | 10 s | 5.6 min | 42 s | 5.9 min |
-| All 46 questions | 9 minutes | 4.0 hours | About 85 minutes | 4.9 hours |
+| | AeroSpark | Plain Claude | Claude's Tabular review | NotebookLM | ChatGPT |
+|---|---|---|---|---|---|
+| **Score out of 100** | **89.8** | **85.6** | **83.9** | **83.5** | **82.2** |
+| Contracts found, of the 576 in the key | 490 | 463 | 452 | 438 | 427 |
+| Contracts named that are not in the key | 24 | 12 | 23 | 17 | 5 |
+| Median wait per question | 10 s | 5.6 min | 42 s | 53 s | 5.9 min |
+| All 46 questions | 9 minutes | 4.0 hours | About 85 minutes | 48 minutes | 4.9 hours |
 
 **We build [AeroSpark](https://www.aerospark.ai/l/gh-readme)**, and wrote this benchmark, so everything needed to check these figures is here. By kind of question, with the redraws and how the runs differ:
 [results/COMPARISON.md](results/COMPARISON.md).
@@ -63,7 +63,8 @@ Each run is kept in [results/](results/README.md) with every answer as recorded,
 [October 2026: AeroSpark, Claude and ChatGPT Business](results/2026-10-aerospark-chatgpt-claude/README.md): out of 100, **AeroSpark 89.8, Claude 85.6, ChatGPT 82.2**.
 AeroSpark answered all 46 questions in under a minute each (median 10 seconds); Claude and ChatGPT took about six minutes a question. A second run,
 [Claude's Tabular review](results/2026-10-claude-tabular-review/README.md), put the same questions to the table-building tool Anthropic released on 28 October 2026: 83.9.
-All four side by side: [results/COMPARISON.md](results/COMPARISON.md).
+A third, [NotebookLM](results/2026-11-notebooklm/README.md), put them to Google's notebook tool (now called Gemini Notebook) with the 99 contracts as its sources: 83.5.
+All five side by side: [results/COMPARISON.md](results/COMPARISON.md).
 
 **We build AeroSpark**, a contract repository, and wrote this benchmark. That is why everything is public: the contracts, the questions, the key and how it was made,
 the scoring code and every recorded answer. If you run it, we would like to see your results; if you disagree with a label, a reading or a rule,
