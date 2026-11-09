@@ -29,6 +29,8 @@ the key, against 2 the first time. On 11, a count, it said 9 the first time and 
 With the 46 questions redrawn at random 10,000 times, plain Claude minus NotebookLM is -1.2 to +5.9 in 95% of redraws, with plain Claude ahead in 87.6% of them; NotebookLM minus ChatGPT is -1.9 to +5.5,
 with NotebookLM ahead in 73.8%. All five side by side: [COMPARISON.md](../COMPARISON.md). Question by question, with all five: [scores/headline.md](scores/headline.md).
 
+What we learned about asking Gemini about a folder of contracts, including the two ways that worked less well: [GEMINI-GUIDE.md](GEMINI-GUIDE.md).
+
 ## How it was run
 
 - **The tool.** NotebookLM at notebook.google.com, which called itself Gemini Notebook, on a Google Workspace work account. The page showed a PRO badge and a limit of 300 sources. It does not show which model
