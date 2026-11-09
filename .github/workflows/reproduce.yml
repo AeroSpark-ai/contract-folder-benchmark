@@ -13,4 +13,5 @@ jobs:
           python-version: "3.12"
       - run: python3 results/2026-10-aerospark-chatgpt-claude/scoring/reproduce.py --check
       - run: python3 results/2026-10-claude-tabular-review/scoring/reproduce.py --check
+      - run: python3 results/2026-11-notebooklm/scoring/reproduce.py --check
       - run: python3 results/compare.py --check

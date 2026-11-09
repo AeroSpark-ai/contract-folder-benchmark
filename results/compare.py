@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Put the four systems side by side, re-scored from each run's recorded answers. No accounts, no API calls, standard library only.
+"""Put the five systems side by side, re-scored from each run's recorded answers. No accounts, no API calls, standard library only.
 
     python3 results/compare.py            # print the page
     python3 results/compare.py --write    # also rewrite results/COMPARISON.md and results/comparison.json
@@ -18,8 +18,11 @@ import sys
 RESULTS = os.path.dirname(os.path.abspath(__file__))
 MAIN_RUN = '2026-10-aerospark-chatgpt-claude'
 TABULAR_RUN = '2026-10-claude-tabular-review'
+NOTEBOOKLM_RUN = '2026-11-notebooklm'
 SEED, REDRAWS = 20261028, 10000
-SYSTEMS = [('aerospark', 'AeroSpark'), ('claude', 'Plain Claude'), ('tabular', 'Tabular review'), ('chatgpt', 'ChatGPT')]
+SYSTEMS = [('aerospark', 'AeroSpark'), ('claude', 'Plain Claude'), ('tabular', 'Tabular review'), ('notebooklm', 'NotebookLM'), ('chatgpt', 'ChatGPT')]
+# Every pair, in the order of SYSTEMS.
+PAIRS = [(a, b) for i, (a, _) in enumerate(SYSTEMS) for b, _ in SYSTEMS[i + 1:]]
 NAME = dict(SYSTEMS)
 # Tabular review's per-question times are rounded and leave out moving between questions, so its total comes from the clock (its README says how).
 TABULAR_TOTAL = 'About 85 minutes, plus about 30 blocked'
@@ -43,12 +46,14 @@ def total(sec):
 
 
 def compute():
-    main_run, tabular = load(MAIN_RUN, 'main_run'), load(TABULAR_RUN, 'tabular_run')
+    main_run, tabular, notebooklm = load(MAIN_RUN, 'main_run'), load(TABULAR_RUN, 'tabular_run'), load(NOTEBOOKLM_RUN, 'notebooklm_run')
     qs, _, _, res = main_run.compute()
     main_out, main_redraws = main_run.summary(qs, res)
     _, tab_per = tabular.compute()
     tab_summary, _ = tabular.summary(qs, tab_per)
-    per = {'aerospark': res['aerospark'], 'claude': res['claude'], 'tabular': tab_per, 'chatgpt': res['chatgpt']}
+    _, nb_per = notebooklm.compute()
+    nb_summary, _, _ = notebooklm.summary(qs, nb_per)
+    per = {'aerospark': res['aerospark'], 'claude': res['claude'], 'tabular': tab_per, 'notebooklm': nb_per, 'chatgpt': res['chatgpt']}
     L = [q for q in qs if q['scored_as'] == 'files']
     systems = {}
     for s, _ in SYSTEMS:
@@ -64,8 +69,12 @@ def compute():
     # The pairs each run already publishes keep their figures; the others are drawn the same way.
     redraws = {pair: {'range_95': main_redraws[pair]['range_95'], 'ahead_pct': main_redraws[pair]['aerospark_ahead_pct']} for pair in ('aerospark_minus_claude', 'aerospark_minus_chatgpt')}
     redraws['claude_minus_tabular'] = {'range_95': tab_summary['plain_minus_tabular']['range_95'], 'ahead_pct': tab_summary['plain_minus_tabular']['plain_ahead_pct']}
+    for pair, src in (('claude_minus_notebooklm', 'plain_claude_minus_notebooklm'), ('notebooklm_minus_chatgpt', 'notebooklm_minus_chatgpt')):
+        redraws[pair] = {'range_95': nb_summary[src]['range_95'], 'ahead_pct': nb_summary[src]['first_ahead_pct']}
     n = len(qs)
-    for a, b in (('aerospark', 'tabular'), ('tabular', 'chatgpt'), ('claude', 'chatgpt')):
+    for a, b in PAIRS:
+        if f'{a}_minus_{b}' in redraws:
+            continue
         rnd = random.Random(SEED)
         diff = [per[a][q['id']]['score'] - per[b][q['id']]['score'] for q in qs]
         v = sorted(100 * sum(diff[rnd.randrange(n)] for _ in range(n)) / n for _ in range(REDRAWS))
@@ -80,9 +89,10 @@ def row(label, cells):
 def page(data, qs, kinds):
     s = [data['systems'][k] for k, _ in SYSTEMS]
     cols = ' | '.join(n for _, n in SYSTEMS)
-    h = ['# All four systems side by side', '',
+    sep = '|---' * (len(SYSTEMS) + 1) + '|'
+    h = ['# All five systems side by side', '',
          'The same 46 questions about the same folder of 99 contracts, against the same answer key. **We build [AeroSpark](https://www.aerospark.ai/l/gh-comparison), a contract repository**, so every figure here is re-made from the recorded answers by `results/compare.py`.', '',
-         f'| | {cols} |', '|---|---|---|---|---|',
+         f'| | {cols} |', sep,
          row('**Score out of 100**', [f"**{x['score']:.1f}**" for x in s]),
          row(f"Contracts found, the 30 list questions ({s[0]['key']} in the key)", [f"{x['found']} ({100 * x['found'] / x['key']:.0f}%)" for x in s]),
          row('Contracts named that are not in the key', [x['wrong'] for x in s]),
@@ -92,9 +102,10 @@ def page(data, qs, kinds):
          row('Median wait per question', [fmt(x['median_seconds']) for x in s]),
          row('Slowest question', [fmt(x['slowest_seconds']) for x in s]),
          row('All 46 questions', [TABULAR_TOTAL if k == 'tabular' else total(data['systems'][k]['total_seconds']) for k, _ in SYSTEMS]), '',
-         '**The times are how long a person waits**, from asking to the finished answer. AeroSpark reads each contract when it is added, before any question is asked. Tabular review reads every contract when a question needs a new column, and that wait counts against the question. Plain Claude and ChatGPT read the folder for each question. '
+         '**The times are how long a person waits**, from asking to the finished answer. AeroSpark reads each contract when it is added, before any question is asked. Tabular review reads every contract when a question needs a new column, and that wait counts against the question. '
+         'NotebookLM had the 99 contracts added to one notebook once, before any question; adding them is not in its times. Plain Claude and ChatGPT read the folder for each question. '
          "Tabular review's times are rounded, from its stored run times and the clock.", '',
-         '## By kind of question', '', 'The score out of 100 on the questions of each kind.', '', f'| Kind | Questions | {cols} |', '|---|---|---|---|---|---|']
+         '## By kind of question', '', 'The score out of 100 on the questions of each kind.', '', f'| Kind | Questions | {cols} |', sep + '---|']
     for k in kinds:
         h.append(row(k, [sum(q['kind'] == k for q in qs)] + [f"{x['by_kind'][k]:.1f}" for x in s]))
     h += ['', '## Time per question', '', '| | Under 1 min | 1 to 5 min | Over 5, up to 10 min | Over 10 min |', '|---|---|---|---|---|']
@@ -102,17 +113,18 @@ def page(data, qs, kinds):
         h.append(row(n, data['systems'][k]['time_bands']))
     h += ['', '## Redrawing the questions', '', f'The 46 questions redrawn at random {REDRAWS:,} times (each redraw the same size, some questions twice, some not at all), and the score worked out again each time.', '',
           '| | Difference in score, 95% of redraws | First named ahead in |', '|---|---|---|']
-    for a, b in (('aerospark', 'claude'), ('aerospark', 'tabular'), ('aerospark', 'chatgpt'), ('claude', 'tabular'), ('claude', 'chatgpt'), ('tabular', 'chatgpt')):
+    for a, b in PAIRS:
         r = data['redraws'][f'{a}_minus_{b}']
         h.append(row(f'{NAME[a]} minus {NAME[b]}', [f"{r['range_95'][0]:+.1f} to {r['range_95'][1]:+.1f}", f"{r['ahead_pct']:.1f}% of redraws"]))
     h += ['', '## How the runs differ', '',
           '- **AeroSpark, plain Claude and ChatGPT** got one fresh chat per question and no follow-ups: [the main run](2026-10-aerospark-chatgpt-claude/README.md), with [its limits](2026-10-aerospark-chatgpt-claude/CAVEATS.md).',
           '- **Tabular review** ran in one review, in order, with the follow-ups it needed on four questions and each proposed column accepted as it stood. Its model could not be confirmed: [the Tabular run](2026-10-claude-tabular-review/README.md).',
-          '- **Asked again.** Any question where a system found 25% or less of the key was asked again in the same words, for every system, and the time was added. That took in eight questions for Tabular review and one for ChatGPT.', '',
+          "- **NotebookLM** (now Gemini Notebook) had one notebook holding only the 99 contracts, with its chat's Google Drive search switched off, the chat cleared before each question and no follow-ups. Its model is not shown: [the NotebookLM run](2026-11-notebooklm/README.md).",
+          '- **Asked again.** Any question where a system found 25% or less of the key was asked again in the same words, for every system, and the time was added. That took in eight questions for Tabular review, two for NotebookLM and one for ChatGPT.', '',
           '## Question by question', '',
-          'Every question with all four results and times: [the Tabular run\'s table](2026-10-claude-tabular-review/scores/headline.md). '
+          'Every question with all five results and times: [the NotebookLM run\'s table](2026-11-notebooklm/scores/headline.md). '
           'Each answer for AeroSpark, plain Claude and ChatGPT, word for word: [the question pages](2026-10-aerospark-chatgpt-claude/answers/by_question/README.md). '
-          "What Tabular review's Ask panel showed: [its screenshots](2026-10-claude-tabular-review/answers/screens/README.md)."]
+          "What Tabular review's Ask panel showed: [its screenshots](2026-10-claude-tabular-review/answers/screens/README.md). NotebookLM's answers: [its answers file](2026-11-notebooklm/answers/answers.txt)."]
     return '\n'.join(h)
 
 
