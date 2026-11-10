@@ -29,8 +29,6 @@ the key, against 2 the first time. On 11, a count, it said 9 the first time and 
 With the 46 questions redrawn at random 10,000 times, plain Claude minus NotebookLM is -1.2 to +5.9 in 95% of redraws, with plain Claude ahead in 87.6% of them; NotebookLM minus ChatGPT is -1.9 to +5.5,
 with NotebookLM ahead in 73.8%. All five side by side: [COMPARISON.md](../COMPARISON.md). Question by question, with all five: [scores/headline.md](scores/headline.md).
 
-What we learned about asking Gemini about a folder of contracts, including the two ways that worked less well: [GEMINI-GUIDE.md](GEMINI-GUIDE.md).
-
 ## How it was run
 
 - **The tool.** NotebookLM at notebook.google.com, which called itself Gemini Notebook, on a Google Workspace work account. The page showed a PRO badge and a limit of 300 sources. It does not show which model
@@ -40,7 +38,7 @@ What we learned about asking Gemini about a folder of contracts, including the t
     error. On the plan the account had then, its strongest model allowed about two questions every few hours. It was stopped after 15 questions.
   - **Gemini in Drive**, asked from the shared drive itself, stayed with the contracts but read only a few files for each answer. On all 46 questions, re-asks included and scored the same way, it scored
     41.0 and found 99 of the 576 contracts in the key.
-  - **NotebookLM** answers from the documents added to it as sources, so it was given all 99. Its answers are the ones recorded here. What the three ways taught us: [GEMINI-GUIDE.md](GEMINI-GUIDE.md).
+  - **NotebookLM** answers from the documents added to it as sources, so it was given all 99. Its answers are the ones recorded here.
 - **The contracts.** One notebook, holding the benchmark's 99 PDFs and nothing else, added from the Google shared drive with the Drive picker. The picker takes 50 files at a time, so they went in as 50 and 49. Before
   every question the source list was checked: 99 sources, each title one of the 99.
 - **One setting changed.** The chat's menu (the icon left of the chat box) has a Google Drive switch, on by default, that lets the chat search the account's whole Drive as well as the notebook's
