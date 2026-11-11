@@ -67,7 +67,8 @@ With the 46 questions redrawn at random 10,000 times, ChatGPT minus Copilot Rese
 The scorer is the repository's own, on the same key. `python3 results/2026-11-copilot-researcher/scoring/reproduce.py` re-makes every figure.
 
 - **What counts is what the answer names.** As for every other system, a model reader (Claude Haiku, [scoring/reference/extract_claims.js](../../scoring/reference/extract_claims.js)) copied the names each
-  answer gives and whether it affirms or hedges each. Code placed each name on the contract list.
+  answer gives and whether it affirms or hedges each, twice for every answer; the two readings agreed on all 52 answers (the 46 first answers and the six second asks). Code placed
+  each name on the contract list.
 - **Names code could not place** were settled from the full file name the answer gives (four names, two Reynolds agreements), or found to be contracts that are not in the folder (above):
   [claims/names_settled_by_claude.md](claims/names_settled_by_claude.md).
 - **The lookups and the two questions about a contract not in the folder** are graded by reading: [scores/graded_by_reading.json](scores/graded_by_reading.json).
