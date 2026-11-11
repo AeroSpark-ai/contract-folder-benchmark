@@ -1,0 +1,369 @@
+[
+ {
+  "pass": 1,
+  "id": "count-texas",
+  "claims": {
+   "count": 10,
+   "names": {
+    "yes": [
+     {
+      "name": "AEROVIRONMENTINC — PROJECT AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "AxionPowerInternationalInc — Agreement of Lease",
+      "n": null
+     },
+     {
+      "name": "DOCUMENTSECURITYSYSTEMSINC — AGREEMENT AND PLAN OF MERGER",
+      "n": null
+     },
+     {
+      "name": "RangeResourcesLouisianaInc — Transportation Agreement",
+      "n": 75
+     },
+     {
+      "name": "ENERGYXXILTD — Transportation AGREEMENT",
+      "n": 26
+     },
+     {
+      "name": "IOVANCEBIOTHERAPEUTICS,INC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 45
+     },
+     {
+      "name": "FTENETWORKS,INC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 33
+     },
+     {
+      "name": "PrecheckHealthServicesInc — Distributor Agreement",
+      "n": 70
+     },
+     {
+      "name": "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC — DISTRIBUTOR AGREEMENT",
+      "n": 66
+     },
+     {
+      "name": "STWRESOURCESHOLDINGCORP — COOPERATION AGREEMENT",
+      "n": 89
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "AEROVIRONMENTINC — PROJECT AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "AEROVIRONMENTINC_07_02_2021-EX-10.1-PROJECT AGREEMENT.pdf"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "AxionPowerInternationalInc — Agreement of Lease",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "AxionPowerInternationalInc_20170606_8-K_EX-10.1_10295923_EX-10.1_Agreement of Lease.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "DOCUMENTSECURITYSYSTEMSINC — AGREEMENT AND PLAN OF MERGER",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "DOCUMENTSECURITYSYSTEMSINC_08_14_2008-EX-2.1-AGREEMENT AND PLAN OF MERGER.PDF"
+     ]
+    }
+   ],
+   "yes": [
+    75,
+    26,
+    45,
+    33,
+    70,
+    66,
+    89
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "count-england",
+  "claims": {
+   "count": 3,
+   "names": {
+    "yes": [
+     {
+      "name": "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+      "n": 40
+     },
+     {
+      "name": "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+      "n": 72
+     },
+     {
+      "name": "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+      "n": 93
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    40,
+    72,
+    93
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "count-canada",
+  "claims": {
+   "count": 5,
+   "names": {
+    "yes": [
+     {
+      "name": "ENTRUST INC — Strategic Alliance Agreement",
+      "n": 27
+     },
+     {
+      "name": "Coral Gold Resources, Ltd — Consulting Agreement",
+      "n": 21
+     },
+     {
+      "name": "KnowLabs, Inc — Intellectual Property Agreement",
+      "n": 48
+     },
+     {
+      "name": "Koios Beverage Corp — Distribution Agreement",
+      "n": null
+     },
+     {
+      "name": "Sparkling Spring Water Holdings Ltd — Software License and Maintenance Agreement",
+      "n": 86
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "Koios Beverage Corp — Distribution Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "KOIOSBEVERAGECORP_05_13_2020-EX-10.2-DISTRIBUTION AGREEMENT.PDF"
+     ]
+    }
+   ],
+   "yes": [
+    27,
+    21,
+    48,
+    86
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "count-rofr",
+  "claims": {
+   "count": 10,
+   "names": {
+    "yes": [
+     {
+      "name": "TODOSMEDLTD — Joint Venture Agreement",
+      "n": 13
+     },
+     {
+      "name": "RemarkHoldingsInc — Reseller Agreement",
+      "n": 76
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory, Inc. — Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "LinkPlusCorp — Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "King Resources, Inc. — Strategic Alliance Agreement",
+      "n": null
+     },
+     {
+      "name": "iVillage Inc. — Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "Agape Diamonds Ltd. — Lab Service Agreement",
+      "n": 10
+     },
+     {
+      "name": "Stamps.com Inc. — Marketing and Distribution Agreement",
+      "n": 88
+     },
+     {
+      "name": "Leju Holdings Ltd. — Internet Channel Cooperation Agreement",
+      "n": 51
+     },
+     {
+      "name": "China Recycling Energy Corp. — Cooperation Agreement",
+      "n": 18
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "King Resources, Inc. — Strategic Alliance Agreement",
+     "why": "ties: 21, 75, 79, 89",
+     "outside_folder": [
+      "KINGRESOURCES,INC_08_05_2010-EX-10.13-STRATEGIC ALLIANCE AGREEMENT.PDF"
+     ]
+    }
+   ],
+   "yes": [
+    13,
+    76,
+    80,
+    53,
+    46,
+    10,
+    88,
+    51,
+    18
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "date-in-force-today",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "RGC Resources Inc. — Transportation Agreement",
+      "n": 75
+     },
+     {
+      "name": "Agape ATP Corp. — Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Bloom Energy Corp. — Operations and Maintenance Agreement",
+      "n": 10
+     },
+     {
+      "name": "Coherus BioSciences Inc. — Development Agreement",
+      "n": 20
+     }
+    ],
+    "possible": [
+     {
+      "name": "OFG Bancorp — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "Oasys Mobile, Inc. — Outsourcing Agreement",
+      "n": 62
+     },
+     {
+      "name": "FTE Networks, Inc. — Strategic Alliance Agreement",
+      "n": 33
+     },
+     {
+      "name": "Summa Four Inc. — Software License and Maintenance Agreement",
+      "n": 90
+     },
+     {
+      "name": "Todos Medical Ltd. — Marketing Agreement / Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "Theravance Biopharma, Inc. — Service Agreement",
+      "n": 93
+     },
+     {
+      "name": "Aimmune Therapeutics Inc. — Development Agreement",
+      "n": 3
+     },
+     {
+      "name": "Artara Therapeutics Inc. — License Agreement",
+      "n": 6
+     },
+     {
+      "name": "ADMA BioManufacturing, LLC — Amendment #3 to Manufacturing Agreement",
+      "n": 1
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory, Inc. — Strategic Alliance Agreement",
+      "n": 80
+     }
+    ],
+    "no": [
+     {
+      "name": "Wells Fargo Mortgage Backed Securities 2006-6 Trust — Yield Maintenance Agreement",
+      "n": 98
+     },
+     {
+      "name": "Teardrop Golf Co. — Endorsement Agreement",
+      "n": 91
+     },
+     {
+      "name": "PreCheck Health Services, Inc. — Consulting Agreement",
+      "n": 70
+     },
+     {
+      "name": "Her Imports — Maintenance Agreement",
+      "n": 41
+     },
+     {
+      "name": "ScanSource Inc. — Distributor Agreement",
+      "n": 81
+     }
+    ]
+   },
+   "unplaced": [],
+   "yes": [
+    75,
+    2,
+    10,
+    20
+   ],
+   "possible": [
+    63,
+    62,
+    33,
+    90,
+    95,
+    93,
+    3,
+    6,
+    1,
+    80
+   ],
+   "no": [
+    98,
+    91,
+    70,
+    41,
+    81
+   ]
+  }
+ }
+]

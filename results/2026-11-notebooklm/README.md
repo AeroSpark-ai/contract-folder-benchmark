@@ -27,7 +27,7 @@ NotebookLM's first answers scored 82.3. Any question where a system found 25% or
 the key, against 2 the first time. On 11, a count, it said 9 the first time and 6 the second; the key has 13, and no system got it right. The re-ask's answer is the one scored, and both asks' time is in its total.
 
 With the 46 questions redrawn at random 10,000 times, plain Claude minus NotebookLM is -1.2 to +5.9 in 95% of redraws, with plain Claude ahead in 87.6% of them; NotebookLM minus ChatGPT is -1.9 to +5.5,
-with NotebookLM ahead in 73.8%. All five side by side: [COMPARISON.md](../COMPARISON.md). Question by question, with all five: [scores/headline.md](scores/headline.md).
+with NotebookLM ahead in 73.8%. All six side by side, with Copilot Researcher: [COMPARISON.md](../COMPARISON.md). Question by question, with all five: [scores/headline.md](scores/headline.md).
 
 ## How it was run
 

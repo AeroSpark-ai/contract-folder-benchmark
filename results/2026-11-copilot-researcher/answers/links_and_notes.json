@@ -1,0 +1,452 @@
+{
+ "set-revenue-profit-sharing": {
+  "n": 1,
+  "first_ask": {
+   "seconds": 436.3,
+   "links": "22 links in the report (read from the DOM), 22 distinct, all on aerosparkai.sharepoint.com/sites/BenchmarkTest (document viewer), all among the 99; the only other external link on the page is the 'Web search is off' banner's Learn more (support.microsoft.com): KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2; ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement; HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1); PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement; CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT; LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement; KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT; MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT; CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement; CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT; AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement; AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement; EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement; GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3; RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement; PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement; TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT; SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement; STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT; BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT; TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement; NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT",
+   "researcher_asked_first": "A) only explicit revenue/profit provisions or B) also royalties/percentage fees/commissions?; assess all 99 incl. exhibits/amendments?; identify contract + section per match? 'Or just say go ahead and I'll use my best judgment.'.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-rofr-rofo-rofn": {
+  "n": 2,
+  "first_ask": {
+   "seconds": 524.0,
+   "links": "14 links, 14 distinct: 11 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com ('Web search is off' banner 'Learn more'), 1 blob:https://copilot.cloud.microsoft/... ('Download' button under the report's own generated image Figure 1, alt 'Rofr Rofo Rofn Mechanics'), 1 us-prod.asyncgw.teams.microsoft.com/v1/objects/0-cus-d8-8e3df1717620f9b9574bb1d7497e85ed/views/original/13fc9a36c0.png (a link labelled '13fc9a36c0.png' at the end of the Artara bullet under 'Ambiguous and excluded near-matches', where the other bullets carry a PDF citation; opening it directly gives an error page, so its content is unknown)",
+   "researcher_asked_first": "review A) every contract and contract-related document (amendments, addenda, side letters) or B) only primary contracts?; flag A) only clauses labelled ROFR/ROFO/ROFN or B) functionally equivalent clauses too?; for amended contracts assess A) the currently effective terms or B) every historical version? 'Or just say go ahead'.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-irrevocable-or-perpetual-license": {
+  "n": 3,
+  "first_ask": {
+   "seconds": 287.1,
+   "links": "19 links, 14 distinct: 17 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to count explicit irrevocable, explicit perpetual or equivalent language; whether to evaluate the whole contract package (exhibits, amendments, survival/termination).",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-joint-ip-ownership": {
+  "n": 4,
+  "first_ask": {
+   "seconds": 228.3,
+   "links": "12 links, 12 distinct: 11 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to count only explicit joint/co-ownership of IP or also jointly developed IP/inventions/work product becoming jointly owned; whether to assess all contract docs and amendments/exhibits/schedules.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-no-solicit-of-employees": {
+  "n": 5,
+  "first_ask": {
+   "seconds": 375.0,
+   "links": "19 links, 12 distinct: 18 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to treat employee non-hire/no-poach clauses as qualifying even without the word 'solicit' (A yes / B no); whether to include restrictions that apply only in particular circumstances (A flag limits / B only broad).",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "rare-unlimited-all-you-can-eat-license": {
+  "n": 6,
+  "first_ask": {
+   "seconds": 318.0,
+   "links": "20 links, 19 distinct: 17 on the BenchmarkTest site, 2 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether 'unlimited usage' means no contractual cap on users/seats/transactions/volume vs only explicit 'unlimited' licenses; whether to include exhibits/schedules/amendments/order forms or main agreements only.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "count-texas": {
+  "n": 7,
+  "first_ask": {
+   "seconds": 200.0,
+   "links": "11 links, 11 distinct: 10 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to include all contract files incl. drafts/unsigned or only executed/signed; whether to count only where the governing-law clause explicitly names Texas.",
+   "reply": "Go ahead using your best judgment"
+  },
+  "re_ask": {
+   "seconds": 200.6,
+   "links": "11 links, 11 distinct: 10 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner)",
+   "researcher_asked_first": "whether to include all contract-like documents or executed agreements only; whether to count a contract as Texas-governed whenever its governing-law clause specifies Texas, including conflict-of-laws mentions.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "count-illinois": {
+  "n": 8,
+  "first_ask": {
+   "seconds": 130.0,
+   "links": "4 links, 4 distinct: 3 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to include all contract-related docs (amendments, addenda, exhibits) or only primary agreements; whether a count includes clauses applying Illinois law without regard to conflict-of-laws principles as well as simple wording.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "count-england": {
+  "n": 9,
+  "first_ask": {
+   "seconds": 269.0,
+   "links": "4 links, 4 distinct: 3 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to treat the 99 contracts in the 'Benchmark Test (99 contracts)' item as the full population; whether 'laws of England' includes 'England and Wales' or only exact wording; whether to count only express governing-law clauses.",
+   "reply": "Go ahead using your best judgment"
+  },
+  "re_ask": {
+   "seconds": 260.9,
+   "links": "14 links, 12 distinct: 10 on the BenchmarkTest site, 0 to the notebook, 3 Loop wrapper links labelled with a contract file name, 1 support.microsoft.com (banner)",
+   "researcher_asked_first": "whether 'laws of England' includes 'England and Wales'/'English law' or only the exact phrase; whether to dedupe a contract appearing more than once; whether to count only explicit governing-law clauses.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "count-canada": {
+  "n": 10,
+  "first_ask": {
+   "seconds": 268.5,
+   "links": "6 links, 6 distinct: 5 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to count any Canadian jurisdiction (Ontario, Quebec, BC) or only explicit 'laws of Canada'; whether contracts naming both Canadian federal law and a province count.",
+   "reply": "Go ahead using your best judgment"
+  },
+  "re_ask": {
+   "seconds": 170.2,
+   "links": "5 links, 5 distinct: 4 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner)",
+   "researcher_asked_first": "whether to count any Canadian jurisdiction (federal, Ontario, Quebec, BC) or only an explicit 'laws of Canada'; whether to include all contract-like documents (amendments, addenda) or only documents identified as contracts.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "count-rofr": {
+  "n": 11,
+  "first_ask": {
+   "seconds": 289.0,
+   "links": "12 links, 7 distinct: 11 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to count functional equivalents or only explicit ROFR/ROFO/ROFN wording; whether to dedupe copies/amended versions of the same contract; whether it counts if any party holds the right.",
+   "reply": "Go ahead using your best judgment"
+  },
+  "re_ask": {
+   "seconds": 502.9,
+   "links": "16 links, 13 distinct: 14 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com (banner)",
+   "researcher_asked_first": "whether to count unique contracts or each qualifying right separately; whether to include amendments/addenda/exhibits; whether to treat substantially equivalent language as qualifying.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-law-1": {
+  "n": 12,
+  "first_ask": {
+   "seconds": 136.0,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "whether to treat the relevant agreement as the Wells Fargo/UBS Yield Maintenance Agreement incl. copies anywhere in the site; whether to also check amendments/supplements/incorporated documents.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-law-2": {
+  "n": 13,
+  "first_ask": {
+   "seconds": 109.4,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "latest executed version vs all versions for consistency; whether to also treat amendments/supplements/schedules as relevant evidence.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-signed-1": {
+  "n": 14,
+  "first_ask": {
+   "seconds": 96.0,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "whether to search all documents/versions incl. exhibits/attachments; if multiple copies or amendments, identify the original execution date and distinguish later versions.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-ends-1": {
+  "n": 15,
+  "first_ask": {
+   "seconds": 129.0,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "whether to treat 'initial term' as the term in the original Supply Agreement excluding renewals; if amendments modify the term, report amended end date while identifying original.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-ends-2": {
+  "n": 16,
+  "first_ask": {
+   "seconds": 124.5,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "whether to treat the original executed agreement as controlling for the initial term (A yes/B include amendments that change it); if multiple copies, use latest/final executed version (A/B use earliest).",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-party-1": {
+  "n": 17,
+  "first_ask": {
+   "seconds": 106.5,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "consider A executed/final agreements only or B drafts and amendments too; if multiple versions exist, use the most recently executed version or compare all versions.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-party-2": {
+  "n": 18,
+  "first_ask": {
+   "seconds": 81.5,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "whether to search all documents/file types incl. attachments or scanned docs; whether 'Co-Branding Agreement' is the exact title or also agreements whose contents describe co-branding with Lucent.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-renewal-1": {
+  "n": 19,
+  "first_ask": {
+   "seconds": 121.5,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "whether amendments/addenda/later versions control if they modify the renewal provision (A yes/B original only); whether to give just the renewal term or also the notice/deadline to prevent renewal.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "look-notice-1": {
+  "n": 20,
+  "first_ask": {
+   "seconds": 141.0,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "whether the executed/final agreement controls if drafts/amendments differ (A yes/B compare all); whether to also check amendments or later documents that modify the renewal/termination notice requirement.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "super-shortest-notice": {
+  "n": 21,
+  "first_ask": {
+   "seconds": 313.0,
+   "links": "17 links, 12 distinct: 15 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com banner link",
+   "researcher_asked_first": "compare only contractual non-renewal notice periods tied to automatic renewal, excluding ordinary termination (A yes/B include those); if amendments modify renewal terms use the latest controlling terms (A yes/B base agreement only).",
+   "reply": "Go ahead using your best judgment"
+  },
+  "second_ask_not_counted": {
+   "seconds": 229.0,
+   "links": "7 links, 7 distinct: 5 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com (banner)",
+   "researcher_asked_first": "whether to compare only notice periods for opting out of automatic renewal or all termination/non-renewal mechanisms; whether to treat the latest controlling amendment/schedule as authoritative.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "super-latest": {
+  "n": 22,
+  "first_ask": {
+   "seconds": 195.1,
+   "links": "8 links, 7 distinct: 7 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "which date counts as 'entered into' (agreement/effective vs signature date) and whether to treat amendments/addenda/renewals as contracts.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "date-signed-2008-2012": {
+  "n": 23,
+  "first_ask": {
+   "seconds": 473.5,
+   "links": "9 links, 9 distinct: 8 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "whether 'entered into' means contractual execution/effective date vs SharePoint upload date; whether to treat all 99 contracts and every folder as the population.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "date-signed-pre2001": {
+  "n": 24,
+  "first_ask": {
+   "seconds": 233.5,
+   "links": "14 links, 14 distinct: 13 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "whether 'entered into' = execution/signing date vs effective date; whether to include amendments or only documents identified as contracts.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "date-ending-asof-2020": {
+  "n": 25,
+  "first_ask": {
+   "seconds": 322.0,
+   "links": "9 links, 9 distinct: 7 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com, 1 loop.cloud.microsoft/c link (a Loop-wrapped link to our own tenant's aerosparkai.sharepoint.com/contentstorage, labelled with a contract file name; not an outside source)",
+   "researcher_asked_first": "window 12 months inclusive (Jul 1 2020 to Jun 30 2021 vs Jul 1 2020 to Jul 1 2021); for amended contracts use original initial-term end or operative end after amendments.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "date-no-end": {
+  "n": 26,
+  "first_ask": {
+   "seconds": 351.5,
+   "links": "14 links, 13 distinct: 12 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "include only contracts indefinite from the outset or also those that become indefinite/month-to-month after an initial term; treat termination only without cause/on notice or also for breach; analyze amendments with underlying agreements.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "date-asof-notice": {
+  "n": 27,
+  "first_ask": {
+   "seconds": 286.5,
+   "links": "12 links, 12 distinct: 11 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "review all 99 contracts; treat 'next six months' as Jul 1-Dec 31 2016 inclusive and count only non-renewal notice deadlines; include only contracts still in force on Jul 1 2016.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "date-in-force-today": {
+  "n": 28,
+  "first_ask": {
+   "seconds": 435.5,
+   "links": "21 links, 16 distinct: 12 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com, 6 loop.cloud.microsoft/c links (Loop-wrapped links to our own tenant's SharePoint contentstorage, labelled with contract file names), 1 blob: figure download, 1 us-prod.asyncgw.teams.microsoft.com image",
+   "researcher_asked_first": "assess all 99 contracts incl. amendments/renewals; for 'still in force today' (11 Nov 2026) classify by term/renewal/termination/amendment using SharePoint documents only or also external/public evidence (it offered a 'Use SharePoint documents only' chip; I did not click it).",
+   "reply": "Go ahead using your best judgment"
+  },
+  "re_ask": {
+   "seconds": 271.0,
+   "links": "21 links, 16 distinct: 20 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com (banner Learn more)",
+   "researcher_asked_first": "whether to assess all 99 contracts incl. amendments/renewals/terminations; whether to classify each as in force / expired-terminated / uncertain; whether to assess as of today 11 Nov 2026 and use external evidence.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "both-post2010-nosolicit": {
+  "n": 29,
+  "first_ask": {
+   "seconds": 308.0,
+   "links": "21 links, 12 distinct: 20 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "'entered into' = execution/signature, effective, or either; only explicit employee non-solicit clauses or also no-hire/no-poach; one-way or only mutual restrictions.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "or-nosolicit-rofr": {
+  "n": 30,
+  "first_ask": {
+   "seconds": 515.0,
+   "links": "14 links, 13 distinct: 13 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "executed contracts only or all contract-related documents; ROFR scope (any right vs only employee/personnel related); treat non-hire/no-poach wording and ROFR/ROFO/ROFN as responsive.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "party": {
+  "n": 31,
+  "first_ask": {
+   "seconds": 177.5,
+   "links": "5 links, 4 distinct: 4 on the BenchmarkTest site (2 _layouts, 2 /:b:/s/BenchmarkTest share links), 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "exact legal entity only or also abbreviations/alternate English-Chinese names; executed agreements only or also amendments/addenda/SOWs.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "type-hosting": {
+  "n": 32,
+  "first_ask": {
+   "seconds": 157.0,
+   "links": "12 links, 12 distinct: 11 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "classify by actual terms/services even if title lacks 'hosting', and whether to include borderline broader outsourcing/ASP agreements flagged as possible hosting.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "threshold-notice60": {
+  "n": 33,
+  "first_ask": {
+   "seconds": 394.5,
+   "links": "12 links, 9 distinct: 9 on the BenchmarkTest site, 2 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "whether to include amendments/addenda/related schedules that modify a contract's renewal or notice terms (yes/no), and whether to count only non-renewal notice requirements or also termination-for-convenience provisions that can stop a renewal.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "absent-1": {
+  "n": 34,
+  "first_ask": {
+   "seconds": 237.5,
+   "links": "2 links, 2 distinct: 1 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "is 'Benchmark Test' the exact site name and search all folders and versions; and should it give the initial term end date from the agreement itself incl. amendments/extensions.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "absent-2": {
+  "n": 35,
+  "first_ask": {
+   "seconds": 203.0,
+   "links": "3 links, 3 distinct: 2 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "use the executed/final agreement plus amendments/addenda that could modify governing law, or only the MSA itself; and treat the latest executed version as controlling if several.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-noncompete-or-exclusivity": {
+  "n": 36,
+  "first_ask": {
+   "seconds": 318.5,
+   "links": "23 links, 23 distinct: 22 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "include functional equivalents of non-compete/exclusivity (exclusive dealing, restrictions on competing suppliers/services) even if not so titled; and exclude unrelated uses of 'exclusive' (exclusive remedy, exclusive licenses).",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-law-outside-us": {
+  "n": 37,
+  "first_ask": {
+   "seconds": 346.5,
+   "links": "11 links, 11 distinct: 10 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "should 'outside the US' include any non-U.S. country/province/jurisdiction including clauses listing both U.S. and non-U.S.; and include amendments/addenda/schedules or only primary agreements.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-auto-renewal": {
+  "n": 38,
+  "first_ask": {
+   "seconds": 514.5,
+   "links": "14 links, 14 distinct: 13 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "scope of folders incl. nested; whether auto-renewal includes one-time automatic extensions as well as recurring/evergreen; and whether to assess contracts together with amendments/exhibits.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-arbitration": {
+  "n": 39,
+  "first_ask": {
+   "seconds": 419.0,
+   "links": "18 links, 17 distinct: 17 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "whether to count a contract as yes when arbitration is mandatory for broad disputes but has limited carve-outs (injunctions, IP); and whether to evaluate amendments/addenda together with the original or each file independently.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-confidentiality": {
+  "n": 40,
+  "first_ask": {
+   "seconds": 392.5,
+   "links": "66 links in the report (read from the DOM), 61 distinct: 60 files on aerosparkai.sharepoint.com/sites/BenchmarkTest (document viewer) and 1 link to our own Copilot notebook \"Benchmark Test (99 contracts)\" (m365.cloud.microsoft/notebooks/...), which the report calls \"the inventory item\" it treated as the authoritative contract set; no other source. The report's table also names contracts that are NOT among the 99 in the folder (they carry no link), e.g. ACCELR8TECHNOLOGYCORP, AUMBIOTECHNOLOGIESINC, BallantyneStrongInc, CARRIZOOIL&GASINC, CincinnatiBellInc, CROSSTEXENERGYLP, FRESHMARKET,INC — see quick_score.py.",
+   "researcher_asked_first": "broad functional definition (A, recommended) or only labeled clauses (B)?; count provisions found only in exhibits/schedules/amendments (A, recommended)? 'Or just say go ahead'.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-agreement-confidential": {
+  "n": 41,
+  "first_ask": {
+   "seconds": 355.0,
+   "links": "28 links, 28 distinct: 26 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "include all documents (drafts, amendments, addenda, unsigned) or executed agreements only; flag only explicit statements or also implied via a broader confidentiality clause; and whether confidentiality of the agreement's existence counts as well as its contents/terms.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-indemnification": {
+  "n": 42,
+  "first_ask": {
+   "seconds": 369.5,
+   "links": "31 links in the report (read from the DOM), 31 distinct: 30 files on aerosparkai.sharepoint.com/sites/BenchmarkTest (document viewer) and 1 link to our own Copilot notebook \"Benchmark Test (99 contracts)\" (m365.cloud.microsoft/notebooks/...), which the report calls \"the SharePoint artifact Benchmark Test (99 contracts)\"; no other source. The report also names many contracts that are NOT among the 99 in the folder and carry no link (e.g. BOEINGCO, FACEBOOKINC, VISAINC, MERCADOLIBREINC, PUBLICSTORAGEINC) — see quick_score.py.",
+   "researcher_asked_first": "only explicit indemnity clauses (A) or functional indemnities too (B)?; count exhibits/schedules/amendments (A yes / B no)? 'Or just say go ahead'.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "set-cap-on-liability": {
+  "n": 43,
+  "first_ask": {
+   "seconds": 295.0,
+   "links": "22 links, 22 distinct: 21 on the BenchmarkTest site, 0 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "(partly captured): whether to use only stated monetary/formula-based caps; whether to assess the entire agreement package incl. schedules, exhibits, amendments, addenda; and whether to identify capped party, amount/formula, carve-outs and clause.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "both-texas-confidentiality": {
+  "n": 44,
+  "first_ask": {
+   "seconds": 239.0,
+   "links": "10 links, 10 distinct: 8 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "include amendments/addenda/SOWs or only standalone agreements; require an explicit Texas governing-law clause rather than a Texas party/venue/address; and whether confidentiality includes equivalent terms (non-disclosure, confidential/proprietary information).",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "both-autorenew-warranty": {
+  "n": 45,
+  "first_ask": {
+   "seconds": 561.5,
+   "links": "16 links, 16 distinct: 14 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "should auto-renew mean automatic renewal unless notice is given incl. automatic extensions for a fixed period; should 'warranty' require an affirmative contractual warranty rather than a reference to warranty services or a disclaimer; and evaluate amendments/addenda with their underlying contract.",
+   "reply": "Go ahead using your best judgment"
+  }
+ },
+ "both-nosolicit-agreement-confidential": {
+  "n": 46,
+  "first_ask": {
+   "seconds": 242.5,
+   "links": "6 links, 6 distinct: 4 on the BenchmarkTest site, 1 to the notebook, 1 support.microsoft.com",
+   "researcher_asked_first": "should no-solicit include employee/personnel clauses phrased as hire/recruit/engage/induce to leave; for confidentiality, the agreement itself (terms/existence) must be confidential or any general confidentiality clause; and must both conditions be in the same agreement.",
+   "reply": "Go ahead using your best judgment"
+  }
+ }
+}
