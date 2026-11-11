@@ -1,0 +1,3924 @@
+[
+ {
+  "pass": 1,
+  "id": "set-revenue-profit-sharing",
+  "claims": {
+   "count": 19,
+   "names": {
+    "yes": [
+     {
+      "name": "KUBIENT, INC — MASTER SERVICES AGREEMENT",
+      "n": 49
+     },
+     {
+      "name": "ICORECONNECT INC — Strategic Alliance Agreement",
+      "n": 42
+     },
+     {
+      "name": "HEALTHGATE DATA CORP — HOSTING AND MANAGEMENT AGREEMENT",
+      "n": 40
+     },
+     {
+      "name": "Paperexchange Com Inc — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "CORIO INC — LICENSE AND HOSTING AGREEMENT",
+      "n": 22
+     },
+     {
+      "name": "LinkPlus Corp — Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "KING PHARMACEUTICALS INC — PROMOTION AGREEMENT",
+      "n": 47
+     },
+     {
+      "name": "MIDDLEBROOK PHARMACEUTICALS, INC — PROMOTION AGREEMENT",
+      "n": 56
+     },
+     {
+      "name": "Coherus Biosciences Inc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "CARDAX, INC — COLLABORATION AGREEMENT",
+      "n": 14
+     },
+     {
+      "name": "Allied Esports Entertainment Inc — Content License Agreement",
+      "n": 4
+     },
+     {
+      "name": "Aimmune Therapeutics Inc — Development Agreement",
+      "n": 3
+     },
+     {
+      "name": "Eton Pharmaceuticals Inc — Development Agreement",
+      "n": 28
+     },
+     {
+      "name": "Glu Mobile Inc — Content License Agreement",
+      "n": 37
+     },
+     {
+      "name": "Remark Holdings Inc — Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "Performance Sports Brands Inc — Endorsement Agreement",
+      "n": 68
+     },
+     {
+      "name": "TEARDROP GOLF CO — ENDORSEMENT AGREEMENT",
+      "n": 91
+     },
+     {
+      "name": "Southern Star Energy Inc — Affiliate Agreement",
+      "n": 85
+     },
+     {
+      "name": "STW RESOURCES HOLDING CORP — COOPERATION AGREEMENT",
+      "n": 89
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    49,
+    42,
+    40,
+    67,
+    22,
+    53,
+    47,
+    56,
+    20,
+    14,
+    4,
+    3,
+    28,
+    37,
+    76,
+    68,
+    91,
+    85,
+    89
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-rofr-rofo-rofn",
+  "claims": {
+   "count": 7,
+   "names": {
+    "yes": [
+     {
+      "name": "Agape ATP — Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Link Plus/Axiometric — Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "Todos Medical Ltd — Marketing Agreement / Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory, Inc. — Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Embark/Snap — Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "Remark/World Book — Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "iVillage — Sponsorship Agreement",
+      "n": 46
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    53,
+    95,
+    80,
+    24,
+    76,
+    46
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-irrevocable-or-perpetual-license",
+  "claims": {
+   "count": 13,
+   "names": {
+    "yes": [
+     {
+      "name": "Fidelity National Information Services Inc — Development Agreement",
+      "n": 30
+     },
+     {
+      "name": "Cerence Inc — Intellectual Property Agreement",
+      "n": 16
+     },
+     {
+      "name": "CARDAX, INC — Collaboration Agreement",
+      "n": 14
+     },
+     {
+      "name": "Corio Inc — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Clickstream Corp — Development Agreement",
+      "n": 19
+     },
+     {
+      "name": "Quantum Group Inc FL — Hosting Agreement",
+      "n": 74
+     },
+     {
+      "name": "HealthGate Data Corp — Hosting and Management Agreement",
+      "n": 40
+     },
+     {
+      "name": "Allied Esports Entertainment Inc — Content License Agreement",
+      "n": 4
+     },
+     {
+      "name": "Lifeway Foods Inc — Endorsement Agreement",
+      "n": 52
+     },
+     {
+      "name": "Remark Holdings Inc — Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "Entrust Inc — Strategic Alliance Agreement",
+      "n": 27
+     }
+    ],
+    "possible": [
+     {
+      "name": "Summa Four Inc — Software License and Maintenance Agreement",
+      "n": 90
+     },
+     {
+      "name": "Sparkling Spring Water Holdings Ltd — Software License and Maintenance Agreement",
+      "n": 86
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    30,
+    16,
+    14,
+    22,
+    19,
+    74,
+    40,
+    4,
+    52,
+    76,
+    27
+   ],
+   "possible": [
+    90,
+    86
+   ],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-joint-ip-ownership",
+  "claims": {
+   "count": 5,
+   "names": {
+    "yes": [
+     {
+      "name": "AimmuneTherapeuticsInc — Development Agreement",
+      "n": 3
+     },
+     {
+      "name": "CoherusBiosciencesInc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "CARDAX, INC — Collaboration Agreement",
+      "n": 14
+     },
+     {
+      "name": "ArtaraTherapeuticsInc — License Agreement",
+      "n": 6
+     },
+     {
+      "name": "LinkPlusCorp — Affiliate Agreement",
+      "n": 53
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    3,
+    20,
+    14,
+    6,
+    53
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-no-solicit-of-employees",
+  "claims": {
+   "count": 11,
+   "names": {
+    "yes": [
+     {
+      "name": "Quaker Chemical Corporation — NON COMPETITION AND NON SOLICITATION AGREEMENT",
+      "n": 73
+     },
+     {
+      "name": "LECLANCHÉ S.A. — JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+      "n": 50
+     },
+     {
+      "name": "CoherusBiosciencesInc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "ROCKY MOUNTAIN CHOCOLATE FACTORY, INC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 80
+     },
+     {
+      "name": "OFG BANCORP — OUTSOURCING AGREEMENT",
+      "n": 63
+     },
+     {
+      "name": "SPARKLING SPRING WATER HOLDINGS LTD — SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+      "n": 86
+     },
+     {
+      "name": "THERAVANCE BIOPHARMA, INC — SERVICE AGREEMENT",
+      "n": 93
+     },
+     {
+      "name": "CORAL GOLD RESOURCES, LTD — CONSULTING AGREEMENT",
+      "n": 21
+     },
+     {
+      "name": "KUBIENT, INC — MASTER SERVICES AGREEMENT",
+      "n": 49
+     },
+     {
+      "name": "Clickstream Corp — Development Agreement",
+      "n": 19
+     },
+     {
+      "name": "FTE NETWORKS, INC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 33
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    73,
+    50,
+    20,
+    80,
+    63,
+    86,
+    93,
+    21,
+    49,
+    19,
+    33
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "rare-unlimited-all-you-can-eat-license",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Corio Inc.; Commerce One, Inc. — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Northern Telecom Limited; Entrust Technologies Inc. — Strategic Alliance Agreement",
+      "n": 27
+     },
+     {
+      "name": "Nuance Communications, Inc.; Cerence Inc. — Intellectual Property Agreement",
+      "n": 16
+     },
+     {
+      "name": "Lion Biotechnologies, Inc.; The University of Texas M. D. Anderson Cancer Center — Strategic Alliance Agreement",
+      "n": 45
+     },
+     {
+      "name": "Emdeon Corporation; WebMD, Inc. — Content License Agreement",
+      "n": 97
+     },
+     {
+      "name": "SINA; China Real Estate Information Corporation — Content License Agreement",
+      "n": 17
+     },
+     {
+      "name": "Equifax Inc.; Certegy Inc. — Intellectual Property Agreement",
+      "n": 30
+     }
+    ],
+    "possible": [
+     {
+      "name": "Lifeway Foods Inc. — Endorsement Agreement",
+      "n": 52
+     },
+     {
+      "name": "Remark Holdings Inc. — Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "Allied Esports Entertainment Inc. — Content License Agreement",
+      "n": 4
+     },
+     {
+      "name": "Performance Sports Brands Inc. — Endorsement Agreement",
+      "n": 68
+     },
+     {
+      "name": "Teardrop Golf Co. — Endorsement Agreement",
+      "n": 91
+     }
+    ],
+    "no": [
+     {
+      "name": "Eton Pharmaceuticals Inc. — Development Agreement",
+      "n": 28
+     },
+     {
+      "name": "SeaSpine Holdings Corp. — Supply Agreement",
+      "n": 82
+     },
+     {
+      "name": "Oasys Mobile, Inc. — Outsourcing Agreement",
+      "n": 62
+     },
+     {
+      "name": "Summa Four Inc. — Software License and Maintenance Agreement",
+      "n": 90
+     },
+     {
+      "name": "Sparkling Spring Water Holdings Ltd. — Software License and Maintenance Agreement",
+      "n": 86
+     }
+    ]
+   },
+   "unplaced": [],
+   "yes": [
+    22,
+    27,
+    16,
+    45,
+    97,
+    17,
+    30
+   ],
+   "possible": [
+    52,
+    76,
+    4,
+    68,
+    91
+   ],
+   "no": [
+    28,
+    82,
+    62,
+    90,
+    86
+   ]
+  }
+ },
+ {
+  "pass": 1,
+  "id": "count-texas",
+  "claims": {
+   "count": 7,
+   "names": {
+    "yes": [
+     {
+      "name": "STWRESOURCESHOLDINGCORP — COOPERATION AGREEMENT",
+      "n": 89
+     },
+     {
+      "name": "PrecheckHealthServicesInc — Distributor Agreement",
+      "n": 70
+     },
+     {
+      "name": "OPTIMIZEDTRANSPORTATIONMANAGEMENT, INC — DISTRIBUTOR AGREEMENT",
+      "n": 66
+     },
+     {
+      "name": "FTENETWORKS, INC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 33
+     },
+     {
+      "name": "ENERGYXXILTD — Transportation AGREEMENT",
+      "n": 26
+     },
+     {
+      "name": "IOVANCEBIOTHERAPEUTICS, INC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 45
+     },
+     {
+      "name": "RangeResourcesLouisianaInc — Transportation Agreement",
+      "n": 75
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    89,
+    70,
+    66,
+    33,
+    26,
+    45,
+    75
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "count-illinois",
+  "claims": {
+   "count": 3,
+   "names": {
+    "yes": [
+     {
+      "name": "Reynolds Consumer Products LLC and Pactiv LLC — Master Supply Agreement",
+      "n": 77
+     },
+     {
+      "name": "Reynolds Group Holdings Inc. and Reynolds Consumer Products Inc. — Transition Services Agreement",
+      "n": 78,
+      "by_hand": true
+     },
+     {
+      "name": "Lifeway Foods, Inc. and Ludmila Smolyansky — Endorsement Agreement",
+      "n": 52
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "Reynolds Group Holdings Inc. and Reynolds Consumer Products Inc. — Transition Services Agreement",
+     "why": "ties: 77, 78",
+     "settled_by_claude": [
+      78
+     ],
+     "why_settled": "the answer gives ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_..._Service Agreement.pdf, \"Instrument: Transition Services Agreement between Reynolds Group Holdings Inc. and Reynolds Consumer Products Inc.\""
+    }
+   ],
+   "yes": [
+    77,
+    52,
+    78
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "count-england",
+  "claims": {
+   "count": 4,
+   "names": {
+    "yes": [
+     {
+      "name": "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+      "n": 2
+     },
+     {
+      "name": "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+      "n": 40
+     },
+     {
+      "name": "QIWI_06_16_2017-EX-99.(D)(2)-COOPERATION AGREEMENT.PDF",
+      "n": 72
+     },
+     {
+      "name": "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+      "n": 93
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    40,
+    72,
+    93
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "count-canada",
+  "claims": {
+   "count": 4,
+   "names": {
+    "yes": [
+     {
+      "name": "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT",
+      "n": 21
+     },
+     {
+      "name": "KNOWLABS,INC_08_15_2005-EX-10-INTELLECTUAL PROPERTY AGREEMENT",
+      "n": 48
+     },
+     {
+      "name": "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT",
+      "n": 27
+     },
+     {
+      "name": "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+      "n": 86
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    21,
+    48,
+    27,
+    86
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "count-rofr",
+  "claims": {
+   "count": 9,
+   "names": {
+    "yes": [
+     {
+      "name": "Todos Medical Ltd — Marketing Agreement / Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "Link Plus Corp — Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "Agape ATP Corp — Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory, Inc. — Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Embark Com Inc — Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "Remark Holdings Inc — Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "NetGrocer Inc — Sponsorship Agreement",
+      "n": 59
+     },
+     {
+      "name": "iVillage Inc — Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "Leju Holdings Ltd — Internet Channel Cooperation Agreement",
+      "n": 51
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    95,
+    53,
+    2,
+    80,
+    24,
+    76,
+    59,
+    46,
+    51
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-law-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Wells Fargo Bank on behalf of Wells Fargo Mortgage Backed Securities 2006-6 Trust and UBS AG — Yield Maintenance Agreement",
+      "n": 98
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    98
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-law-2",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Otkritie Investments Cyprus Limited and QIWI plc — Cooperation Agreement",
+      "n": 72
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    72
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-signed-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-ends-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-ends-2",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-party-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "Master Operation And Maintenance Agreement with BLOOM ENERGY CORPORATION — DIAMOND STATE GENERATION PARTNERS, LLC",
+      "n": 10
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    10
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-party-2",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-renewal-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "GARMAN ROUTING SYSTEMS, INC — Software License And Maintenance Agreement with SPARKLING SPRING WATER GROUP LIMITED",
+      "n": 86
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    86
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "look-notice-1",
+  "claims": {
+   "count": 30,
+   "names": {
+    "yes": [
+     {
+      "name": "Co-Branding Agreement — VerticalNet, Inc and PaperExchange.com, LLC",
+      "n": 67
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    67
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "super-shortest-notice",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.PDF",
+      "n": 56
+     },
+     {
+      "name": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.PDF",
+      "n": 22
+     },
+     {
+      "name": "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+      "n": 67
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    56,
+    22,
+    67
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "super-latest",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "ATENTOSA_07_06_2020-EX-99.1-JOINT FILING AGREEMENT",
+      "n": 7
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    7
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "date-signed-2008-2012",
+  "claims": {
+   "count": 15,
+   "names": {
+    "yes": [
+     {
+      "name": "CytoDyn, Inc. — Research and Commercialization Agreement",
+      "n": null
+     },
+     {
+      "name": "HSW International, Inc.; World Book, Inc. — Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "SMTA — Outsourcing Agreement",
+      "n": null
+     },
+     {
+      "name": "MiddleBrook Pharmaceuticals, Inc.; DoctorDirectory.com, Inc. — Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "Cardlytics, Inc.; Bank of America, N.A. — Maintenance Agreement",
+      "n": 15
+     },
+     {
+      "name": "Beijing Baidu Netcom Science and Technology Co., Ltd.; China Online Housing (Hong Kong) Co., Ltd.; Beijing Yisheng Leju Information Services Co., Ltd. — Internet Channel Cooperation Agreement",
+      "n": 51
+     },
+     {
+      "name": "IMedicor, Inc.; USA Managed Care Organization — Strategic Alliance Agreement",
+      "n": 42
+     },
+     {
+      "name": "Cisco Systems, Inc.; ScanSource, Inc. — Distributor Agreement",
+      "n": 81
+     },
+     {
+      "name": "Golfers Incorporated; Andy North — Endorsement Agreement",
+      "n": 68
+     },
+     {
+      "name": "Cardlytics, Inc.; Bank of America, N.A. — Maintenance Agreement",
+      "n": 15
+     },
+     {
+      "name": "Bloom Energy Corporation; Diamond State Generation Partners, LLC — Maintenance Agreement",
+      "n": 10
+     },
+     {
+      "name": "Energy Transfer entities — Service Agreement",
+      "n": null
+     },
+     {
+      "name": "Pacific Green Technologies Inc. — Media and Promotions Agreement",
+      "n": 54
+     },
+     {
+      "name": "China Rapid Finance Limited — Management And Consulting Services Agreement",
+      "n": 23
+     },
+     {
+      "name": "Kingold Jewelry, Inc.; Wuhan Zomax Gold Jewellery Co., Ltd. — Distribution Agreement",
+      "n": 21
+     }
+    ],
+    "possible": [
+     {
+      "name": "Quantum Group Inc /FL — Hosting Agreement",
+      "n": 74
+     },
+     {
+      "name": "Federal Home Loan Bank of Atlanta — Agency Agreement",
+      "n": null
+     },
+     {
+      "name": "China Real Estate Information Corp — Content License Agreement",
+      "n": 17
+     },
+     {
+      "name": "Oracle Corporation — Vendor Agreement",
+      "n": 94
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "CytoDyn, Inc. — Research and Commercialization Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "Contractual-date evidenceCYTODYN_INC_04_29_2008-EX-10.1-RESEARCH AND COMMERCIALIZATION AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "SMTA — Outsourcing Agreement",
+     "why": "ties: 11, 61, 62, 63",
+     "outside_folder": [
+      "SMTA Liquidating Trust - Outsourcing Agreement.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Energy Transfer entities — Service Agreement",
+     "why": "ties: 10, 18, 26, 38, 50, 85",
+     "outside_folder": [
+      "Energy Transfer Equity, L.P. - Service Agreement.PDF"
+     ]
+    },
+    {
+     "list": "possible",
+     "name": "Federal Home Loan Bank of Atlanta — Agency Agreement",
+     "why": "ties: 8, 12",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    }
+   ],
+   "yes": [
+    76,
+    56,
+    15,
+    51,
+    42,
+    81,
+    68,
+    10,
+    54,
+    23,
+    21
+   ],
+   "possible": [
+    74,
+    17,
+    94
+   ],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "date-signed-pre2001",
+  "claims": {
+   "count": 14,
+   "names": {
+    "yes": [
+     {
+      "name": "TEARDROPGOLFCO — Endorsement Agreement",
+      "n": 91
+     },
+     {
+      "name": "ENTRUST INC — Strategic Alliance Agreement",
+      "n": 27
+     },
+     {
+      "name": "SUMMA FOUR INC — Software License and Maintenance Agreement",
+      "n": 90
+     },
+     {
+      "name": "NETGROCER INC — Sponsorship Agreement",
+      "n": 59
+     },
+     {
+      "name": "LOGANS ROADHOUSE INC — Sponsorship Agreement",
+      "n": 54
+     },
+     {
+      "name": "HEALTHGATE DATA CORP — Hosting and Management Agreement",
+      "n": 40
+     },
+     {
+      "name": "IVILLAGE INC — Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "THE GLOBE COM INC — Co-Branding Agreement",
+      "n": 92
+     },
+     {
+      "name": "STAMPS COM INC — Sponsorship Agreement",
+      "n": 88
+     },
+     {
+      "name": "EMBARK COM INC — Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "PAPEREXCHANGE COM INC — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "CORIO INC — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "INVENDA CORPORATION — License Agreement",
+      "n": 44
+     },
+     {
+      "name": "OASIS MOBILE, INC — Outsourcing Agreement",
+      "n": 62
+     }
+    ],
+    "possible": [
+     {
+      "name": "WOMENS GOLF UNLIMITED INC — Endorsement Agreement - Intellectual Property Rights Confidentiality and Non-Use Obligations Agreement",
+      "n": 99
+     },
+     {
+      "name": "OPTIMIZED TRANSPORTATION MANAGEMENT, INC — Distributor Agreement",
+      "n": 66
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    91,
+    27,
+    90,
+    59,
+    54,
+    40,
+    46,
+    92,
+    88,
+    24,
+    67,
+    22,
+    44,
+    62
+   ],
+   "possible": [
+    99,
+    66
+   ],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "date-ending-asof-2020",
+  "claims": {
+   "count": 3,
+   "names": {
+    "yes": [
+     {
+      "name": "Walabot-HOME Reseller Agreement — Vayyar Imaging Ltd. and Inde Living Holdings, Inc.",
+      "n": 39
+     },
+     {
+      "name": "Joint Content License Agreement — WPT Enterprises, Inc., ZYNGA INC., and ZYNGA GAME IRELAND LIMITED",
+      "n": 4
+     },
+     {
+      "name": "Distributor Agreement — Co-Diagnostics, Inc. and PreCheck Health Services, Inc.",
+      "n": 70
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    39,
+    4,
+    70
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "date-no-end",
+  "claims": {
+   "count": 7,
+   "names": {
+    "yes": [
+     {
+      "name": "D2 Technologies, Inc. / Summa Four Inc. — Software License and Maintenance Agreement",
+      "n": 90
+     },
+     {
+      "name": "Garman Routing Systems, Inc. / Sparkling Spring Water Group Limited — Software License and Maintenance Agreement",
+      "n": 86
+     },
+     {
+      "name": "Eton Pharmaceuticals, Inc. / Aucta Pharmaceuticals, Inc. — Development Agreement",
+      "n": 28
+     },
+     {
+      "name": "element 5 / the participating Affiliate or Software Publisher — Affiliate Agreement",
+      "n": 85
+     },
+     {
+      "name": "Visualant Incorporated / Kenneth Turpin — Intellectual Property Agreement",
+      "n": 48
+     },
+     {
+      "name": "Theravance Biopharma UK Limited / Brett Haumann — Service Agreement",
+      "n": 93
+     },
+     {
+      "name": "Federated Investment Management Company / Federated Administrative Services Company — Limited Power of Attorney",
+      "n": 29
+     }
+    ],
+    "possible": [
+     {
+      "name": "FT Networks, Inc. — Strategic Alliance Agreement",
+      "n": 33
+     },
+     {
+      "name": "Coherus Biosciences Inc. — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Nice Ltd. — Outsourcing Agreement",
+      "n": 61
+     },
+     {
+      "name": "Cerence Inc. / Nuance — Intellectual Property Agreement",
+      "n": 16
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    90,
+    86,
+    28,
+    85,
+    48,
+    93,
+    29
+   ],
+   "possible": [
+    33,
+    20,
+    61,
+    16
+   ],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "date-asof-notice",
+  "claims": {
+   "count": 3,
+   "names": {
+    "yes": [
+     {
+      "name": "VerticalNet, Inc. / PaperExchange.com, LLC — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "Corio Inc. / Commerce One, Inc. — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Virtual Item Processing Systems, Inc. / Brokers National Life Assurance Company — Outsourcing Agreement",
+      "n": 11
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    67,
+    22,
+    11
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "date-in-force-today",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "LinkPlusCorp — Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "LifewayFoodsInc — Endorsement Agreement",
+      "n": 52
+     },
+     {
+      "name": "SUMMAFOURINC — SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+      "n": 90
+     },
+     {
+      "name": "Quaker Chemical Corporation — NON COMPETITION AND NON SOLICITATION AGREEMENT",
+      "n": 73
+     }
+    ],
+    "possible": [
+     {
+      "name": "THERAVANCEBIOPHARMA,INC — SERVICE AGREEMENT",
+      "n": 93
+     },
+     {
+      "name": "FEDERATEDGOVERNMENTINCOMESECURITIESINC — SERVICES AGREEMENT",
+      "n": 29
+     },
+     {
+      "name": "CUROGROUPHOLDINGSCORP — SERVICING AGREEMENT",
+      "n": 23
+     },
+     {
+      "name": "MetLife, Inc. — Remarketing Agreement",
+      "n": 55
+     },
+     {
+      "name": "ADMA BioManufacturing, LLC — Amendment #3 to Manufacturing Agreement",
+      "n": 1
+     },
+     {
+      "name": "OFGBANCORP — OUTSOURCING AGREEMENT",
+      "n": 63
+     },
+     {
+      "name": "OASYSMOBILE,INC — OUTSOURCING AGREEMENT",
+      "n": 62
+     }
+    ],
+    "no": [
+     {
+      "name": "GLOBALTECHNOLOGIESLTD — CONSULTING AGREEMENT",
+      "n": 36
+     },
+     {
+      "name": "CORALGOLDRESOURCES,LTD — CONSULTING AGREEMENT",
+      "n": 21
+     },
+     {
+      "name": "BONTONSTORESINC — AGENCY AGREEMENT",
+      "n": 12
+     },
+     {
+      "name": "WELLSFARGOMORTGAGEBACKEDSECURITIES2006-6TRUST — Yield Maintenance Agreement",
+      "n": 98
+     }
+    ]
+   },
+   "unplaced": [],
+   "yes": [
+    53,
+    52,
+    90,
+    73
+   ],
+   "possible": [
+    93,
+    29,
+    23,
+    55,
+    1,
+    63,
+    62
+   ],
+   "no": [
+    36,
+    21,
+    12,
+    98
+   ]
+  }
+ },
+ {
+  "pass": 1,
+  "id": "both-post2010-nosolicit",
+  "claims": {
+   "count": 10,
+   "names": {
+    "yes": [
+     {
+      "name": "Theravance Biopharma UK Limited and Brett Haumann — Theravance Biopharma, Inc. Service Agreement",
+      "n": 93
+     },
+     {
+      "name": "TA Technologies, Inc. and Taronis Technologies, Inc. — Joint Venture Agreement",
+      "n": 13
+     },
+     {
+      "name": "InfinixSoft Global LLC and Clickstream Corporation — Development Agreement",
+      "n": 19
+     },
+     {
+      "name": "Coral Gold Resources Ltd. and Intermark Capital Corp. — Consulting Agreement",
+      "n": 21
+     },
+     {
+      "name": "Farids & Co. LLC, Edible Arrangements, LLC, and Rocky Mountain Chocolate Factory, Inc. — Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Bioeq IP AG and Coherus BioSciences, Inc. — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Quaker Chemical Corporation; Gulf Houghton Lubricants Ltd.; Gulf Oil International Limited; GOCL Corporation Limited; Gulf Oil Lubricants India, Ltd. — Non Competition and Non Solicitation Agreement",
+      "n": 73
+     },
+     {
+      "name": "Elephant Talk Communication B.V. d/b/a Elephant Mobile Services and Dev Datamatrix S.L. — Development Agreement",
+      "n": null
+     },
+     {
+      "name": "EDGE Communications Solutions, LLC and FTE Networks, Inc. — Strategic Alliance Agreement",
+      "n": 33
+     },
+     {
+      "name": "Leclanché S.A. and Oak Ridge Energy Technologies, Inc. — Joint Development and Marketing Agreement",
+      "n": 50
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "Elephant Talk Communication B.V. d/b/a Elephant Mobile Services and Dev Datamatrix S.L. — Development Agreement",
+     "why": "ties: 16, 33",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    }
+   ],
+   "yes": [
+    93,
+    13,
+    19,
+    21,
+    80,
+    20,
+    73,
+    33,
+    50
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "or-nosolicit-rofr",
+  "claims": {
+   "count": 16,
+   "names": {
+    "yes": [
+     {
+      "name": "Quaker Oats Company; PepsiCo, Inc.; Pepsi-Cola Metropolitan Bottling Company, Inc. — Agreement and Plan of Merger",
+      "n": 73
+     },
+     {
+      "name": "Bioeq IP AG; Coherus BioSciences, Inc. — Development Commercialization Agreement",
+      "n": 20
+     },
+     {
+      "name": "Benchmark Builders, Inc.; FTE Networks, Inc.; CrossLayer, Inc. — Intellectual Property and Technology License Agreement",
+      "n": null
+     },
+     {
+      "name": "Theravance Biopharma US, Inc.; Edinburgh Pharmaceutical Processes Limited — Service Agreement",
+      "n": 93
+     },
+     {
+      "name": "Oriental Financial Group Inc.; Metavante Corporation — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "Recharge A/S and Leclanché S.A. — Share Purchase Agreement",
+      "n": 50
+     },
+     {
+      "name": "PHL Variable Insurance Company; Phoenix Life Insurance Company; Phoenix Equity Planning Corporation; Investors Capital Corporation — Strategic Alliance Agreement",
+      "n": 69
+     },
+     {
+      "name": "Sparkling Bubbles, Inc.; Aquasition Corp. — Strategic Alliance Agreement",
+      "n": 86
+     },
+     {
+      "name": "Coral Gold Resources Ltd.; Intermark Capital Corp. — Consulting Agreement",
+      "n": 21
+     },
+     {
+      "name": "Kubient, Inc.; The Associated Press — Master Services Agreement",
+      "n": 49
+     },
+     {
+      "name": "Rocky Mountain Chocolate Factory, Inc.; Farids & Co. LLC; Edible Arrangements, LLC — Strategic Alliance Agreement",
+      "n": 80
+     },
+     {
+      "name": "Link Plus Corporation; Axiometric, LLC — Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "Snap Technologies; United Airlines, Inc. — Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "Ford Motor Media, a division of J. Walter Thompson; iVillage, Inc. — Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "Beijing Baidu Netcom Science and Technology Co., Ltd.; China Online Housing (Hong Kong) Co., Ltd.; Beijing Yisheng Leju Information Services Co., Ltd. — Internet Channel Cooperation Agreement",
+      "n": 51
+     },
+     {
+      "name": "Xi'an Zhonghong New Energy Technology Co., Ltd.; Boxing County Chengli Gas Supply Co., Ltd. — Cooperation Agreement",
+      "n": 18
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "Benchmark Builders, Inc.; FTE Networks, Inc.; CrossLayer, Inc. — Intellectual Property and Technology License Agreement",
+     "why": "ties: 16, 30, 48, 99",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    }
+   ],
+   "yes": [
+    73,
+    20,
+    93,
+    63,
+    50,
+    69,
+    86,
+    21,
+    49,
+    80,
+    53,
+    24,
+    46,
+    51,
+    18
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "party",
+  "claims": {
+   "count": 2,
+   "names": {
+    "yes": [
+     {
+      "name": "Beijing Baidu Netcom Science and Technology Co., Ltd. / China Online Housing (Hong Kong) Co., Ltd. / Beijing Yisheng Leju Information Services Co., Ltd. — Internet Channel Cooperation Agreement",
+      "n": 51
+     },
+     {
+      "name": "Beijing SINA Internet Information Service Co., Ltd. / Beijing Yisheng Leju Information Services Co., Ltd. — Confidential Domain Name and Content License Agreement",
+      "n": 17
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    51,
+    17
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "type-hosting",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "QuantumGroupIncFl — Hosting Agreement",
+      "n": 74
+     },
+     {
+      "name": "HealthGate — Hosting and Management Agreement",
+      "n": 40
+     },
+     {
+      "name": "Corio — License and Hosting Agreement",
+      "n": 22
+     }
+    ],
+    "possible": [
+     {
+      "name": "Invenda Corp — Co-Branding Agreement",
+      "n": 44
+     },
+     {
+      "name": "TheGlobeCom Inc — Co-Branding Agreement",
+      "n": 92
+     },
+     {
+      "name": "Paperexchange Com Inc — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "iVillage Inc — Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "Clickstream Corp — Development Agreement",
+      "n": 19
+     },
+     {
+      "name": "OFG Bancorp — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "Oasys Mobile Inc — Outsourcing Agreement",
+      "n": 62
+     },
+     {
+      "name": "Freecook — Website Design, Development and Hosting Agreement",
+      "n": 31
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    74,
+    40,
+    22
+   ],
+   "possible": [
+    44,
+    92,
+    67,
+    46,
+    19,
+    63,
+    62,
+    31
+   ],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "threshold-notice60",
+  "claims": {
+   "count": 6,
+   "names": {
+    "yes": [
+     {
+      "name": "Oriental Financial Group Inc.; Metavante Corporation — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "Virtual Item Processing Systems, Inc.; Brokers National Life Assurance Company — Outsourcing Agreement",
+      "n": 11
+     },
+     {
+      "name": "Organic Preparations Inc.; Agape ATP International Holding Limited — Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "Todos Medical Ltd.; Care G. B. Plus Ltd. — Marketing Agreement, Reseller Agreement",
+      "n": 95
+     }
+    ],
+    "possible": [
+     {
+      "name": "iMedicor, Inc.; USA Managed Care Organization / USA MCO — Strategic Alliance Agreement",
+      "n": 42
+     }
+    ],
+    "no": [
+     {
+      "name": "Vayyar Imaging Ltd.; Inde Living Holdings, Inc. — Reseller Agreement",
+      "n": 39
+     }
+    ]
+   },
+   "unplaced": [],
+   "yes": [
+    63,
+    11,
+    2,
+    95
+   ],
+   "possible": [
+    42
+   ],
+   "no": [
+    39
+   ]
+  }
+ },
+ {
+  "pass": 1,
+  "id": "absent-1",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "absent-2",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-noncompete-or-exclusivity",
+  "claims": {
+   "count": 17,
+   "names": {
+    "yes": [
+     {
+      "name": "Quaker Chemical Corporation — Non Competition and Non Solicitation Agreement",
+      "n": 73
+     },
+     {
+      "name": "PaperexchangeComInc — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "LifewayFoodsInc — Endorsement Agreement",
+      "n": 52
+     },
+     {
+      "name": "OFGBANCORP — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "STAMPSCOMINC — Sponsorship Agreement",
+      "n": 88
+     },
+     {
+      "name": "NETGROCERINC — Sponsorship Agreement",
+      "n": 59
+     },
+     {
+      "name": "IVILLAGEINC — Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "EmbarkComInc — Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "LECLANCHÉ S.A. — Joint Development and Marketing Agreement",
+      "n": 50
+     },
+     {
+      "name": "LOGANSROADHOUSEINC — Sponsorship Agreement",
+      "n": 54
+     },
+     {
+      "name": "LinkPlusCorp — Affiliate Agreement",
+      "n": 53
+     },
+     {
+      "name": "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC — Distributor Agreement",
+      "n": 66
+     },
+     {
+      "name": "NEOMEDIATECHNOLOGIESINC — Distributor Agreement",
+      "n": 58
+     },
+     {
+      "name": "InvendaCorp — Co-Branding Agreement",
+      "n": 44
+     },
+     {
+      "name": "TheglobeComInc — Co-Branding Agreement",
+      "n": 92
+     },
+     {
+      "name": "BONTONSTORESINC — Agency Agreement",
+      "n": 12
+     },
+     {
+      "name": "THERAVANCEBIOPHARMA,INC — Service Agreement",
+      "n": 93
+     }
+    ],
+    "possible": [
+     {
+      "name": "TEARDROPGOLFCO — Endorsement Agreement",
+      "n": 91
+     },
+     {
+      "name": "KUBIENT,INC — Master Campaign Services Agreement",
+      "n": 49
+     },
+     {
+      "name": "POSITIVEIDCORP — Manufacturing Agreement",
+      "n": null
+     },
+     {
+      "name": "CHINARECYCLINGENERGYCORP — Equipment Lease Agreement",
+      "n": 18
+     },
+     {
+      "name": "KU6MEDIACO,LTD — Exclusive Advertising Agency Agreement",
+      "n": null
+     }
+    ],
+    "no": [
+     {
+      "name": "NICELTD — Outsourcing Agreement",
+      "n": 61
+     },
+     {
+      "name": "CORIOINC — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "SPARKLINGSPRINGWATERHOLDINGSLTD — Software License and Maintenance Agreement",
+      "n": 86
+     },
+     {
+      "name": "OMINTO,INC — Reseller Agreement",
+      "n": 64
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "possible",
+     "name": "POSITIVEIDCORP — Manufacturing Agreement",
+     "why": "ties: 1, 9, 60, 96",
+     "outside_folder": [
+      "POSITIVEIDCORP_11_15_2011-EX-10.1-MANUFACTURING AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "possible",
+     "name": "KU6MEDIACO,LTD — Exclusive Advertising Agency Agreement",
+     "why": "ties: 8, 12",
+     "outside_folder": [
+      "KU6MEDIACO,LTD_04_26_2011-EX-4.20-EXCLUSIVE ADVERTISING AGENCY AGREEMENT.PDF"
+     ]
+    }
+   ],
+   "yes": [
+    73,
+    67,
+    52,
+    63,
+    88,
+    59,
+    46,
+    24,
+    50,
+    54,
+    53,
+    66,
+    58,
+    44,
+    92,
+    12,
+    93
+   ],
+   "possible": [
+    91,
+    49,
+    18
+   ],
+   "no": [
+    61,
+    22,
+    86,
+    64
+   ]
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-law-outside-us",
+  "claims": {
+   "count": 23,
+   "names": {
+    "yes": [
+     {
+      "name": "SouthernStarEnergyInc — Affiliate Agreement",
+      "n": 85
+     },
+     {
+      "name": "THERAVANCEBIOPHARMA, INC — SERVICE AGREEMENT",
+      "n": 93
+     },
+     {
+      "name": "INTECSOFT-POWERNETINC — LICENSE AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "PEREGRINEPHARMACEUTICALSINC — ASSIGNMENT AND REVENUE SHARING AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "PEREGRINEPHARMACEUTICALSINC — ASSIGNMENT AND REVENUE SHARING AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "QIWI — COOPERATION AGREEMENT",
+      "n": 72
+     },
+     {
+      "name": "HEALTHGATEDATACORP — HOSTING AND MANAGEMENT AGREEMENT",
+      "n": 40
+     },
+     {
+      "name": "AgapeAtpCorp — Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "ChinaRealEstateInformationCorp — License Agreement",
+      "n": 17
+     },
+     {
+      "name": "LEJUHOLDINGSLTD — CONTRACT FOR ADVERTISING INVENTORY MANAGEMENT PLATFORM",
+      "n": 51
+     },
+     {
+      "name": "TodosMedicalLtd — Development Agreement",
+      "n": 95
+     },
+     {
+      "name": "NICE Ltd. — Share Purchase Agreement",
+      "n": 61
+     },
+     {
+      "name": "NICELTD — OUTSOURCING AGREEMENT",
+      "n": 61
+     },
+     {
+      "name": "LeclancheSA — Development Agreement",
+      "n": 50
+     },
+     {
+      "name": "ADVENTRXPHARMACEUTICALSINC — PRODUCT DEVELOPMENT AND LICENSE AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "CORTEXPHARMACEUTICALSINCDE — SERVICES AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "JDSUNIPHASECORP — ASSET PURCHASE AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "ENTRUSTINC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 27
+     },
+     {
+      "name": "MERCHANTSONEWASSETSECURITIZATIONIILLC — ISDA Master Agreement",
+      "n": null
+     },
+     {
+      "name": "SPARKLINGSPRINGWATERHOLDINGSLTD — SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+      "n": 86
+     },
+     {
+      "name": "SKYPEOPLEFRUITJUICEINC — DISTRIBUTORSHIP AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "OnlineYellowPagesInc — Manufacturing Agreement_ Supply Agreement",
+      "n": null
+     }
+    ],
+    "possible": [
+     {
+      "name": "INTERSECTENT, INC — SUPPLY AGREEMENT",
+      "n": 43
+     },
+     {
+      "name": "CoherusBiosciencesInc — Development Agreement",
+      "n": 20
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "INTECSOFT-POWERNETINC — LICENSE AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "PEREGRINEPHARMACEUTICALSINC — ASSIGNMENT AND REVENUE SHARING AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "PEREGRINEPHARMACEUTICALSINC — ASSIGNMENT AND REVENUE SHARING AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "ADVENTRXPHARMACEUTICALSINC — PRODUCT DEVELOPMENT AND LICENSE AGREEMENT",
+     "why": "ties: 77, 78",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "CORTEXPHARMACEUTICALSINCDE — SERVICES AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "JDSUNIPHASECORP — ASSET PURCHASE AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "MERCHANTSONEWASSETSECURITIZATIONIILLC — ISDA Master Agreement",
+     "why": "ties: 49, 98",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "SKYPEOPLEFRUITJUICEINC — DISTRIBUTORSHIP AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "OnlineYellowPagesInc — Manufacturing Agreement_ Supply Agreement",
+     "why": "ties: 1, 9, 60, 96",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    }
+   ],
+   "yes": [
+    85,
+    93,
+    72,
+    40,
+    2,
+    17,
+    51,
+    95,
+    61,
+    50,
+    27,
+    86
+   ],
+   "possible": [
+    43,
+    20
+   ],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-auto-renewal",
+  "claims": {
+   "count": 13,
+   "names": {
+    "yes": [
+     {
+      "name": "TODOSMEDICALLTD — Marketing Agreement / Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC — Distributor Agreement",
+      "n": 66
+     },
+     {
+      "name": "MIDDLEBROOKPHARMACEUTICALS,INC — Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "CORIOINC — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "NICELTD — Outsourcing Agreement",
+      "n": 61
+     },
+     {
+      "name": "OFGBANCORP — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "Paperexchange Com Inc — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "HealthcareIntegratedTechnologiesInc — Reseller Agreement",
+      "n": 39
+     },
+     {
+      "name": "EmeraldHealthBioceuticalsInc — Development Agreement",
+      "n": 25
+     },
+     {
+      "name": "CoherusBiosciencesInc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "AgapeAtpCorp — Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "STWRESOURCESHOLDINGCORP — Cooperation Agreement",
+      "n": 89
+     },
+     {
+      "name": "BNLFINANCIALCORP — Outsourcing Agreement",
+      "n": 11
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    95,
+    66,
+    56,
+    22,
+    61,
+    63,
+    67,
+    39,
+    25,
+    20,
+    2,
+    89,
+    11
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-arbitration",
+  "claims": {
+   "count": 19,
+   "names": {
+    "yes": [
+     {
+      "name": "QIWI — Cooperation Agreement",
+      "n": 72
+     },
+     {
+      "name": "NEOMEDIATECHNOLOGIESINC — Distributor Agreement",
+      "n": 58
+     },
+     {
+      "name": "BNLFINANCIALCORP — Outsourcing Agreement",
+      "n": 11
+     },
+     {
+      "name": "ChinaRealEstateInformationCorp — Content License Agreement",
+      "n": 17
+     },
+     {
+      "name": "GLOBALTECHNOLOGIESLTD — Consulting Agreement",
+      "n": 36
+     },
+     {
+      "name": "EmeraldHealthBioceuticalsInc — Development Agreement",
+      "n": 25
+     },
+     {
+      "name": "PaperexchangeComInc — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "InvendaCorp — Co-Branding Agreement",
+      "n": 44
+     },
+     {
+      "name": "CARDAX,INC — Collaboration Agreement",
+      "n": 14
+     },
+     {
+      "name": "TodosMedicalLtd — Marketing Agreement; Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "StaarSurgicalCompany — Distributor Agreement",
+      "n": 87
+     },
+     {
+      "name": "AgapeATP Corp — Service Agreement",
+      "n": 2
+     },
+     {
+      "name": "MIDDLEBROOKPHARMACEUTICALS,INC — Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "RemarkHoldingsInc — License Agreement",
+      "n": 76
+     },
+     {
+      "name": "NETGROCERYCOM — Sponsorship Agreement",
+      "n": null
+     },
+     {
+      "name": "PHLVARIABLEINSURANCECO — Sale and Purchase Agreement",
+      "n": 69
+     },
+     {
+      "name": "CORIOINC — Hosting and Management Services Agreement",
+      "n": 40
+     },
+     {
+      "name": "CoherusBiosciencesInc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "BorrowMoneyComInc — Service Agreement",
+      "n": 13
+     }
+    ],
+    "possible": [
+     {
+      "name": "FIDELITYNATIONALINFORMATIONSERVICES,INC — Services Agreement",
+      "n": 30
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "NETGROCERYCOM — Sponsorship Agreement",
+     "why": "ties: 5, 32, 46, 54, 59, 88",
+     "outside_folder": [
+      "NETGROCERYCOM_10_22_1999-EX-10.3-SPONSORSHIP AGREEMENT.PDF"
+     ]
+    }
+   ],
+   "yes": [
+    72,
+    58,
+    11,
+    17,
+    36,
+    25,
+    67,
+    44,
+    14,
+    95,
+    87,
+    2,
+    56,
+    76,
+    69,
+    40,
+    20,
+    13
+   ],
+   "possible": [
+    30
+   ],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-confidentiality",
+  "claims": {
+   "count": 73,
+   "names": {
+    "yes": [
+     {
+      "name": "ACCELR8TECHNOLOGYCORP — CO-DEVELOPMENT AND MARKETING AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "AimmuneTherapeuticsInc — Development Agreement",
+      "n": 3
+     },
+     {
+      "name": "AlliedEsportsEntertainmentInc — Content License Agreement",
+      "n": 4
+     },
+     {
+      "name": "ArtaraTherapeuticsInc — License Agreement",
+      "n": 6
+     },
+     {
+      "name": "AUMBIOTECHNOLOGIESINC — COLLABORATION AGREEMENT",
+      "n": 14
+     },
+     {
+      "name": "BallantyneStrongInc — Development Agreement",
+      "n": null
+     },
+     {
+      "name": "BellringBrandsInc — Manufacturing Agreement",
+      "n": 9
+     },
+     {
+      "name": "BloomEnergyCorp — Maintenance Agreement",
+      "n": 10
+     },
+     {
+      "name": "BNLFINANCIALCORP — OUTSOURCING AGREEMENT",
+      "n": 11
+     },
+     {
+      "name": "BORROWMONEYCOM,INC — JOINT VENTURE AGREEMENT",
+      "n": 13
+     },
+     {
+      "name": "CARDAX,INC — COLLABORATION AGREEMENT",
+      "n": 14
+     },
+     {
+      "name": "CARRIZOOIL&GASINC — PROMOTION AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "CerenceInc — Intellectual Property Agreement",
+      "n": 16
+     },
+     {
+      "name": "ChinaRealEstateInformationCorp — Content License Agreement",
+      "n": 17
+     },
+     {
+      "name": "CincinnatiBellInc — Intellectual Property Agreement",
+      "n": null
+     },
+     {
+      "name": "ClickstreamCorp — Development Agreement",
+      "n": 19
+     },
+     {
+      "name": "CoherusBiosciencesInc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "CORALGOLDRESOURCES,LTD — CONSULTING AGREEMENT",
+      "n": 21
+     },
+     {
+      "name": "CORIOINC — LICENSE AND HOSTING AGREEMENT",
+      "n": 22
+     },
+     {
+      "name": "CROSSTEXENERGYLP — OPERATIONS AND MAINTENANCE AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "CUROGROUPHOLDINGSCORP — SERVICING AGREEMENT",
+      "n": 23
+     },
+     {
+      "name": "EmbarkComInc — Co-Branding Agreement",
+      "n": 24
+     },
+     {
+      "name": "EmeraldHealthBioceuticalsInc — Development Agreement",
+      "n": 25
+     },
+     {
+      "name": "ENERGYXXILTD — Transportation AGREEMENT",
+      "n": 26
+     },
+     {
+      "name": "EtonPharmaceuticalsInc — Development Agreement",
+      "n": 28
+     },
+     {
+      "name": "FIDELITYNATIONALINFORMATIONSERVICES,INC — INTELLECTUAL PROPERTY AGREEMENT",
+      "n": 30
+     },
+     {
+      "name": "FreezeTagInc — Sponsorship Agreement",
+      "n": 32
+     },
+     {
+      "name": "FRESHMARKET,INC — SERVICE AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "FTENETWORKS,INC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 33
+     },
+     {
+      "name": "GpaqAcquisitionHoldingsInc — Service Agreement",
+      "n": 38
+     },
+     {
+      "name": "HealthcareIntegratedTechnologiesInc — Reseller Agreement",
+      "n": 39
+     },
+     {
+      "name": "HEALTHGATEDATACORP — HOSTING AND MANAGEMENT AGREEMENT",
+      "n": 40
+     },
+     {
+      "name": "ICORECONNECTINC — Strategic Alliance Agreement",
+      "n": 42
+     },
+     {
+      "name": "INTERSECTENT,INC — SUPPLY AGREEMENT",
+      "n": 43
+     },
+     {
+      "name": "InvendaCorp — Co-Branding Agreement",
+      "n": 44
+     },
+     {
+      "name": "IOVANCEBIOTHERAPEUTICS,INC — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 45
+     },
+     {
+      "name": "IVILLAGEINC — SPONSORSHIP AGREEMENT",
+      "n": 46
+     },
+     {
+      "name": "KimballInternationalInc — Service Agreement",
+      "n": null
+     },
+     {
+      "name": "KINGPHARMACEUTICALSINC — PROMOTION AGREEMENT",
+      "n": 47
+     },
+     {
+      "name": "LECLANCHÉ S.A. — JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+      "n": 50
+     },
+     {
+      "name": "LEJUHOLDINGSLTD — INTERNET CHANNEL COOPERATION AGREEMENT",
+      "n": 51
+     },
+     {
+      "name": "LifewayFoodsInc — Endorsement Agreement",
+      "n": 52
+     },
+     {
+      "name": "LOGANSROADHOUSEINC — SPONSORSHIP AGREEMENT",
+      "n": 54
+     },
+     {
+      "name": "MIDDLEBROOKPHARMACEUTICALS,INC — PROMOTION AGREEMENT",
+      "n": 56
+     },
+     {
+      "name": "MITEKSYSTEMS,INC — TRANSITION SERVICES AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "NETGROCERINC — SPONSORSHIP AGREEMENT",
+      "n": 59
+     },
+     {
+      "name": "NICELTD — OUTSOURCING AGREEMENT",
+      "n": 61
+     },
+     {
+      "name": "OASYSMOBILE,INC — OUTSOURCING AGREEMENT",
+      "n": 62
+     },
+     {
+      "name": "OFGBANCORP — OUTSOURCING AGREEMENT",
+      "n": 63
+     },
+     {
+      "name": "OMINTO,INC — RESELLER AGREEMENT",
+      "n": 64
+     },
+     {
+      "name": "OuterwallInc — Content License Agreement",
+      "n": null
+     },
+     {
+      "name": "PaperexchangeComInc — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "PARKCITYGROUPINC — COOPERATION AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "PHLVARIABLEINSURANCECOCT — STRATEGIC ALLIANCE AGREEMENT",
+      "n": 69
+     },
+     {
+      "name": "QIWI — COOPERATION AGREEMENT",
+      "n": 72
+     },
+     {
+      "name": "QuantumGroupIncFl — Hosting Agreement",
+      "n": 74
+     },
+     {
+      "name": "Quaker Chemical Corporation — NON COMPETITION AND NON SOLICITATION AGREEMENT",
+      "n": 73
+     },
+     {
+      "name": "RadiSysCorp — Intellectual Property Agreement",
+      "n": null
+     },
+     {
+      "name": "RangeResourcesLouisianaInc — Transportation Agreement",
+      "n": 75
+     },
+     {
+      "name": "RemarkHoldingsInc — Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "ReynoldsConsumerProductsInc — Supply Agreement",
+      "n": 77,
+      "by_hand": true
+     },
+     {
+      "name": "ReynoldsConsumerProductsInc — Service Agreement",
+      "n": 78,
+      "by_hand": true
+     },
+     {
+      "name": "SEASPINEHOLDINGSCORP — SUPPLY AGREEMENT",
+      "n": 82
+     },
+     {
+      "name": "SIGATECHNOLOGIESINC — Supply Agreement",
+      "n": null
+     },
+     {
+      "name": "SPARKLINGSPRINGWATERHOLDINGSLTD — SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+      "n": 86
+     },
+     {
+      "name": "StaarSurgicalCompany — Distributor Agreement",
+      "n": 87
+     },
+     {
+      "name": "STAMPSCOMINC — SPONSORSHIP AGREEMENT",
+      "n": 88
+     },
+     {
+      "name": "SUMMAFOURINC — SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+      "n": 90
+     },
+     {
+      "name": "THERAVANCEBIOPHARMA,INC — SERVICE AGREEMENT",
+      "n": 93
+     },
+     {
+      "name": "TodosMedicalLtd — Marketing Agreement; Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "UpjohnInc — Manufacturing Agreement; Supply Agreement",
+      "n": 96
+     },
+     {
+      "name": "VERRAMOBILITYCORP — SUPPLY AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "WebmdHealthCorp — Content License Agreement",
+      "n": 97
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "ACCELR8TECHNOLOGYCORP — CO-DEVELOPMENT AND MARKETING AGREEMENT",
+     "why": "ties: 50, 55, 95",
+     "outside_folder": [
+      "ACCELR8TECHNOLOGYCORP_08_28_2017-EX-10.1-CO-DEVELOPMENT AND MARKETING AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "BallantyneStrongInc — Development Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "BallantyneStrongInc_20200310_10-K_EX-10.15_12041408_EX-10.15_Development Agreement.pdf"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "CARRIZOOIL&GASINC — PROMOTION AGREEMENT",
+     "why": "ties: 47, 54, 56",
+     "outside_folder": [
+      "CARRIZOOIL&GASINC_11_12_2009-EX-10.1-PROMOTION AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "CincinnatiBellInc — Intellectual Property Agreement",
+     "why": "ties: 16, 30, 48, 99",
+     "outside_folder": [
+      "CincinnatiBellInc_20170517_8-K_EX-10.2_10713446_EX-10.2_Intellectual Property Agreement.pdf"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "CROSSTEXENERGYLP — OPERATIONS AND MAINTENANCE AGREEMENT",
+     "why": "ties: 10, 15, 41, 86, 90, 98",
+     "outside_folder": [
+      "CROSSTEXENERGYLP_03_03_2014-EX-10.33-OPERATIONS AND MAINTENANCE AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "FRESHMARKET,INC — SERVICE AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "FRESHMARKET,INC_03_14_2013-EX-10.33-SERVICE AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "KimballInternationalInc — Service Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "KimballInternationalInc_20141106_10-Q_EX-10.a_8766834_EX-10.a_Service Agreement.pdf"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "MITEKSYSTEMS,INC — TRANSITION SERVICES AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "MITEKSYSTEMS,INC_05_05_2020-EX-10.4-TRANSITION SERVICES AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "OuterwallInc — Content License Agreement",
+     "why": "ties: 4, 17, 37, 76, 97",
+     "outside_folder": [
+      "OuterwallInc_20140701_8-K_EX-10.1_8602057_EX-10.1_Content License Agreement.pdf"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "PARKCITYGROUPINC — COOPERATION AGREEMENT",
+     "why": "ties: 18, 51, 72, 89",
+     "outside_folder": [
+      "PARKCITYGROUPINC_05_15_2014-EX-10.2-COOPERATION AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "RadiSysCorp — Intellectual Property Agreement",
+     "why": "ties: 16, 30, 48, 99",
+     "outside_folder": [
+      "RadiSysCorp_20110124_8-K_EX-10.1_5800156_EX-10.1_Intellectual Property Agreement.pdf"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "ReynoldsConsumerProductsInc — Supply Agreement",
+     "why": "ties: 77, 78",
+     "settled_by_claude": [
+      77
+     ],
+     "why_settled": "the answer lists ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_..._Supply Agreement.pdf"
+    },
+    {
+     "list": "yes",
+     "name": "ReynoldsConsumerProductsInc — Service Agreement",
+     "why": "ties: 77, 78",
+     "settled_by_claude": [
+      78
+     ],
+     "why_settled": "the answer lists ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_..._Service Agreement.pdf"
+    },
+    {
+     "list": "yes",
+     "name": "SIGATECHNOLOGIESINC — Supply Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "SIGATECHNOLOGIESINC_20200507_10-Q_EX-10.2_12136039_EX-10.2_Supply Agreement.pdf"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "VERRAMOBILITYCORP — SUPPLY AGREEMENT",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "VERRAMOBILITYCORP_05_06_2020-EX-10.1-SUPPLY AGREEMENT.PDF"
+     ]
+    }
+   ],
+   "yes": [
+    3,
+    4,
+    6,
+    14,
+    9,
+    10,
+    11,
+    13,
+    16,
+    17,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    28,
+    30,
+    32,
+    33,
+    38,
+    39,
+    40,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    50,
+    51,
+    52,
+    54,
+    56,
+    59,
+    61,
+    62,
+    63,
+    64,
+    67,
+    69,
+    72,
+    74,
+    73,
+    75,
+    76,
+    82,
+    86,
+    87,
+    88,
+    90,
+    93,
+    95,
+    96,
+    97,
+    77,
+    78
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-agreement-confidential",
+  "claims": {
+   "count": null,
+   "names": {
+    "yes": [
+     {
+      "name": "FreezeTag, Inc. - DEVELOPMENT AGREEMENT",
+      "n": 32
+     },
+     {
+      "name": "LECLANCHÉ S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+      "n": 50
+     },
+     {
+      "name": "CHINAEDUCATIONRESOURCESINC_11_29_2019-EX-4.20-STRATEGIC ALLIANCE AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT",
+      "n": 93
+     },
+     {
+      "name": "ETONPHARMACEUTICALS,INC_11_14_2017-EX-10.2-LICENSE AGREEMENT",
+      "n": 28
+     },
+     {
+      "name": "INTERSECTENT,INC_05_11_2020-EX-10.1-SUPPLY AGREEMENT",
+      "n": 43
+     },
+     {
+      "name": "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement",
+      "n": 38
+     },
+     {
+      "name": "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement",
+      "n": 42
+     },
+     {
+      "name": "SUMMAFOURINC_06_19_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT",
+      "n": 90
+     },
+     {
+      "name": "COHERUSBIOSCIENCESINC_02_06_2020-EX-10.14-LICENSE DEVELOPMENT AGREEMENT",
+      "n": 20
+     },
+     {
+      "name": "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT",
+      "n": 59
+     },
+     {
+      "name": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT",
+      "n": 82
+     },
+     {
+      "name": "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement",
+      "n": 44
+     },
+     {
+      "name": "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT",
+      "n": 88
+     },
+     {
+      "name": "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement",
+      "n": 68
+     },
+     {
+      "name": "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement",
+      "n": 24
+     }
+    ],
+    "possible": [
+     {
+      "name": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement",
+      "n": 52
+     },
+     {
+      "name": "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement",
+      "n": 3
+     },
+     {
+      "name": "CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT",
+      "n": 21
+     },
+     {
+      "name": "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement",
+      "n": 92
+     }
+    ],
+    "no": [
+     {
+      "name": "Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT",
+      "n": 73
+     },
+     {
+      "name": "Clickstream Corp - ENDORSEMENT AGREEMENT",
+      "n": null
+     },
+     {
+      "name": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
+      "n": 6
+     },
+     {
+      "name": "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT",
+      "n": 45
+     },
+     {
+      "name": "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",
+      "n": 33
+     },
+     {
+      "name": "PHLVARIABLEINSURANCECOCT_08_17_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT",
+      "n": 69
+     },
+     {
+      "name": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+      "n": 47
+     },
+     {
+      "name": "WOMENSGOLFUNLIMITEDINC_10_16_1997-EX-10.10-ENDORSEMENT AGREEMENT",
+      "n": 99
+     },
+     {
+      "name": "TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT",
+      "n": 91
+     },
+     {
+      "name": "MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement",
+      "n": 57
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "CHINAEDUCATIONRESOURCESINC_11_29_2019-EX-4.20-STRATEGIC ALLIANCE AGREEMENT",
+     "why": "ties: 2, 4, 9, 16, 28, 35, 39, 60, 77, 80, 81, 94, 95",
+     "outside_folder": [
+      "CHINAEDUCATIONRESOURCESINC_11_29_2019-EX-4.20-STRATEGIC ALLIANCE AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "no",
+     "name": "Clickstream Corp - ENDORSEMENT AGREEMENT",
+     "why": "ties: 19, 52, 68, 91, 94, 99",
+     "outside_folder": [
+      "and Clickstream Corp - ENDORSEMENT AGREEMENT.PDF"
+     ]
+    }
+   ],
+   "yes": [
+    32,
+    50,
+    93,
+    28,
+    43,
+    38,
+    42,
+    90,
+    20,
+    59,
+    82,
+    44,
+    88,
+    68,
+    24
+   ],
+   "possible": [
+    52,
+    3,
+    21,
+    92
+   ],
+   "no": [
+    73,
+    6,
+    45,
+    33,
+    69,
+    47,
+    99,
+    91,
+    57
+   ]
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-indemnification",
+  "claims": {
+   "count": 69,
+   "names": {
+    "yes": [
+     {
+      "name": "IBM — Custom Software Development Agreement",
+      "n": null
+     },
+     {
+      "name": "Facebook Inc — Community Services Agreement",
+      "n": null
+     },
+     {
+      "name": "Quadrant4 Systems Corp — Software License Agreement",
+      "n": null
+     },
+     {
+      "name": "ServiceNow, Inc — Distributor Agreement",
+      "n": null
+     },
+     {
+      "name": "FT Labs, Inc — Marketing Agreement",
+      "n": null
+     },
+     {
+      "name": "Widepoint Corp — Marketing Agreement",
+      "n": null
+     },
+     {
+      "name": "800 Flowers Com Inc — Customer Service Agreement",
+      "n": null
+     },
+     {
+      "name": "MMCOS, Inc — Software License and Maintenance Agreement",
+      "n": null
+     },
+     {
+      "name": "Aware Inc MA — Software License Agreement",
+      "n": null
+     },
+     {
+      "name": "OFG Bancorp — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "Oasys Mobile, Inc — Outsourcing Agreement",
+      "n": 62
+     },
+     {
+      "name": "Summa Four Inc — Software License and Maintenance Agreement",
+      "n": 90
+     },
+     {
+      "name": "Teardrop Golf Co — Marketing Agreement",
+      "n": 91
+     },
+     {
+      "name": "TheGlobe.com Inc — Software License and Maintenance Agreement",
+      "n": null
+     },
+     {
+      "name": "Remark Holdings Inc — Content License Agreement",
+      "n": 76
+     },
+     {
+      "name": "Reynolds Consumer Products Inc — Service Agreement",
+      "n": 78,
+      "by_hand": true
+     },
+     {
+      "name": "Performance Sports Group Ltd — Reseller Agreement",
+      "n": 68
+     },
+     {
+      "name": "Nice Ltd — Outsourcing Agreement",
+      "n": 61
+     },
+     {
+      "name": "Ominto, Inc — Reseller Agreement",
+      "n": 64
+     },
+     {
+      "name": "HealthGate Data Corp — Software License Agreement",
+      "n": 40
+     },
+     {
+      "name": "ICore Healthcare LLC — Software License Agreement",
+      "n": 39
+     },
+     {
+      "name": "Cardax, Inc — Marketing Agreement",
+      "n": null
+     },
+     {
+      "name": "Soupman, Inc — Software License Agreement",
+      "n": null
+     },
+     {
+      "name": "Sparkling Spring Water Holdings Ltd — Software License and Maintenance Agreement",
+      "n": 86
+     },
+     {
+      "name": "Paperexchange Com Inc — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "Her Imports — Maintenance Agreement",
+      "n": 41
+     },
+     {
+      "name": "Hemacare Corp — Supply Agreement",
+      "n": null
+     },
+     {
+      "name": "Agex Therapeutics, Inc — Supply Agreement",
+      "n": null
+     },
+     {
+      "name": "Mediwound Ltd — Supply Agreement",
+      "n": null
+     },
+     {
+      "name": "Alzamend Neuro, Inc — Sponsored Research Agreement",
+      "n": 60
+     },
+     {
+      "name": "Prophase Labs, Inc — Supply Agreement",
+      "n": 48
+     },
+     {
+      "name": "Todos Medical Ltd — Marketing Agreement; Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "Southern Star International Inc — Supply Agreement",
+      "n": 85
+     },
+     {
+      "name": "Coherus Biosciences Inc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Aimmune Therapeutics Inc — Development Agreement",
+      "n": 3
+     },
+     {
+      "name": "Bellring Brands Inc — Supply Agreement",
+      "n": 9
+     },
+     {
+      "name": "Upjohn Inc — Manufacturing Agreement; Supply Agreement",
+      "n": 96
+     },
+     {
+      "name": "Intersect Ent, Inc — Supply Agreement",
+      "n": 43
+     },
+     {
+      "name": "King Pharmaceuticals Inc — Promotion Agreement",
+      "n": 47
+     },
+     {
+      "name": "Middlebrook Pharmaceuticals, Inc — Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "Mercado Libre Inc — Registration Rights Agreement",
+      "n": 99
+     },
+     {
+      "name": "Facebook Inc — Registration Rights Agreement",
+      "n": 99
+     },
+     {
+      "name": "Visa Inc — Registration Rights Agreement",
+      "n": 99
+     },
+     {
+      "name": "Palo Alto Networks Inc — Investors Rights Agreement",
+      "n": 69
+     },
+     {
+      "name": "Sohu Com Inc — Investors Rights Agreement",
+      "n": 69
+     },
+     {
+      "name": "Regis Corp — Services Agreement",
+      "n": null
+     },
+     {
+      "name": "Antero Midstream Partners LP — Services Agreement",
+      "n": null
+     },
+     {
+      "name": "Alaska Communications Systems Group Inc — Services Agreement",
+      "n": null
+     },
+     {
+      "name": "Semler Scientific, Inc — Manufacturing Agreement",
+      "n": null
+     },
+     {
+      "name": "Grocery Outlet Holding Corp — Services Agreement",
+      "n": null
+     },
+     {
+      "name": "Matsson Technology Inc — Manufacturing Agreement",
+      "n": null
+     },
+     {
+      "name": "Barrett Business Services Inc — Services Agreement",
+      "n": 74
+     },
+     {
+      "name": "Boeing Co — Services Agreement",
+      "n": null
+     },
+     {
+      "name": "Novamed Inc DE — Services Agreement",
+      "n": null
+     },
+     {
+      "name": "Public Storage Inc — Property Management Agreement",
+      "n": null
+     },
+     {
+      "name": "NiSource Inc — Services Agreement",
+      "n": null
+     },
+     {
+      "name": "Pro Elite, Inc — Promotion Agreement",
+      "n": null
+     },
+     {
+      "name": "Lifeway Foods Inc — Endorsement Agreement",
+      "n": 52
+     },
+     {
+      "name": "MetLife, Inc — Remarketing Agreement",
+      "n": 55
+     },
+     {
+      "name": "Banuestrafinancial Corp — Agency Agreement",
+      "n": 8
+     }
+    ],
+    "possible": [
+     {
+      "name": "Healthcare Integrated Technologies Inc — Reseller Agreement",
+      "n": 39
+     },
+     {
+      "name": "iVillage Inc — Sponsorship Agreement",
+      "n": 46
+     },
+     {
+      "name": "Iovance Biotherapeutics, Inc — Strategic Alliance Agreement",
+      "n": 45
+     },
+     {
+      "name": "Corio Inc — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "GPAQ Acquisition Holdings Inc — Service Agreement",
+      "n": 38
+     },
+     {
+      "name": "Allied Esports Entertainment Inc — Content License Agreement",
+      "n": 4
+     },
+     {
+      "name": "Fidelity National Information Services, Inc — Intellectual Property Agreement",
+      "n": 30
+     },
+     {
+      "name": "Eton Pharmaceuticals Inc — Development Agreement",
+      "n": 28
+     },
+     {
+      "name": "Artara Therapeutics Inc — License Agreement",
+      "n": 6
+     },
+     {
+      "name": "BNL Financial Corp — Outsourcing Agreement",
+      "n": 11
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [
+    {
+     "list": "yes",
+     "name": "IBM — Custom Software Development Agreement",
+     "why": "ties: 85, 86, 90",
+     "outside_folder": [
+      "Concise coverageIBM_05_08_2001-EX-10-CUSTOM SOFTWARE DEVELOPMENT AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Facebook Inc — Community Services Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Quadrant4 Systems Corp — Software License Agreement",
+     "why": "ties: 85, 86, 90",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "ServiceNow, Inc — Distributor Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "FT Labs, Inc — Marketing Agreement",
+     "why": "ties: 50, 55, 95",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Widepoint Corp — Marketing Agreement",
+     "why": "ties: 50, 55, 95",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "800 Flowers Com Inc — Customer Service Agreement",
+     "why": "ties: 11, 13, 16, 22, 24, 27, 29, 33, 51, 56, 66, 67, 69, 73, 79, 82, 87, 88, 92",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "MMCOS, Inc — Software License and Maintenance Agreement",
+     "why": "ties: 86, 90",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Aware Inc MA — Software License Agreement",
+     "why": "ties: 85, 86, 90",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "TheGlobe.com Inc — Software License and Maintenance Agreement",
+     "why": "ties: 86, 90",
+     "outside_folder": [
+      "THEGLOBE.COMINC_12_28_1998-EX-10.3-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Reynolds Consumer Products Inc — Service Agreement",
+     "why": "ties: 77, 78",
+     "settled_by_code": [
+      78
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Cardax, Inc — Marketing Agreement",
+     "why": "ties: 50, 55, 95",
+     "outside_folder": [
+      "CARDAX,INC_02_19_2015-EX-10.3-MARKETING AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Soupman, Inc — Software License Agreement",
+     "why": "ties: 85, 86, 90",
+     "outside_folder": [
+      "SOUPMAN,INC_08_04_2015-EX-10.4-SOFTWARE LICENSE AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Hemacare Corp — Supply Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Agex Therapeutics, Inc — Supply Agreement",
+     "why": "ties: 3, 6, 34, 45",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Mediwound Ltd — Supply Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Regis Corp — Services Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Antero Midstream Partners LP — Services Agreement",
+     "why": "ties: 7, 10",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Alaska Communications Systems Group Inc — Services Agreement",
+     "why": "ties: 16, 33",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Semler Scientific, Inc — Manufacturing Agreement",
+     "why": "ties: 1, 9, 60, 96",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Grocery Outlet Holding Corp — Services Agreement",
+     "why": "ties: 2, 23, 35, 38, 39, 51, 65, 76, 78, 82, 86, 89",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Matsson Technology Inc — Manufacturing Agreement",
+     "why": "ties: 1, 9, 60, 96",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Boeing Co — Services Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Novamed Inc DE — Services Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Public Storage Inc — Property Management Agreement",
+     "why": "ties: 23, 29, 40, 66",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "NiSource Inc — Services Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    },
+    {
+     "list": "yes",
+     "name": "Pro Elite, Inc — Promotion Agreement",
+     "why": "ties: 47, 54, 56",
+     "outside_folder": [
+      "PROELITE,INC_09_14_2007-EX-10.13-PROMOTION AGREEMENT.PDF"
+     ]
+    }
+   ],
+   "yes": [
+    63,
+    62,
+    90,
+    91,
+    76,
+    68,
+    61,
+    64,
+    40,
+    39,
+    86,
+    67,
+    41,
+    60,
+    48,
+    95,
+    85,
+    20,
+    3,
+    9,
+    96,
+    43,
+    47,
+    56,
+    99,
+    69,
+    74,
+    52,
+    55,
+    8,
+    78
+   ],
+   "possible": [
+    39,
+    46,
+    45,
+    22,
+    38,
+    4,
+    30,
+    28,
+    6,
+    11
+   ],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "set-cap-on-liability",
+  "claims": {
+   "count": 15,
+   "names": {
+    "yes": [
+     {
+      "name": "OASYS MOBILE, INC — Outsourcing Agreement",
+      "n": 62
+     },
+     {
+      "name": "BNL Financial Corp — Outsourcing Agreement",
+      "n": 11
+     },
+     {
+      "name": "NetGrocer Inc — Sponsorship Agreement",
+      "n": 59
+     },
+     {
+      "name": "Summa Four Inc — Software License and Maintenance Agreement",
+      "n": 90
+     },
+     {
+      "name": "Quantum Group Inc — Hosting Agreement",
+      "n": 74
+     },
+     {
+      "name": "HealthGate Data Corp — Hosting and Management Agreement",
+      "n": 40
+     },
+     {
+      "name": "WebMD Health Corp — Content License Agreement",
+      "n": 97
+     },
+     {
+      "name": "Corio Inc — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Bloom Energy Corp — Maintenance Agreement",
+      "n": 10
+     },
+     {
+      "name": "ADMA BioManufacturing, LLC — Amendment #3 to Manufacturing Agreement",
+      "n": 1
+     },
+     {
+      "name": "Upjohn Inc — Manufacturing Agreement / Supply Agreement",
+      "n": 96
+     },
+     {
+      "name": "Todos Medical Ltd — Marketing Agreement / Reseller Agreement",
+      "n": 95
+     },
+     {
+      "name": "INTERSECT ENT, Inc — Supply Agreement",
+      "n": 43
+     },
+     {
+      "name": "Healthcare Integrated Technologies Inc — Reseller Agreement",
+      "n": 39
+     },
+     {
+      "name": "Remark Holdings Inc — Content License Agreement",
+      "n": 76
+     }
+    ],
+    "possible": [],
+    "no": [
+     {
+      "name": "Sparkling Spring Water Holdings Ltd — Software License and Maintenance Agreement",
+      "n": 86
+     },
+     {
+      "name": "QIWI — Transportation Agreement",
+      "n": null
+     },
+     {
+      "name": "Allied Esports Entertainment Inc — Content License Agreement",
+      "n": 4
+     },
+     {
+      "name": "OFG BancCorp — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "Coherus Biosciences Inc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Eton Pharmaceuticals Inc — Development Agreement",
+      "n": 28
+     },
+     {
+      "name": "Artara Therapeutics Inc — Development Agreement",
+      "n": 6
+     },
+     {
+      "name": "Genentech Holdings Inc — Distributor Agreement",
+      "n": null
+     }
+    ]
+   },
+   "unplaced": [
+    {
+     "list": "no",
+     "name": "QIWI — Transportation Agreement",
+     "why": "ties: 26, 66, 75",
+     "outside_folder": [
+      "QIWI_12_09_2013-EX-4.8-TRANSPORTATION AGREEMENT.PDF"
+     ]
+    },
+    {
+     "list": "no",
+     "name": "Genentech Holdings Inc — Distributor Agreement",
+     "why": "no roster entry has any of its words",
+     "outside_folder": [
+      "(by reading: the answer names a contract that is not among the 99)"
+     ]
+    }
+   ],
+   "yes": [
+    62,
+    11,
+    59,
+    90,
+    74,
+    40,
+    97,
+    22,
+    10,
+    1,
+    96,
+    95,
+    43,
+    39,
+    76
+   ],
+   "possible": [],
+   "no": [
+    86,
+    4,
+    63,
+    20,
+    28,
+    6
+   ]
+  }
+ },
+ {
+  "pass": 1,
+  "id": "both-texas-confidentiality",
+  "claims": {
+   "count": 4,
+   "names": {
+    "yes": [
+     {
+      "name": "ENERGYXXILTD — Transportation Agreement",
+      "n": 26
+     },
+     {
+      "name": "FTENETWORKS, INC — Strategic Alliance Agreement",
+      "n": 33
+     },
+     {
+      "name": "IOVANCE BIOTHERAPEUTICS, INC — Strategic Alliance Agreement",
+      "n": 45
+     },
+     {
+      "name": "Range Resources Louisiana Inc — Transportation Services Agreement",
+      "n": 75
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    26,
+    33,
+    45,
+    75
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "both-autorenew-warranty",
+  "claims": {
+   "count": 13,
+   "names": {
+    "yes": [
+     {
+      "name": "Organic Preparations Inc. / Agape ATP International Holding Limited — Supply Agreement",
+      "n": 2
+     },
+     {
+      "name": "WPT Enterprises, Inc. / Zynga Inc. / Zynga Game Ireland Limited — Content License Agreement",
+      "n": 4
+     },
+     {
+      "name": "Bioeq IP AG / Coherus BioSciences, Inc. — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Corio, Inc. / Commerce One, Inc. — License and Hosting Agreement",
+      "n": 22
+     },
+     {
+      "name": "Emerald Health Sciences Inc. / Emerald Health Nutraceuticals Inc. / Michael T. Murray, N.D. — Development Agreement",
+      "n": 25
+     },
+     {
+      "name": "Healthcare Integrated Technologies, Inc. / SafeSpace Health, Inc. — Reseller Agreement",
+      "n": 39
+     },
+     {
+      "name": "IMedicor, Inc. / USA Managed Care Organization — Strategic Alliance Agreement",
+      "n": 42
+     },
+     {
+      "name": "MiddleBrook Pharmaceuticals, Inc. / DoctorDirectory.com, Inc. — Promotion Agreement",
+      "n": 56
+     },
+     {
+      "name": "Oriental Financial Group Inc. / Metavante Corporation — Outsourcing Agreement",
+      "n": 63
+     },
+     {
+      "name": "International Test Systems, Inc. / Comware Technical Services — Distributor Agreement",
+      "n": 66
+     },
+     {
+      "name": "VerticalNet, Inc. / PaperExchange.com, LLC — Co-Branding Agreement",
+      "n": 67
+     },
+     {
+      "name": "PennTex North Louisiana Operating, LLC / MRD Operating LLC — Transportation Agreement",
+      "n": 75
+     },
+     {
+      "name": "Todos Medical Ltd. / Care G. B. Plus Ltd. — Marketing Agreement / Reseller Agreement",
+      "n": 95
+     }
+    ],
+    "possible": [],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    2,
+    4,
+    20,
+    22,
+    25,
+    39,
+    42,
+    56,
+    63,
+    66,
+    67,
+    75,
+    95
+   ],
+   "possible": [],
+   "no": []
+  }
+ },
+ {
+  "pass": 1,
+  "id": "both-nosolicit-agreement-confidential",
+  "claims": {
+   "count": 2,
+   "names": {
+    "yes": [
+     {
+      "name": "Coherus Biosciences Inc — Development Agreement",
+      "n": 20
+     },
+     {
+      "name": "Leclanché S.A. — Joint Development and Marketing Agreement",
+      "n": 50
+     }
+    ],
+    "possible": [
+     {
+      "name": "Kubient, Inc — Master Services Agreement",
+      "n": 49
+     }
+    ],
+    "no": []
+   },
+   "unplaced": [],
+   "yes": [
+    20,
+    50
+   ],
+   "possible": [
+    49
+   ],
+   "no": []
+  }
+ }
+]

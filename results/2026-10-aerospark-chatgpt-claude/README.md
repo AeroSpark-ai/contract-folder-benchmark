@@ -6,7 +6,7 @@ in October 2026.
 
 **We build AeroSpark.** So everything needed to check this run is here: every system's answers word for word, how each answer was read, and the code that scores them.
 
-Two more runs put the same questions to Claude's Tabular review and to NotebookLM: [all five side by side](../COMPARISON.md).
+Three more runs put the same questions to Claude's Tabular review, to NotebookLM and to Microsoft 365 Copilot's Researcher agent: [all six side by side](../COMPARISON.md).
 
 ## The result
 

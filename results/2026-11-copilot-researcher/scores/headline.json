@@ -1,0 +1,88 @@
+{
+ "aerospark": {
+  "score": 89.8,
+  "key": 576,
+  "found": 490,
+  "wrong": 24,
+  "found_with_possibles": 508,
+  "wrong_with_possibles": 29,
+  "counts_right": 4,
+  "lookups_right": 11,
+  "under_a_minute": 46,
+  "median_seconds": 10.2,
+  "total_minutes_rounded": 9.3
+ },
+ "plain_claude": {
+  "score": 85.6,
+  "key": 576,
+  "found": 463,
+  "wrong": 12,
+  "found_with_possibles": 495,
+  "wrong_with_possibles": 61,
+  "counts_right": 4,
+  "lookups_right": 11,
+  "under_a_minute": 11,
+  "median_seconds": 337.0,
+  "total_minutes_rounded": 240.5
+ },
+ "tabular": {
+  "score": 83.9,
+  "key": 576,
+  "found": 452,
+  "wrong": 23,
+  "found_with_possibles": 482,
+  "wrong_with_possibles": 23,
+  "counts_right": 4,
+  "lookups_right": 11,
+  "under_a_minute": 24,
+  "median_seconds": 42.0,
+  "total_minutes_rounded": 78.2
+ },
+ "notebooklm": {
+  "score": 83.5,
+  "key": 576,
+  "found": 438,
+  "wrong": 17,
+  "found_with_possibles": 439,
+  "wrong_with_possibles": 17,
+  "counts_right": 4,
+  "lookups_right": 11,
+  "under_a_minute": 27,
+  "median_seconds": 53.2,
+  "total_minutes_rounded": 47.7
+ },
+ "chatgpt": {
+  "score": 82.2,
+  "key": 576,
+  "found": 427,
+  "wrong": 5,
+  "found_with_possibles": 462,
+  "wrong_with_possibles": 27,
+  "counts_right": 4,
+  "lookups_right": 11,
+  "under_a_minute": 8,
+  "median_seconds": 356.1,
+  "total_minutes_rounded": 294.4
+ },
+ "copilot": {
+  "score": 74.2,
+  "key": 576,
+  "found": 315,
+  "wrong": 19,
+  "found_with_possibles": 335,
+  "wrong_with_possibles": 43,
+  "counts_right": 4,
+  "lookups_right": 11,
+  "under_a_minute": 0,
+  "median_seconds": 310.5,
+  "total_minutes_rounded": 240.5,
+  "named_not_in_folder": 55
+ },
+ "chatgpt_minus_copilot": {
+  "range_95": [
+   4.0,
+   12.7
+  ],
+  "first_ahead_pct": 100.0
+ }
+}

@@ -82,7 +82,7 @@ function placeName(name, roster) {
 const lines = fs.readFileSync(IN, 'utf8').split('\n').filter(Boolean);
 const corpus = JSON.parse(lines.find((l) => l.startsWith('CORPUS ')).slice(7));
 const numOf = Object.fromEntries(corpus.order.map((r, i) => [r, i + 1]));
-const ROSTER = ['chatgpt', 'claude', 'notebooklm'].includes(corpus.system)   // prose answers (Claude's and NotebookLM's were read from run files marked 'chatgpt'; same path)
+const ROSTER = ['chatgpt', 'claude', 'notebooklm', 'copilot'].includes(corpus.system)   // prose answers (Claude's, NotebookLM's and Copilot's were read from run files marked 'chatgpt'; same path)
   ? corpus.files.map((f, i) => squashText(f) + ' ' + ((corpus.parties && corpus.parties[i]) || []).map(squashText).join(' '))
   : null;
 const answers = lines.filter((l) => l.startsWith('ANS ')).map((l) => JSON.parse(l.slice(4)));
