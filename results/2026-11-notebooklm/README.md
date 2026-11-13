@@ -31,13 +31,15 @@ with NotebookLM ahead in 73.8%. All six side by side, with Copilot Researcher: [
 
 ## How it was run
 
-- **The tool.** NotebookLM at notebook.google.com, which called itself Gemini Notebook, on a Google Workspace work account. The page showed a PRO badge and a limit of 300 sources. It does not show which model
+- **The tool.** NotebookLM at notebook.google.com, which called itself Gemini Notebook, on a Google Workspace work account. The page showed a PRO badge and a limit of 300 sources. It has no model menu and does not show which model
   answers. Run on 7 November 2026 (questions 1, 40 and 42) and 9 November 2026 (the rest and the two re-asks).
 - **Why NotebookLM.** Gemini was first asked two other ways, on the same account.
   - **The Gemini app** (gemini.google.com) with the Google Workspace connector can't be pointed at one folder. It often answered from other files on the account, said it had no access, or failed with an
-    error. On the plan the account had then, its strongest model allowed about two questions every few hours. It was stopped after 15 questions.
+    error. Its model menu offered 3.6 Flash (the default), 3.6 Thinking and 3.1 Pro; Gemini 4 Argon was not offered on that plan (the menu showed an
+    Upgrade button instead). It was run on 3.1 Pro, the strongest of the three, which allowed about two questions every few hours before Gemini
+    switched to Flash. It was stopped after 15 questions.
   - **Gemini in Drive**, asked from the shared drive itself, stayed with the contracts but read only a few files for each answer. On all 46 questions, re-asks included and scored the same way, it scored
-    41.0 and found 99 of the 576 contracts in the key.
+    41.0 and found 99 of the 576 contracts in the key. It has no model menu either.
   - **NotebookLM** answers from the documents added to it as sources, so it was given all 99. Its answers are the ones recorded here.
 - **The contracts.** One notebook, holding the benchmark's 99 PDFs and nothing else, added from the Google shared drive with the Drive picker. The picker takes 50 files at a time, so they went in as 50 and 49. Before
   every question the source list was checked: 99 sources, each title one of the 99.
